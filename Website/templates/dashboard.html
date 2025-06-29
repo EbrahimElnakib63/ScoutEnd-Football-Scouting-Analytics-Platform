@@ -1,0 +1,738 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Football Scouting System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/scout.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nice-select2@2.1.0/dist/css/nice-select2.css">
+    <script src="https://cdn.jsdelivr.net/npm/nice-select2@2.1.0/dist/js/nice-select2.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="icon" href="/static/imgs/Main/logo.png">
+
+</head>
+<body>
+    <div class="flash-messages">
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="flash-message {{ category }}">
+                        <i class="fas {% if category == 'error' %}fa-exclamation-circle{% else %}fa-check-circle{% endif %}"></i>
+                        {{ message }}
+                        <span class="close-btn" style="cursor: pointer;">&times;</span>
+                    </div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+    </div>
+    <div class="app-container">
+        <header class="main-header">
+            <div class="logo-container">
+                <img src="{{ url_for('static', filename='imgs/Main/logo.png') }}" alt="Football Scout Logo" class="logo">
+                <h1>Scoutend</h1>
+
+                <div class="theme-toggle">
+                    <input type="checkbox" id="theme-switch" class="theme-switch">
+                    <label for="theme-switch" class="theme-switch-label">
+                        <i class="fas fa-sun"></i>
+                        <i class="fas fa-moon"></i>
+                        <span class="ball"></span>
+                    </label>
+                </div>
+            </div>
+            <div class="auth-links">
+                {% if session.get('user') %}
+                    <span class="welcome-text">Welcome, {{ session.get('user').email}}</span>
+                    <a href="{{ url_for('logout') }}" class="auth-link"><i class="fas fa-sign-out-alt"></i> Logout</a>
+                {% else %}
+                    <a href="{{ url_for('login') }}" class="auth-link"><i class="fas fa-sign-in-alt"></i> Login</a>
+                    <a href="{{ url_for('signup') }}" class="auth-link"><i class="fas fa-user-plus"></i> Sign Up</a>
+                {% endif %}
+            </div>
+        </header>
+
+        <nav class="main-nav">
+            <ul>
+                <li><a href="#dashboard" class="nav-link active" data-section="dashboard">
+                    <i class="fas fa-chart-line"></i> Dashboard
+                </a></li>
+                <li><a href="#player-scout" class="nav-link" data-section="player-scout">
+                    <i class="fas fa-user-magnifying-glass"></i> Player Scout
+                </a></li>
+                <li><a href="#team-builder" class="nav-link" data-section="team-builder">
+                    <i class="fas fa-people-group"></i> Team Builder
+                </a></li>
+                <li><a href="#player-comparison" class="nav-link" data-section="player-comparison">
+                    <i class="fas fa-code-compare"></i> Player Comparison
+                </a></li>
+                <li><a href="#youth-talent" class="nav-link" data-section="youth-talent">
+                    <i class="fas fa-child"></i> Youth Talent
+                </a></li>
+                <li><a href="#team-chemistry" class="nav-link" data-section="team-chemistry">
+                    <i class="fas fa-flask"></i> Team Chemistry
+                </a></li>
+            </ul>
+        </nav>
+
+        <main class="main-content">
+            <!-- Dashboard Section -->
+            <section id="dashboard" class="section active">
+                <div class="section-header">
+                    <h2><i class="fas fa-chart-line"></i> Dashboard</h2>
+                    <p>Overview of key player statistics and predictions</p>
+                </div>
+                
+                <div class="grid-row">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3>Top Predicted Goals 2025</h3>
+                        </div>
+                        <div class="card-body">
+                            <div id="top-goals-chart" class="chart-container"></div>
+                        </div>
+                    </div>
+                    
+                    <div class="card">
+                        <div class="card-header">
+                            <h3>Top Predicted Assists 2025</h3>
+                        </div>
+                        <div class="card-body">
+                            <div id="top-assists-chart" class="chart-container"></div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="grid-row">
+                    <div class="card full-width">
+                        <div class="card-header">
+                            <h3>Performance Predictions by Position</h3>
+                        </div>
+                        <div class="card-body">
+                            <div id="position-predictions-chart" class="chart-container"></div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="grid-row">
+                    <div class="card full-width">
+                        <div class="card-header">
+                            <h3>Rising Stars</h3>
+                        </div>
+                        <div class="card-body">
+                            <div id="rising-stars" class="player-cards-grid"></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+            <!-- Player Scout Section -->
+            <section id="player-scout" class="section">
+                <div class="section-header">
+                    <h2><i class="fas fa-user-magnifying-glass"></i> Player Scout</h2>
+                    <p>Analyze individual player statistics and performance</p>
+                </div>
+                
+                <div class="card">
+                    <div class="card-body">
+                        <div class="form-group">
+                            <label for="player-search">Select a player:</label>
+                            <select id="player-search">
+                                <option value="">Start typing to search</option>
+                                {% for player in player_names %}
+                                <option value="{{ player }}">{{ player }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="player-info-container" class="hidden">
+                    <div class="grid-row">
+                        <div class="card full-width">
+                            <div class="card-header">
+                                <h3>Player Profile</h3>
+                            </div>
+                            <div class="card-body">
+                                <div id="player-info" class="player-profile"></div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="grid-row">
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>Performance Stats</h3>
+                            </div>
+                            <div class="card-body">
+                                <div id="performance-stats" class="stats-grid"></div>
+                            </div>
+                        </div>
+                        <div class="card double-width">
+                            <div class="card-header">
+                                <h3>Radar Analytics</h3>
+                            </div>
+                            <div class="card-body">
+                                <div id="radar-chart" class="chart-container"></div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="grid-row">
+                        <div class="card full-width">
+                            <div class="card-header">
+                                <h3>Similar Players</h3>
+                            </div>
+                            <div class="card-body">
+                                <div id="similar-players" class="similar-players-container"></div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="grid-row">
+                        <div class="card full-width">
+                            <div class="card-header">
+                                <h3>AI Scouting Report</h3>
+                            </div>
+                            <div class="card-body">
+                                <button id="generate-report-btn" class="btn btn-primary">
+                                    <i class="fas fa-robot"></i> Generate Scouting Report
+                                </button>
+                                <div id="scouting-report" class="markdown-content mt-4"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+            <!-- Team Builder Section -->
+            <section id="team-builder" class="section">
+                <div class="section-header">
+                    <h2><i class="fas fa-people-group"></i> Team Builder</h2>
+                    <p>Find the perfect players for your team's style and needs</p>
+                </div>
+                
+                <div class="">
+                    <div class="card" style="height: fit-content;">
+                        <div class="card-header">
+                            <h3>Team Requirements</h3>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label for="game-style">Game style:</label>
+                                <div class="select-wrapper">
+                                    <select id="game-style" class="form-select">
+                                        <option value="Tiki-Taka">Tiki-Taka</option>
+                                        <option value="Counter-Attack">Counter-Attack</option>
+                                        <option value="High Press">High Press</option>
+                                        <option value="Direct Play">Direct Play</option>
+                                        <option value="Pragmatic Possession">Pragmatic Possession</option>
+                                        <option value="Reactive">Reactive</option>
+                                        <option value="Physical and Defensive">Physical and Defensive</option>
+                                        <option value="Positional Play">Positional Play</option>
+                                        <option value="Catenaccio">Catenaccio</option>
+                                        <option value="Long Ball">Long Ball</option>
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="player-experience">Player type:</label>
+                                <div class="select-wrapper">
+                                    <select id="player-experience" class="form-select">
+                                        <option value="Veteran">Veteran</option>
+                                        <option value="Experienced">Experienced</option>
+                                        <option value="Young">Young</option>
+                                        <option value="Promising">Promising</option>
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="league">League:</label>
+                                <div class="select-wrapper">
+                                    <select id="league" class="form-select">
+                                        <option value="Serie A">Serie A</option>
+                                        <option value="Ligue 1">Ligue 1</option>
+                                        <option value="Premier League">Premier League</option>
+                                        <option value="Bundesliga">Bundesliga</option>
+                                        <option value="La Liga">La Liga</option>
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="general-position">Position:</label>
+                                <div class="select-wrapper">
+                                    <select id="general-position" class="form-select">
+                                        <option value="">Any Position</option>
+                                        {% for position in all_positions %}
+                                        <option value="{{ position }}">{{ position }}</option>
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="nation">Nation:</label>
+                                <div class="select-wrapper">
+                                    <select id="nation" class="form-select">
+                                        <option value="">Any Nation</option>
+                                        {% for nation in all_nations %}
+                                        <option value="{{ nation }}">{{ nation }}</option>
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="preferred-foot">Preferred Foot:</label>
+                                <div class="select-wrapper">
+                                    <select id="preferred-foot" class="form-select">
+                                        <option value="">Any Foot</option>
+                                        {% for foot in all_feet %}
+                                        <option value="{{ foot }}">{{ foot }}</option>
+                                        {% endfor %}
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="market-value-range">Market Value Range: <span id="market-value-min">{{ market_min }}</span> - <span id="market-value-max">{{ market_max }}</span> million</label>
+                                <div class="range-container">
+                                    <input type="range" id="market-value-min-range" class="range-slider" min="{{ market_min }}" max="{{ market_max }}" value="{{ market_min }}" step="0.5">
+                                    <input type="range" id="market-value-max-range" class="range-slider" min="{{ market_min }}" max="{{ market_max }}" value="{{ market_max }}" step="0.5">
+                                </div>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="player-skills">Player skills:</label>
+                                <div class="multi-select-container">
+                                    <select id="player-skills" class="form-select" multiple>
+                                        <option value="Key Passing">Key Passing</option>
+                                        <option value="Dribbling">Dribbling</option>
+                                        <option value="Speed">Speed</option>
+                                        <option value="Shooting">Shooting</option>
+                                        <option value="Defending">Defending</option>
+                                        <option value="Aerial Ability">Aerial Ability</option>
+                                        <option value="Tackling">Tackling</option>
+                                        <option value="Vision">Vision</option>
+                                        <option value="Long Passing">Long Passing</option>
+                                        <option value="Agility">Agility</option>
+                                        <option value="Strength">Strength</option>
+                                        <option value="Ball Control">Ball Control</option>
+                                        <option value="Positioning">Positioning</option>
+                                        <option value="Finishing">Finishing</option>
+                                        <option value="Crossing">Crossing</option>
+                                        <option value="Marking">Marking</option>
+                                        <option value="Work Rate">Work Rate</option>
+                                        <option value="Stamina">Stamina</option>
+                                        <option value="Free Kicks">Free Kicks</option>
+                                        <option value="Leadership">Leadership</option>
+                                    </select>
+                                    <div class="selected-options" id="selected-skills"></div>
+                                </div>
+                                <p class="form-hint">Click to select multiple skills</p>
+                            </div>
+                            
+                            <button id="team-builder-submit" class="btn btn-primary">
+                                <i class="fas fa-search"></i> Find Best Players
+                            </button>
+                        </div>
+                    </div>
+                    
+                    <div class="card double-width">
+                        <div class="card-header">
+                            <h3>Recommendation Report</h3>
+                        </div>
+                        <div class="card-body">
+                            <div id="selected-options" class="hidden mb-4"></div>
+                            
+                            <div id="team-builder-report" class="recommendation-report">
+                                <div class="table-container">
+                                    <!-- Table content will be inserted here by JavaScript -->
+                                </div>
+                            </div>
+                            
+                            <div id="recommended-player-info" class="hidden mt-4">
+                                <h3 class="card-subtitle">Recommended Player Profile</h3>
+                                <div id="recommended-player-details" class="recommended-player"></div>
+                            </div>
+                            
+                            <div id="filtered-players" class="hidden mt-4">
+                                <h3 class="card-subtitle">Top Matching Players</h3>
+                                <div id="filtered-players-list" class="filtered-players-grid"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+            <!-- Player Comparison Section -->
+            <section id="player-comparison" class="section">
+                <div class="section-header">
+                    <h2><i class="fas fa-code-compare"></i> Player Comparison</h2>
+                    <p>Compare statistics and performance between players</p>
+                </div>
+                
+                <div class="card">
+                    <div class="card-body">
+                        <div class="comparison-grid">
+                            <div class="comparison-item">
+                                <div class="form-group">
+                                    <label for="player1">Player 1:</label>
+                                    <div class="select-wrapper">
+                                        <select id="player1" class="form-select">
+                                            <option value="">Select a player</option>
+                                            {% for player in player_names %}
+                                            <option value="{{ player }}">{{ player }}</option>
+                                            {% endfor %}
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="comparison-item">
+                                <div class="form-group">
+                                    <label for="player2">Player 2:</label>
+                                    <div class="select-wrapper">
+                                        <select id="player2" class="form-select">
+                                            <option value="">Select a player</option>
+                                            {% for player in player_names %}
+                                            <option value="{{ player }}">{{ player }}</option>
+                                            {% endfor %}
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="comparison-item">
+                                <div class="form-group">
+                                    <label for="player3">Player 3 (Optional):</label>
+                                    <div class="select-wrapper">
+                                        <select id="player3" class="form-select">
+                                            <option value="None">None</option>
+                                            {% for player in player_names %}
+                                            <option value="{{ player }}">{{ player }}</option>
+                                            {% endfor %}
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="form-group mt-4">
+                            <button id="compare-players-btn" class="btn btn-primary">
+                                <i class="fas fa-chart-bar"></i> Compare Players
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="comparison-results" class="hidden mt-4">
+                    <div class="grid-row">
+                        <div class="card full-width">
+                            <div class="card-header">
+                                <h3>Side-by-Side Statistics</h3>
+                            </div>
+                            <div class="card-body">
+                                <div id="comparison-table">
+                                    <div class="table-container">
+                                        <!-- Table content will be inserted here by JavaScript -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="grid-row">
+                        <div class="card full-width">
+                            <div class="card-header">
+                                <h3>Head-to-Head Analysis</h3>
+                            </div>
+                            <div class="card-body">
+                                <div id="comparison-differences"></div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="grid-row">
+                        <div class="card full-width">
+                            <div class="card-header">
+                                <h3>Interactive Radar Chart</h3>
+                            </div>
+                            <div class="card-body">
+                                <div id="comparison-radar" class="chart-container"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+            <!-- Youth Talent Scout Section -->
+            <section id="youth-talent" class="section">
+                <div class="section-header">
+                    <h2><i class="fas fa-child"></i> Youth Talent Scout</h2>
+                    <p>Discover promising young players for future development</p>
+                </div>
+                
+                <div class="talent-grid">
+                    <div class="talent-filters">
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>Talent Filters</h3>
+                            </div>
+                            <div class="card-body">
+                                <div class="form-group">
+                                    <label for="max-age">Maximum Age: <span id="max-age-value">23</span></label>
+                                    <input type="range" id="max-age" class="range-slider" min="16" max="30" value="23">
+                                </div>
+                                
+                                <div class="form-group">
+                                    <label for="positions">Positions:</label>
+                                    <div class="multi-select-container">
+                                        <select id="positions" class="form-select" multiple>
+                                            <option value="GK">GK</option>
+                                            <option value="DF">DF</option>
+                                            <option value="MF">MF</option>
+                                            <option value="FW">FW</option>
+                                        </select>
+                                        <div class="selected-options" id="selected-positions"></div>
+                                    </div>
+                                    <p class="form-hint">Click to select multiple positions</p>
+                                </div>
+                                
+                                <div class="form-group">
+                                    <label for="youth-league-filter">League (Optional):</label>
+                                    <div class="select-wrapper">
+                                        <select id="youth-league-filter" class="form-select">
+                                            <option value="">All Leagues</option>
+                                            <option value="Serie A">Serie A</option>
+                                            <option value="Ligue 1">Ligue 1</option>
+                                            <option value="Premier League">Premier League</option>
+                                            <option value="Bundesliga">Bundesliga</option>
+                                            <option value="La Liga">La Liga</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                
+                                <div class="form-group">
+                                    <label for="min-goals">Minimum Goals: <span id="min-goals-value">0</span></label>
+                                    <input type="range" id="min-goals" class="range-slider" min="0" max="30" value="0">
+                                </div>
+                                
+                                <div class="form-group">
+                                    <label for="min-assists">Minimum Assists: <span id="min-assists-value">0</span></label>
+                                    <input type="range" id="min-assists" class="range-slider" min="0" max="20" value="0">
+                                </div>
+                                
+                                <div class="form-group">
+                                    <label for="min-predicted-goals">Minimum Predicted Goals 2025: <span id="min-predicted-goals-value">0</span></label>
+                                    <input type="range" id="min-predicted-goals" class="range-slider" min="0" max="30" value="0">
+                                </div>
+                                
+                                <div class="form-group">
+                                    <label for="min-predicted-assists">Minimum Predicted Assists 2025: <span id="min-predicted-assists-value">0</span></label>
+                                    <input type="range" id="min-predicted-assists" class="range-slider" min="0" max="20" value="0">
+                                </div>
+                                
+                                <div class="form-group">
+                                    <label for="sort-by">Sort By:</label>
+                                    <div class="select-wrapper">
+                                        <select id="sort-by" class="form-select">
+                                            <option value="age">Age (Youngest First)</option>
+                                            <option value="Performance_Gls">Goals (Highest First)</option>
+                                            <option value="Performance_Ast">Assists (Highest First)</option>
+                                            <option value="predicted_goals_ensemble_2025">Predicted Goals 2025 (Highest First)</option>
+                                            <option value="predicted_assists_ensemble_2025">Predicted Assists 2025 (Highest First)</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                
+                                <button id="find-talents-btn" class="btn btn-primary">
+                                    <i class="fas fa-search"></i> Find Talents
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="talent-results">
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>Talent Results</h3>
+                                <div class="display-mode">
+                                    <label class="radio-label">
+                                        <input type="radio" name="display-mode" value="table" checked>
+                                        <span class="radio-custom"></span>
+                                        Table View
+                                    </label>
+                                    <label class="radio-label">
+                                        <input type="radio" name="display-mode" value="card">
+                                        <span class="radio-custom"></span>
+                                        Card View
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="card-body">
+                                <div id="talents-results">
+                                    <div class="table-container">
+                                        <!-- Table content will be inserted here by JavaScript -->
+                                    </div>
+                                </div>
+                                
+                                <h3 class="card-subtitle mt-5">Hidden Gems</h3>
+                                <p>Players with high predicted performance but lower current stats</p>
+                                <div id="hidden-gems">
+                                    <div class="table-container">
+                                        <!-- Table content will be inserted here by JavaScript -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+            <!-- Team Chemistry Section -->
+            <section id="team-chemistry" class="section">
+                <div class="section-header">
+                    <h2><i class="fas fa-flask"></i> Team Chemistry</h2>
+                    <p>Analyze team composition and player relationships</p>
+                </div>
+                
+                <div class="card">
+                    <div class="card-body">
+                        <div class="form-group">
+                            <label for="team-select">Select a Team:</label>
+                            <div class="select-wrapper">
+                                <select id="team-select" class="form-select">
+                                    <option value="">Select a team</option>
+                                    {% for team in all_teams %}
+                                    <option value="{{ team }}">{{ team }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="team-chemistry-results" class="hidden mt-4">
+                    <div class="grid-row">
+                        <div class="card full-width">
+                            <div class="card-header">
+                                <h3>Team Squad</h3>
+                            </div>
+                            <div class="card-body">
+                                <div id="team-players">
+                                    <div class="table-container">
+                                        <!-- Table content will be inserted here by JavaScript -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="grid-row">
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>Nationality Connections</h3>
+                            </div>
+                            <div class="card-body">
+                                <div id="nation-chart" class="chart-container"></div>
+                            </div>
+                        </div>
+                        
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>Position Balance</h3>
+                            </div>
+                            <div class="card-body">
+                                <div id="position-chart" class="chart-container"></div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="grid-row">
+                        <div class="card full-width">
+                            <div class="card-header">
+                                <h3>Players with Shared Nationalities</h3>
+                            </div>
+                            <div class="card-body">
+                                <div id="shared-nationalities">
+                                    <div class="table-container">
+                                        <!-- Table content will be inserted here by JavaScript -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="grid-row" style="display: none;">
+                        <div class="card full-width">
+                            <div class="card-header">
+                                <h3>Player Compatibility Analysis</h3>
+                            </div>
+                            <div class="card-body">
+                                <div class="form-group">
+                                    <label for="compatibility-player">Select a Player:</label>
+                                    <div class="select-wrapper">
+                                        <select id="compatibility-player" class="form-select">
+                                            <option value="">Select a player</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div id="player-compatibility" class="hidden mt-4">
+                                    <h4>Compatibility for <span id="compatibility-player-name"></span></h4>
+                                    
+                                    <div class="compatibility-grid">
+                                        <div class="card inner-card">
+                                            <div class="card-header">
+                                                <h5>Nationality Compatibility</h5>
+                                            </div>
+                                            <div class="card-body">
+                                                <div id="nationality-compatibility">
+                                                    <div class="table-container">
+                                                        <!-- Table content will be inserted here by JavaScript -->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        
+                                        <div class="card inner-card">
+                                            <div class="card-header">
+                                                <h5>Position Compatibility</h5>
+                                            </div>
+                                            <div class="card-body">
+                                                <div id="position-compatibility">
+                                                    <div class="table-container">
+                                                        <!-- Table content will be inserted here by JavaScript -->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <h3 class="card-subtitle mt-5">Potential Transfer Targets</h3>
+                                    <div id="potential-targets">
+                                        <div class="table-container">
+                                            <!-- Table content will be inserted here by JavaScript -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <footer class="main-footer">
+            <p>&copy; 2025 Scoutend. All rights reserved.</p>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

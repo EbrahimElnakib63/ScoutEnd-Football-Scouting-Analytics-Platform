@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description">
+    <title>Club Page</title>
+    <link rel="stylesheet" href="/static/css/clubs.css">
+    <link rel="stylesheet" href="/static/css/Loading.css">
+    <link rel="icon" href="/static/imgs/Main/logo.png">
+
+</head>
+
+<body>
+    <section class="container">
+        <header>
+            <ul>
+                <li><a class="headerlink" href="{{ url_for('index') }}">Home</a></li>
+                <!-- <li><a class="headerlink" href="Scout.html">Scout</a></li> -->
+                <li><a class="headerlink" href="{{ url_for('filter') }}">Players</a></li>
+                <li><a class="headerlink activelink" href="{{ url_for('clubs') }}">Clubs</a></li>
+                <li><a class="headerlink" href="{{ url_for('dashboard') }}">Scout</a></li>
+            </ul>
+        </header>
+        <section class="main-content">
+            <section class="landing-txt">
+                <h1>Club Ratings Reveal</h1>
+                <p>
+                    Explore the complete Ratings and PlayStyles for the Clubs
+                    available in Our Scouting App
+                </p>
+            </section>
+        </section>
+        <section class="filters">
+            <label for="season">Season:</label>
+            <select id="season">
+                <option value="">Select Season</option>
+            </select>
+
+            <label for="league">League:</label>
+            <select id="league">
+                <option value="">Select League</option>
+            </select>
+        </section>
+
+        <!-- Loading Overlay -->
+        <section id="loading-overlay">
+            <section class="loading-content">
+                <section class="loading-spinner"></section>
+                <section class="loading-text">
+                    <span>Loading</span>
+                    <span class="loading-dots">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </span>
+                </section>
+            </section>
+        </section>
+
+        <section id="club-list" class="club-list">
+        </section>
+    </section>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <script src="/static/js/clubs.js"></script>
+    <script src="/static/js/Loading.js"></script>
+</body>
+
+</html>

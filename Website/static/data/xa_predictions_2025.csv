@@ -1,0 +1,2650 @@
+player,team,league,pos,is_FW,is_MF,is_DF,Performance_Ast,Expected_xA,predicted_assists_ensemble_2025
+Ben White,Arsenal,ENG-Premier League,DF,0,0,1,4.0,3.7,3.1442297006221405
+Bukayo Saka,Arsenal,ENG-Premier League,FW,1,0,0,9.0,11.0,7.295676656841467
+Cédric Soares,Arsenal,ENG-Premier League,DF,0,0,1,0.0,0.0,0.49475778392577596
+Declan Rice,Arsenal,ENG-Premier League,MF,0,1,0,8.0,4.8,6.063250647367626
+Eddie Nketiah,Arsenal,ENG-Premier League,FW,1,0,0,2.0,0.7,1.9371110601653299
+Emile Smith Rowe,Arsenal,ENG-Premier League,MF,0,1,0,1.0,0.4,2.4
+Ethan Nwaneri,Arsenal,ENG-Premier League,FW,1,0,0,0.0,0.0,1.2
+Fabio Vieira,Arsenal,ENG-Premier League,FW,1,0,0,2.0,0.8,1.4177827788977622
+Gabriel Jesus,Arsenal,ENG-Premier League,FW,1,0,0,5.0,3.2,3.647137120520944
+Gabriel Magalhães,Arsenal,ENG-Premier League,DF,0,0,1,0.0,0.7,1.2
+Gabriel Martinelli,Arsenal,ENG-Premier League,FW,1,0,0,4.0,5.2,5.378920971897788
+Jakub Kiwior,Arsenal,ENG-Premier League,DF,0,0,1,3.0,0.6,0.7715751301368411
+Jorginho,Arsenal,ENG-Premier League,MF,0,1,0,2.0,2.1,1.2625708296196865
+Jurriën Timber,Arsenal,ENG-Premier League,DF,0,0,1,0.0,0.0,1.2
+Kai Havertz,Arsenal,ENG-Premier League,FW,1,0,0,7.0,4.3,4.925999245783169
+Leandro Trossard,Arsenal,ENG-Premier League,MF,0,1,0,1.0,3.2,6.0
+Martin Ødegaard,Arsenal,ENG-Premier League,MF,0,1,0,10.0,11.2,8.880422708088208
+Mohamed Elneny,Arsenal,ENG-Premier League,MF,0,1,0,0.0,0.0,0.564059113765295
+Oleksandr Zinchenko,Arsenal,ENG-Premier League,DF,0,0,1,2.0,2.9,2.324780877960114
+Reiss Nelson,Arsenal,ENG-Premier League,FW,1,0,0,0.0,0.4,1.2
+Takehiro Tomiyasu,Arsenal,ENG-Premier League,DF,0,0,1,1.0,0.8,1.05703092391788
+Thomas Partey,Arsenal,ENG-Premier League,DF,0,0,1,0.0,0.6,2.4
+William Saliba,Arsenal,ENG-Premier League,DF,0,0,1,1.0,0.9,0.7791771161773573
+Bertrand Traoré,Aston Villa,ENG-Premier League,FW,1,0,0,0.0,0.0,0.4607304006513609
+Boubacar Kamara,Aston Villa,ENG-Premier League,MF,0,1,0,1.0,1.4,1.1278938045982425
+Calum Chambers,Aston Villa,ENG-Premier League,DF,0,0,1,1.0,0.0,0.29186650024078054
+Cameron Archer,Aston Villa,ENG-Premier League,MF,0,1,0,0.0,0.0,0.5729979083780279
+Clément Lenglet,Aston Villa,ENG-Premier League,DF,0,0,1,1.0,0.5,1.2
+Diego Carlos,Aston Villa,ENG-Premier League,DF,0,0,1,0.0,0.4,0.4097233821651153
+Douglas Luiz,Aston Villa,ENG-Premier League,MF,0,1,0,5.0,5.3,3.9021190733738766
+Ezri Konsa,Aston Villa,ENG-Premier League,DF,0,0,1,0.0,1.0,1.1123853416271308
+Finley Munroe,Aston Villa,ENG-Premier League,MF,0,1,0,0.0,0.0,0.31172725721872685
+Jacob Ramsey,Aston Villa,ENG-Premier League,MF,0,1,0,1.0,1.4,3.5999999999999996
+Jaden Philogene Bidace,Aston Villa,ENG-Premier League,FW,1,0,0,0.0,0.0,0.3120882482100854
+John McGinn,Aston Villa,ENG-Premier League,FW,1,0,0,4.0,4.9,6.115061662162532
+Jáder Durán,Aston Villa,ENG-Premier League,MF,0,1,0,0.0,0.2,0.6618536719392633
+Kaine Kesler-Hayden,Aston Villa,ENG-Premier League,DF,0,0,1,0.0,0.0,0.3769802714059541
+Leander Dendoncker,Aston Villa,ENG-Premier League,MF,0,1,0,0.0,0.0,0.5913196806664709
+Leon Bailey,Aston Villa,ENG-Premier League,FW,1,0,0,9.0,7.3,5.918008905794819
+Lucas Digne,Aston Villa,ENG-Premier League,DF,0,0,1,3.0,3.6,4.8
+Matty Cash,Aston Villa,ENG-Premier League,DF,0,0,1,2.0,2.5,1.8048916530583998
+Morgan Rogers,Aston Villa,ENG-Premier League,FW,1,0,0,1.0,0.4,4.8
+Moussa Diaby,Aston Villa,ENG-Premier League,MF,0,1,0,8.0,4.5,4.311730974622016
+Nicolò Zaniolo,Aston Villa,ENG-Premier League,MF,0,1,0,0.0,0.7,1.0748970168465153
+Ollie Watkins,Aston Villa,ENG-Premier League,FW,1,0,0,13.0,4.2,7.199999999999999
+Omari Kellyman,Aston Villa,ENG-Premier League,FW,1,0,0,0.0,0.0,0.2775235151646465
+Pau Torres,Aston Villa,ENG-Premier League,DF,0,0,1,0.0,0.7,0.8522256822456644
+Philippe Coutinho,Aston Villa,ENG-Premier League,FW,1,0,0,0.0,0.0,0.6873812314173933
+Tim Iroegbunam,Aston Villa,ENG-Premier League,MF,0,1,0,0.0,0.0,1.2
+Tyrone Mings,Aston Villa,ENG-Premier League,DF,0,0,1,0.0,0.2,1.0384588082016264
+Youri Tielemans,Aston Villa,ENG-Premier League,FW,1,0,0,6.0,2.2,4.8
+Álex Moreno,Aston Villa,ENG-Premier League,DF,0,0,1,0.0,1.0,1.487768356054309
+Adam Smith,Bournemouth,ENG-Premier League,DF,0,0,1,2.0,1.7,1.0568097286128255
+Alex Scott,Bournemouth,ENG-Premier League,MF,0,1,0,1.0,1.1,1.3141077807625459
+Antoine Semenyo,Bournemouth,ENG-Premier League,FW,1,0,0,2.0,2.3,4.8
+Chris Mepham,Bournemouth,ENG-Premier League,DF,0,0,1,1.0,0.5,0.5521727439799269
+Dango Ouattara,Bournemouth,ENG-Premier League,DF,0,0,1,2.0,1.4,4.8
+David Brooks,Bournemouth,ENG-Premier League,MF,0,1,0,1.0,0.5,0.4606020471092738
+Dominic Sadi,Bournemouth,ENG-Premier League,FW,1,0,0,0.0,0.0,0.382879584873237
+Dominic Solanke,Bournemouth,ENG-Premier League,FW,1,0,0,3.0,2.0,3.5999999999999996
+Enes Ünal,Bournemouth,ENG-Premier League,MF,0,1,0,2.0,0.1,1.2
+Hamed Junior Traorè,Bournemouth,ENG-Premier League,MF,0,1,0,0.0,0.0,2.4
+Illia Zabarnyi,Bournemouth,ENG-Premier League,DF,0,0,1,0.0,0.6,0.308638580820224
+Jaidon Anthony,Bournemouth,ENG-Premier League,FW,1,0,0,0.0,0.0,0.7047257750211218
+James Hill,Bournemouth,ENG-Premier League,DF,0,0,1,0.0,0.0,1.2
+Joe Rothwell,Bournemouth,ENG-Premier League,MF,0,1,0,0.0,0.2,0.6564390638955495
+Justin Kluivert,Bournemouth,ENG-Premier League,FW,1,0,0,1.0,1.6,6.0
+Kieffer Moore,Bournemouth,ENG-Premier League,MF,0,1,0,0.0,0.3,0.3951624084575349
+Lewis Cook,Bournemouth,ENG-Premier League,MF,0,1,0,3.0,3.0,1.8066588100377903
+Lloyd Kelly,Bournemouth,ENG-Premier League,DF,0,0,1,1.0,0.8,0.6765912566978638
+Luis Sinisterra,Bournemouth,ENG-Premier League,MF,0,1,0,2.0,1.1,2.1396364362956826
+Marcos Senesi,Bournemouth,ENG-Premier League,DF,0,0,1,5.0,2.5,1.1606684225042736
+Marcus Tavernier,Bournemouth,ENG-Premier League,FW,1,0,0,4.0,4.2,6.0
+Max Aarons,Bournemouth,ENG-Premier League,DF,0,0,1,1.0,0.9,0.8356102916819508
+Milos Kerkez,Bournemouth,ENG-Premier League,DF,0,0,1,1.0,1.0,4.8
+Philip Billing,Bournemouth,ENG-Premier League,MF,0,1,0,2.0,2.1,1.438877162633453
+Romain Faivre,Bournemouth,ENG-Premier League,FW,1,0,0,0.0,0.0,2.4
+Ryan Christie,Bournemouth,ENG-Premier League,MF,0,1,0,5.0,5.4,4.906484045643726
+Tyler Adams,Bournemouth,ENG-Premier League,MF,0,1,0,0.0,0.0,3.5999999999999996
+Aaron Hickey,Brentford,ENG-Premier League,DF,0,0,1,0.0,0.1,0.7340166098481784
+Ben Mee,Brentford,ENG-Premier League,DF,0,0,1,0.0,0.7,0.722360494110188
+Bryan Mbeumo,Brentford,ENG-Premier League,FW,1,0,0,6.0,5.6,4.581772325439175
+Christian Nørgaard,Brentford,ENG-Premier League,MF,0,1,0,1.0,2.4,1.4511158592997453
+Ethan Pinnock,Brentford,ENG-Premier League,DF,0,0,1,0.0,0.8,0.6257084206432799
+Frank Onyeka,Brentford,ENG-Premier League,MF,0,1,0,2.0,1.4,0.8880589106352254
+Ivan Toney,Brentford,ENG-Premier League,FW,1,0,0,2.0,1.4,2.203043089831662
+Josh Dasilva,Brentford,ENG-Premier League,FW,1,0,0,0.0,0.2,1.155810782595131
+Keane Lewis-Potter,Brentford,ENG-Premier League,DF,0,0,1,1.0,2.0,1.9093604050379753
+Kevin Schade,Brentford,ENG-Premier League,MF,0,1,0,1.0,0.7,2.4
+Kristoffer Ajer,Brentford,ENG-Premier League,DF,0,0,1,1.0,2.7,0.9800130367244899
+Mads Roerslev,Brentford,ENG-Premier League,DF,0,0,1,2.0,1.4,1.1894458021493595
+Mathias Jensen,Brentford,ENG-Premier League,MF,0,1,0,3.0,4.8,3.1509344721650963
+Mathias Jørgensen,Brentford,ENG-Premier League,DF,0,0,1,0.0,0.5,0.24049371485449994
+Michael Olakigbe,Brentford,ENG-Premier League,FW,1,0,0,0.0,0.0,0.47874211071930306
+Mikkel Damsgaard,Brentford,ENG-Premier League,MF,0,1,0,2.0,0.9,12.0
+Myles Peart-Harris,Brentford,ENG-Premier League,MF,0,1,0,0.0,0.0,0.2999468863428997
+Nathan Collins,Brentford,ENG-Premier League,DF,0,0,1,1.0,1.1,0.6152261477874442
+Neal Maupay,Brentford,ENG-Premier League,FW,1,0,0,3.0,2.2,4.8
+Rico Henry,Brentford,ENG-Premier League,DF,0,0,1,1.0,0.8,1.358643160800156
+Saman Ghoddos,Brentford,ENG-Premier League,DF,0,0,1,0.0,1.0,0.6939568317284158
+Sergio Reguilón,Brentford,ENG-Premier League,DF,0,0,1,4.0,2.2,1.229765554207621
+Shandon Baptiste,Brentford,ENG-Premier League,MF,0,1,0,1.0,0.4,0.571501690990929
+Vitaly Janelt,Brentford,ENG-Premier League,DF,0,0,1,3.0,3.7,3.7355666623759736
+Yehor Yarmoliuk,Brentford,ENG-Premier League,MF,0,1,0,0.0,0.6,0.7795860396102501
+Yoane Wissa,Brentford,ENG-Premier League,FW,1,0,0,3.0,2.0,2.5415706412438577
+Adam Lallana,Brighton,ENG-Premier League,FW,1,0,0,1.0,2.0,1.0543077517683614
+Adam Webster,Brighton,ENG-Premier League,DF,0,0,1,0.0,0.3,0.3713610264779668
+Ansu Fati,Brighton,ENG-Premier League,FW,1,0,0,0.0,0.6,1.4252682313252452
+Benicio Boaitey,Brighton,ENG-Premier League,DF,0,0,1,0.0,0.1,0.27583367118593605
+Billy Gilmour,Brighton,ENG-Premier League,MF,0,1,0,1.0,2.5,1.5351931538304435
+Carlos Baleba,Brighton,ENG-Premier League,MF,0,1,0,0.0,0.3,1.2
+Danny Welbeck,Brighton,ENG-Premier League,MF,0,1,0,1.0,1.4,4.8
+Evan Ferguson,Brighton,ENG-Premier League,FW,1,0,0,0.0,0.8,1.19040788160613
+Facundo Buonanotte,Brighton,ENG-Premier League,MF,0,1,0,1.0,1.2,2.4
+Igor,Brighton,ENG-Premier League,DF,0,0,1,0.0,0.5,0.4086184915198802
+Jack Hinshelwood,Brighton,ENG-Premier League,DF,0,0,1,0.0,0.4,0.6786652589026025
+Jakub Moder,Brighton,ENG-Premier League,DF,0,0,1,0.0,0.8,0.8867886538329397
+James Milner,Brighton,ENG-Premier League,MF,0,1,0,2.0,1.7,1.500798357227546
+Jan Paul van Hecke,Brighton,ENG-Premier League,DF,0,0,1,0.0,1.1,0.5103501840418585
+João Pedro,Brighton,ENG-Premier League,MF,0,1,0,3.0,4.7,7.199999999999999
+Joël Veltman,Brighton,ENG-Premier League,DF,0,0,1,1.0,0.6,0.9739141487391088
+Julio Enciso,Brighton,ENG-Premier League,FW,1,0,0,2.0,1.3,1.1988951155826904
+Kaoru Mitoma,Brighton,ENG-Premier League,FW,1,0,0,4.0,3.6,4.901467047302221
+Lewis Dunk,Brighton,ENG-Premier League,DF,0,0,1,1.0,2.2,0.9719900321980889
+Mahmoud Dahoud,Brighton,ENG-Premier League,MF,0,1,0,1.0,0.4,1.2
+Mark O'Mahony,Brighton,ENG-Premier League,FW,1,0,0,0.0,0.0,0.26097039828735635
+Odeluga Offiah,Brighton,ENG-Premier League,DF,0,0,1,0.0,0.0,0.340550905016677
+Pascal Groß,Brighton,ENG-Premier League,DF,0,0,1,10.0,9.2,10.000521410406872
+Pervis Estupiñán,Brighton,ENG-Premier League,DF,0,0,1,3.0,2.3,2.1943986869131553
+Simon Adingra,Brighton,ENG-Premier League,FW,1,0,0,1.0,3.5,3.225429030301588
+Solly March,Brighton,ENG-Premier League,DF,0,0,1,1.0,1.0,2.777986951939436
+Tariq Lamptey,Brighton,ENG-Premier League,FW,1,0,0,3.0,0.8,2.4
+Valentín Barco,Brighton,ENG-Premier League,FW,1,0,0,0.0,0.4,1.2
+Aaron Ramsey,Burnley,ENG-Premier League,FW,1,0,0,0.0,0.5,0.8507780863286686
+Ameen Al-Dakhil,Burnley,ENG-Premier League,DF,0,0,1,0.0,0.6,0.5263939065127529
+Anass Zaroury,Burnley,ENG-Premier League,MF,0,1,0,0.0,0.1,1.2
+Benson Manuel,Burnley,ENG-Premier League,FW,1,0,0,0.0,0.2,0.35133954717681243
+Charlie Taylor,Burnley,ENG-Premier League,DF,0,0,1,1.0,1.7,1.1686593475143123
+Connor Roberts,Burnley,ENG-Premier League,DF,0,0,1,1.0,0.4,0.7054143636346595
+Dara O'Shea,Burnley,ENG-Premier League,DF,0,0,1,4.0,1.0,0.6193163734762657
+David Datro Fofana,Burnley,ENG-Premier League,FW,1,0,0,1.0,0.3,0.7776212693436085
+Han-Noah Massengo,Burnley,ENG-Premier League,DF,0,0,1,0.0,0.0,0.5060354232853272
+Hannes Delcroix,Burnley,ENG-Premier League,DF,0,0,1,0.0,0.1,0.2886687562496897
+Hjalmar Ekdal,Burnley,ENG-Premier League,DF,0,0,1,0.0,0.0,0.24106764243304013
+Jack Cork,Burnley,ENG-Premier League,MF,0,1,0,0.0,0.0,0.3087030056949793
+Jacob Bruun Larsen,Burnley,ENG-Premier League,FW,1,0,0,0.0,1.8,2.0283956484458874
+Jay Rodriguez,Burnley,ENG-Premier League,FW,1,0,0,1.0,0.1,0.270369181165664
+Jordan Beyer,Burnley,ENG-Premier League,DF,0,0,1,1.0,0.2,0.3309940603589024
+Josh Brownhill,Burnley,ENG-Premier League,MF,0,1,0,2.0,2.1,1.6477361220495093
+Josh Cullen,Burnley,ENG-Premier League,MF,0,1,0,3.0,2.3,1.1792852654494177
+Jóhann Berg Guðmundsson,Burnley,ENG-Premier League,FW,1,0,0,3.0,2.5,1.0014910185232346
+Lorenz Assignon,Burnley,ENG-Premier League,DF,0,0,1,2.0,1.6,4.8
+Luca Koleosho,Burnley,ENG-Premier League,FW,1,0,0,1.0,1.1,1.6887009010101797
+Lyle Foster,Burnley,ENG-Premier League,MF,0,1,0,3.0,1.3,1.612275293231029
+Maxime Estève,Burnley,ENG-Premier League,DF,0,0,1,0.0,0.2,0.2838909258988372
+Michael Obafemi,Burnley,ENG-Premier League,MF,0,1,0,0.0,0.0,0.5632904077025297
+Mike Trésor,Burnley,ENG-Premier League,MF,0,1,0,0.0,0.5,0.5423546160588127
+Nathan Redmond,Burnley,ENG-Premier League,MF,0,1,0,0.0,0.4,1.3639407983068559
+Sander Berge,Burnley,ENG-Premier League,MF,0,1,0,2.0,1.6,1.299874098058495
+Vitinho,Burnley,ENG-Premier League,MF,0,1,0,2.0,1.2,1.4052022932977204
+Wilson Odobert,Burnley,ENG-Premier League,FW,1,0,0,2.0,3.6,1.9629136647142007
+Zeki Amdouni,Burnley,ENG-Premier League,FW,1,0,0,1.0,1.3,1.2597127824039813
+Alex Matos,Chelsea,ENG-Premier League,MF,0,1,0,0.0,0.0,0.37298973766585186
+Alfie Gilchrist,Chelsea,ENG-Premier League,DF,0,0,1,0.0,0.0,0.42229829353291803
+Armando Broja,Chelsea,ENG-Premier League,FW,1,0,0,0.0,0.3,0.8695715828960462
+Axel Disasi,Chelsea,ENG-Premier League,DF,0,0,1,0.0,1.0,1.0855668085209904
+Ben Chilwell,Chelsea,ENG-Premier League,DF,0,0,1,1.0,1.8,1.8128794760728222
+Benoît Badiashile,Chelsea,ENG-Premier League,DF,0,0,1,1.0,0.9,0.6043178751857201
+Carney Chukwuemeka,Chelsea,ENG-Premier League,FW,1,0,0,1.0,0.3,0.5938281094312579
+Cesare Casadei,Chelsea,ENG-Premier League,MF,0,1,0,0.0,0.1,1.2
+Christopher Nkunku,Chelsea,ENG-Premier League,MF,0,1,0,0.0,0.5,2.4
+Cole Palmer,Chelsea,ENG-Premier League,MF,0,1,0,11.0,8.7,11.39759428229617
+Conor Gallagher,Chelsea,ENG-Premier League,MF,0,1,0,7.0,3.5,3.6961387640994356
+Deivid Washington,Chelsea,ENG-Premier League,FW,1,0,0,0.0,0.0,0.45240436257561456
+Enzo Fernández,Chelsea,ENG-Premier League,MF,0,1,0,2.0,3.7,4.8
+Ian Maatsen,Chelsea,ENG-Premier League,MF,0,1,0,0.0,0.2,1.2
+Jimi Tauriainen,Chelsea,ENG-Premier League,FW,1,0,0,0.0,0.0,0.38180875901017514
+Joshua Acheampong,Chelsea,ENG-Premier League,DF,0,0,1,0.0,0.0,0.42147695614873737
+Lesley Ugochukwu,Chelsea,ENG-Premier League,MF,0,1,0,0.0,0.1,1.2
+Levi Colwill,Chelsea,ENG-Premier League,DF,0,0,1,1.0,0.5,1.2
+Malo Gusto,Chelsea,ENG-Premier League,DF,0,0,1,6.0,3.3,2.8022142225843605
+Marc Cucurella,Chelsea,ENG-Premier League,DF,0,0,1,2.0,1.2,1.2918255419554074
+Mason Burstow,Chelsea,ENG-Premier League,FW,1,0,0,0.0,0.0,0.3774208149357973
+Moisés Caicedo,Chelsea,ENG-Premier League,MF,0,1,0,3.0,2.0,2.7598007833818605
+Mykhailo Mudryk,Chelsea,ENG-Premier League,FW,1,0,0,2.0,3.2,3.358131433071148
+Nicolas Jackson,Chelsea,ENG-Premier League,FW,1,0,0,5.0,2.9,6.0
+Noni Madueke,Chelsea,ENG-Premier League,FW,1,0,0,2.0,2.0,3.5999999999999996
+Raheem Sterling,Chelsea,ENG-Premier League,MF,0,1,0,4.0,4.3,3.907396277576665
+Reece James,Chelsea,ENG-Premier League,DF,0,0,1,2.0,1.6,1.5401002931906504
+Roméo Lavia,Chelsea,ENG-Premier League,MF,0,1,0,0.0,0.0,1.2
+Thiago Silva,Chelsea,ENG-Premier League,DF,0,0,1,1.0,0.6,0.638346820428425
+Trevoh Chalobah,Chelsea,ENG-Premier League,DF,0,0,1,0.0,0.4,0.5017942795586432
+Adam Wharton,Crystal Palace,ENG-Premier League,MF,0,1,0,3.0,1.5,1.0958237944915066
+Cheick Doucouré,Crystal Palace,ENG-Premier League,MF,0,1,0,0.0,0.8,0.9941765456914455
+Chris Richards,Crystal Palace,ENG-Premier League,MF,0,1,0,1.0,0.2,0.3221844133468352
+Daniel Muñoz,Crystal Palace,ENG-Premier League,MF,0,1,0,4.0,1.3,4.8
+David Ozoh,Crystal Palace,ENG-Premier League,DF,0,0,1,0.0,0.0,1.1043554030808103
+Eberechi Eze,Crystal Palace,ENG-Premier League,FW,1,0,0,4.0,5.6,7.199999999999999
+James Tomkins,Crystal Palace,ENG-Premier League,DF,0,0,1,0.0,0.0,0.36179555402871283
+Jaïro Riedewald,Crystal Palace,ENG-Premier League,FW,1,0,0,0.0,0.1,0.44191272311210184
+Jean-Philippe Mateta,Crystal Palace,ENG-Premier League,FW,1,0,0,5.0,1.3,2.4
+Jefferson Lerma,Crystal Palace,ENG-Premier League,DF,0,0,1,1.0,2.0,1.6390340287361072
+Jeffrey Schlupp,Crystal Palace,ENG-Premier League,MF,0,1,0,2.0,1.4,1.0527655732624464
+Jesurun Rak Sakyi,Crystal Palace,ENG-Premier League,FW,1,0,0,0.0,0.1,0.45331482359207975
+Joachim Andersen,Crystal Palace,ENG-Premier League,DF,0,0,1,3.0,2.3,1.152845028892905
+Joel Ward,Crystal Palace,ENG-Premier League,DF,0,0,1,1.0,0.3,0.46623717663792386
+Jordan Ayew,Crystal Palace,ENG-Premier League,MF,0,1,0,7.0,2.7,2.948717381622279
+Marc Guéhi,Crystal Palace,ENG-Premier League,DF,0,0,1,1.0,1.0,2.4
+Matheus França,Crystal Palace,ENG-Premier League,FW,1,0,0,1.0,0.5,0.612141681332312
+Michael Olise,Crystal Palace,ENG-Premier League,MF,0,1,0,6.0,5.0,8.4
+Naouirou Ahamada,Crystal Palace,ENG-Premier League,FW,1,0,0,0.0,0.1,0.5706120631928742
+Nathaniel Clyne,Crystal Palace,ENG-Premier League,DF,0,0,1,0.0,0.2,0.44594710940152815
+Odsonne Édouard,Crystal Palace,ENG-Premier League,MF,0,1,0,0.0,1.1,1.7784207633147235
+Tyrick Mitchell,Crystal Palace,ENG-Premier League,MF,0,1,0,3.0,2.4,4.8
+Will Hughes,Crystal Palace,ENG-Premier League,MF,0,1,0,1.0,1.8,3.5999999999999996
+Abdoulaye Doucouré,Everton,ENG-Premier League,MF,0,1,0,1.0,1.5,1.6916558728105295
+Alex Iwobi,Everton,ENG-Premier League,MF,0,1,0,0.0,0.4,4.8
+Amadou Onana,Everton,ENG-Premier League,MF,0,1,0,0.0,1.4,1.1791274153663616
+André Gomes,Everton,ENG-Premier League,FW,1,0,0,0.0,0.5,0.9139660711093476
+Arnaut Danjuma,Everton,ENG-Premier League,FW,1,0,0,0.0,0.4,0.6142261548386997
+Ashley Young,Everton,ENG-Premier League,MF,0,1,0,0.0,1.4,3.5999999999999996
+Ben Godfrey,Everton,ENG-Premier League,DF,0,0,1,0.0,0.5,0.43452779496968474
+Beto,Everton,ENG-Premier League,FW,1,0,0,0.0,0.3,1.4172821987589854
+Dominic Calvert-Lewin,Everton,ENG-Premier League,FW,1,0,0,2.0,1.6,1.7508982969096891
+Dwight McNeil,Everton,ENG-Premier League,FW,1,0,0,6.0,8.2,4.80204254150865
+Idrissa Gana Gueye,Everton,ENG-Premier League,MF,0,1,0,0.0,0.8,2.4
+Jack Harrison,Everton,ENG-Premier League,FW,1,0,0,3.0,3.3,3.050848528187391
+James Garner,Everton,ENG-Premier League,MF,0,1,0,2.0,3.7,2.4558953260172354
+James Tarkowski,Everton,ENG-Premier League,DF,0,0,1,1.0,2.7,1.2057110531005995
+Jarrad Branthwaite,Everton,ENG-Premier League,DF,0,0,1,0.0,1.3,0.6246978855997449
+Lewis Dobbin,Everton,ENG-Premier League,MF,0,1,0,0.0,0.1,0.5332514231301428
+Lewis Warrington,Everton,ENG-Premier League,FW,1,0,0,0.0,0.0,0.4124677343132294
+Michael Keane,Everton,ENG-Premier League,DF,0,0,1,0.0,0.1,0.36287847741884843
+Nathan Patterson,Everton,ENG-Premier League,DF,0,0,1,2.0,1.0,0.8200791837537362
+Neal Maupay,Everton,ENG-Premier League,FW,1,0,0,0.0,0.0,4.8
+Séamus Coleman,Everton,ENG-Premier League,DF,0,0,1,0.0,0.7,0.49874334281745686
+Thomas Cannon,Everton,ENG-Premier League,FW,1,0,0,0.0,0.0,0.4671572129497946
+Tyler Onyango,Everton,ENG-Premier League,MF,0,1,0,0.0,0.0,0.45784355428424917
+Vitaliy Mykolenko,Everton,ENG-Premier League,DF,0,0,1,0.0,1.1,1.111828586320662
+Youssef Chermiti,Everton,ENG-Premier League,FW,1,0,0,0.0,0.3,0.41866981897645994
+Adama Traoré,Fulham,ENG-Premier League,MF,0,1,0,3.0,0.9,6.0
+Aleksandar Mitrović,Fulham,ENG-Premier League,FW,1,0,0,0.0,0.0,1.1666877893053962
+Alex Iwobi,Fulham,ENG-Premier League,MF,0,1,0,2.0,4.0,2.961413377188495
+Andreas Pereira,Fulham,ENG-Premier League,MF,0,1,0,7.0,5.7,4.319659771669274
+Antonee Robinson,Fulham,ENG-Premier League,DF,0,0,1,6.0,3.7,12.0
+Armando Broja,Fulham,ENG-Premier League,FW,1,0,0,1.0,0.0,0.5320954291667783
+Bobby Reid,Fulham,ENG-Premier League,FW,1,0,0,2.0,1.2,2.4
+Calvin Bassey,Fulham,ENG-Premier League,DF,0,0,1,0.0,0.2,0.39329242049367763
+Carlos Vinícius,Fulham,ENG-Premier League,FW,1,0,0,0.0,0.1,0.5585933693562976
+Fodé Ballo-Touré,Fulham,ENG-Premier League,MF,0,1,0,0.0,0.0,0.46445032387415097
+Harrison Reed,Fulham,ENG-Premier League,MF,0,1,0,2.0,1.5,0.9771760675691317
+Harry Wilson,Fulham,ENG-Premier League,FW,1,0,0,6.0,2.7,1.9411004400443093
+Issa Diop,Fulham,ENG-Premier League,DF,0,0,1,0.0,0.4,0.33730991726381687
+João Palhinha,Fulham,ENG-Premier League,MF,0,1,0,1.0,1.0,0.990582089469693
+Kenny Tete,Fulham,ENG-Premier League,DF,0,0,1,0.0,0.5,2.4
+Luke Harris,Fulham,ENG-Premier League,MF,0,1,0,0.0,0.0,0.33498831628470493
+Raúl Jiménez,Fulham,ENG-Premier League,FW,1,0,0,0.0,1.0,3.5999999999999996
+Rodrigo Muniz,Fulham,ENG-Premier League,FW,1,0,0,1.0,0.9,1.2485617015612658
+Saša Lukić,Fulham,ENG-Premier League,MF,0,1,0,0.0,0.5,2.4
+Tim Ream,Fulham,ENG-Premier League,DF,0,0,1,0.0,0.1,0.1875197562612509
+Timothy Castagne,Fulham,ENG-Premier League,DF,0,0,1,3.0,1.8,1.468814493090294
+Tom Cairney,Fulham,ENG-Premier League,MF,0,1,0,4.0,2.5,1.679355981136283
+Tosin Adarabioyo,Fulham,ENG-Premier League,DF,0,0,1,0.0,0.3,1.2
+Willian,Fulham,ENG-Premier League,FW,1,0,0,2.0,4.5,3.8261413755158964
+Alexis Mac Allister,Liverpool,ENG-Premier League,MF,0,1,0,5.0,4.9,5.710898832658166
+Andrew Robertson,Liverpool,ENG-Premier League,DF,0,0,1,2.0,4.4,4.272136030905093
+Ben Doak,Liverpool,ENG-Premier League,FW,1,0,0,0.0,0.0,0.2988717433911818
+Bobby Clark,Liverpool,ENG-Premier League,MF,0,1,0,0.0,0.0,0.44802996417273244
+Cody Gakpo,Liverpool,ENG-Premier League,MF,0,1,0,5.0,2.7,5.080937222724168
+Conor Bradley,Liverpool,ENG-Premier League,DF,0,0,1,3.0,1.2,1.8942616137819321
+Curtis Jones,Liverpool,ENG-Premier League,MF,0,1,0,1.0,1.1,3.5999999999999996
+Darwin Núñez,Liverpool,ENG-Premier League,FW,1,0,0,8.0,4.5,4.76371616102416
+Diogo Jota,Liverpool,ENG-Premier League,FW,1,0,0,3.0,1.7,3.5999999999999996
+Dominik Szoboszlai,Liverpool,ENG-Premier League,MF,0,1,0,2.0,5.1,5.45578888762318
+Harvey Elliott,Liverpool,ENG-Premier League,FW,1,0,0,6.0,4.6,3.4232986862544106
+Ibrahima Konaté,Liverpool,ENG-Premier League,DF,0,0,1,0.0,0.5,2.4
+James McConnell,Liverpool,ENG-Premier League,MF,0,1,0,0.0,0.0,0.3137172305000291
+Jarell Quansah,Liverpool,ENG-Premier League,DF,0,0,1,0.0,0.2,0.525041914955522
+Jayden Danns,Liverpool,ENG-Premier League,FW,1,0,0,0.0,0.0,0.32497527677516835
+Joe Gomez,Liverpool,ENG-Premier League,DF,0,0,1,1.0,1.1,1.5573146915280915
+Joël Matip,Liverpool,ENG-Premier League,DF,0,0,1,0.0,0.1,0.5112888399049793
+Kaide Gordon,Liverpool,ENG-Premier League,FW,1,0,0,0.0,0.0,0.5409459160129914
+Kostas Tsimikas,Liverpool,ENG-Premier League,DF,0,0,1,3.0,1.3,1.623754751659479
+Luis Díaz,Liverpool,ENG-Premier League,FW,1,0,0,5.0,4.7,5.419688888808704
+Mohamed Salah,Liverpool,ENG-Premier League,FW,1,0,0,10.0,7.5,20.0
+Owen Beck,Liverpool,ENG-Premier League,DF,0,0,1,0.0,0.0,0.36706589771011916
+Ryan Gravenberch,Liverpool,ENG-Premier League,MF,0,1,0,0.0,1.4,2.4
+Stefan Bajcetic,Liverpool,ENG-Premier League,MF,0,1,0,0.0,0.0,0.508869289207423
+Thiago Alcántara,Liverpool,ENG-Premier League,MF,0,1,0,0.0,0.0,0.7300752922971152
+Trent Alexander-Arnold,Liverpool,ENG-Premier League,DF,0,0,1,4.0,6.1,5.019214533924793
+Virgil van Dijk,Liverpool,ENG-Premier League,DF,0,0,1,2.0,1.0,0.7910613701827522
+Wataru Endo,Liverpool,ENG-Premier League,MF,0,1,0,0.0,1.5,2.016454087364074
+Albert Sambi Lokonga,Luton Town,ENG-Premier League,MF,0,1,0,3.0,0.8,2.4
+Alfie Doughty,Luton Town,ENG-Premier League,DF,0,0,1,8.0,5.4,3.586571040253742
+Amari'i Bell,Luton Town,ENG-Premier League,DF,0,0,1,0.0,0.4,0.3717998760734029
+Andros Townsend,Luton Town,ENG-Premier League,FW,1,0,0,3.0,1.8,1.6146006149703287
+Carlton Morris,Luton Town,ENG-Premier League,MF,0,1,0,4.0,1.6,1.7077463100473156
+Cauley Woodrow,Luton Town,ENG-Premier League,MF,0,1,0,1.0,0.9,0.5668193774451435
+Chiedozie Ogbene,Luton Town,ENG-Premier League,DF,0,0,1,1.0,3.5,2.423271274852939
+Daiki Hashioka,Luton Town,ENG-Premier League,DF,0,0,1,0.0,0.3,0.33705193089457686
+Elijah Adebayo,Luton Town,ENG-Premier League,FW,1,0,0,0.0,0.4,1.3750603781785593
+Fred Onyedinma,Luton Town,ENG-Premier League,MF,0,1,0,0.0,0.1,0.46329815048489
+Gabriel Osho,Luton Town,ENG-Premier League,DF,0,0,1,0.0,0.2,0.3260877333265164
+Issa Kaboré,Luton Town,ENG-Premier League,DF,0,0,1,2.0,1.9,1.2231511841978835
+Jacob Brown,Luton Town,ENG-Premier League,FW,1,0,0,0.0,0.4,0.6707466195011366
+Jordan Clark,Luton Town,ENG-Premier League,MF,0,1,0,1.0,1.2,0.8698025728178914
+Joseph Johnson,Luton Town,ENG-Premier League,DF,0,0,1,0.0,0.0,0.23936671583786695
+Luke Berry,Luton Town,ENG-Premier League,DF,0,0,1,1.0,0.1,0.3747066283458421
+Mads Juel Andersen,Luton Town,ENG-Premier League,DF,0,0,1,0.0,0.0,0.30652800685101306
+Marvelous Nakamba,Luton Town,ENG-Premier League,MF,0,1,0,0.0,0.5,0.3341663052651326
+Pelly Ruddock Mpanzu,Luton Town,ENG-Premier League,MF,0,1,0,0.0,1.4,0.7197885550605214
+Reece Burke,Luton Town,ENG-Premier League,DF,0,0,1,4.0,0.9,0.535982804498258
+Ross Barkley,Luton Town,ENG-Premier League,MF,0,1,0,4.0,2.7,2.2077474956764145
+Ryan Giles,Luton Town,ENG-Premier League,MF,0,1,0,0.0,0.6,0.6201384583705714
+Tahith Chong,Luton Town,ENG-Premier League,FW,1,0,0,0.0,1.4,1.4220735644186577
+Teden Mengi,Luton Town,ENG-Premier League,DF,0,0,1,0.0,0.6,0.5136045279596566
+Tom Lockyer,Luton Town,ENG-Premier League,DF,0,0,1,1.0,0.3,0.30771263027783297
+Zack Nelson,Luton Town,ENG-Premier League,DF,0,0,1,0.0,0.0,0.20414134081815422
+Aymeric Laporte,Manchester City,ENG-Premier League,DF,0,0,1,0.0,0.0,0.6556779003238917
+Bernardo Silva,Manchester City,ENG-Premier League,FW,1,0,0,9.0,8.0,5.533201617685956
+Cole Palmer,Manchester City,ENG-Premier League,MF,0,1,0,0.0,0.0,7.199999999999999
+Erling Haaland,Manchester City,ENG-Premier League,FW,1,0,0,5.0,2.2,3.5999999999999996
+Jack Grealish,Manchester City,ENG-Premier League,MF,0,1,0,1.0,2.8,3.6162352577437966
+James Mcatee,Manchester City,ENG-Premier League,MF,0,1,0,0.0,0.0,0.6253691474882477
+Jeremy Doku,Manchester City,ENG-Premier League,MF,0,1,0,8.0,5.9,4.485809104111305
+John Stones,Manchester City,ENG-Premier League,MF,0,1,0,0.0,0.4,0.9310907092011271
+Joško Gvardiol,Manchester City,ENG-Premier League,DF,0,0,1,1.0,2.1,2.079534519105794
+Julián Álvarez,Manchester City,ENG-Premier League,FW,1,0,0,8.0,6.3,5.728805850771078
+Kalvin Phillips,Manchester City,ENG-Premier League,MF,0,1,0,0.0,0.1,0.5074354782440338
+Kevin De Bruyne,Manchester City,ENG-Premier League,MF,0,1,0,10.0,7.1,9.557584126003306
+Kyle Walker,Manchester City,ENG-Premier League,DF,0,0,1,4.0,3.2,2.5646793706945124
+Manuel Akanji,Manchester City,ENG-Premier League,MF,0,1,0,0.0,1.8,1.3935096874943307
+Mateo Kovačić,Manchester City,ENG-Premier League,MF,0,1,0,0.0,1.9,1.6855554521128633
+Matheus Nunes,Manchester City,ENG-Premier League,MF,0,1,0,2.0,1.5,4.8
+Nathan Aké,Manchester City,ENG-Premier League,DF,0,0,1,2.0,1.1,1.1583219762328194
+Oscar Bobb,Manchester City,ENG-Premier League,MF,0,1,0,1.0,1.3,1.4598024462829242
+Phil Foden,Manchester City,ENG-Premier League,MF,0,1,0,8.0,6.9,6.948098072627092
+Rico Lewis,Manchester City,ENG-Premier League,MF,0,1,0,0.0,1.2,2.4
+Rodri,Manchester City,ENG-Premier League,MF,0,1,0,9.0,6.1,5.445586835844177
+Rúben Dias,Manchester City,ENG-Premier League,DF,0,0,1,0.0,1.9,1.0976724054587919
+Sergio Gómez,Manchester City,ENG-Premier League,MF,0,1,0,1.0,0.2,4.8
+Aaron Wan-Bissaka,Manchester Utd,ENG-Premier League,DF,0,0,1,2.0,1.4,2.4
+Alejandro Garnacho,Manchester Utd,ENG-Premier League,FW,1,0,0,4.0,2.9,3.5408208358956914
+Amad Diallo,Manchester Utd,ENG-Premier League,MF,0,1,0,1.0,0.5,7.199999999999999
+Anthony Martial,Manchester Utd,ENG-Premier League,FW,1,0,0,0.0,0.2,0.9281084338199173
+Antony,Manchester Utd,ENG-Premier League,FW,1,0,0,1.0,1.9,2.4
+Bruno Fernandes,Manchester Utd,ENG-Premier League,FW,1,0,0,8.0,10.2,7.2526172808036256
+Casemiro,Manchester Utd,ENG-Premier League,DF,0,0,1,2.0,1.2,1.1025651450839515
+Christian Eriksen,Manchester Utd,ENG-Premier League,MF,0,1,0,2.0,2.3,1.7111447889205418
+Daniel Gore,Manchester Utd,ENG-Premier League,MF,0,1,0,0.0,0.0,0.3681366768686746
+Diogo Dalot,Manchester Utd,ENG-Premier League,DF,0,0,1,3.0,2.4,1.6554262462404492
+Donny van de Beek,Manchester Utd,ENG-Premier League,DF,0,0,1,0.0,0.0,2.4
+Ethan Wheatley,Manchester Utd,ENG-Premier League,FW,1,0,0,0.0,0.0,0.28693156060805874
+Facundo Pellistri,Manchester Utd,ENG-Premier League,MF,0,1,0,1.0,0.4,0.52542885719125
+Hannibal Mejbri,Manchester Utd,ENG-Premier League,FW,1,0,0,0.0,0.5,0.43482532247839145
+Harry Maguire,Manchester Utd,ENG-Premier League,DF,0,0,1,2.0,0.9,0.4794458419455214
+Jadon Sancho,Manchester Utd,ENG-Premier League,MF,0,1,0,0.0,0.1,4.8
+Jonny Evans,Manchester Utd,ENG-Premier League,DF,0,0,1,1.0,0.3,0.3221036775733332
+Kobbie Mainoo,Manchester Utd,ENG-Premier League,MF,0,1,0,1.0,1.6,1.3733242064922404
+Lisandro Martínez,Manchester Utd,ENG-Premier League,DF,0,0,1,1.0,0.1,1.2
+Luke Shaw,Manchester Utd,ENG-Premier League,DF,0,0,1,0.0,0.9,1.27098044439838
+Marcus Rashford,Manchester Utd,ENG-Premier League,FW,1,0,0,2.0,2.8,3.253785153377343
+Mason Mount,Manchester Utd,ENG-Premier League,FW,1,0,0,0.0,0.4,1.3368837582080655
+Omari Forson,Manchester Utd,ENG-Premier League,FW,1,0,0,1.0,0.0,0.38396700527229516
+Raphaël Varane,Manchester Utd,ENG-Premier League,DF,0,0,1,0.0,0.6,0.5037839634752931
+Rasmus Højlund,Manchester Utd,ENG-Premier League,FW,1,0,0,2.0,0.9,1.6324609676315
+Scott McTominay,Manchester Utd,ENG-Premier League,FW,1,0,0,1.0,0.5,2.4
+Sergio Reguilón,Manchester Utd,ENG-Premier League,DF,0,0,1,0.0,0.6,0.9397730623004514
+Sofyan Amrabat,Manchester Utd,ENG-Premier League,DF,0,0,1,0.0,0.4,0.671428711467277
+Victor Lindelöf,Manchester Utd,ENG-Premier League,DF,0,0,1,1.0,0.4,0.4895746181733104
+Willy Kambwala,Manchester Utd,ENG-Premier League,DF,0,0,1,0.0,0.0,0.30820765370441194
+Alex Murphy,Newcastle Utd,ENG-Premier League,FW,1,0,0,0.0,0.0,0.39806963616065383
+Alexander Isak,Newcastle Utd,ENG-Premier League,FW,1,0,0,2.0,2.8,6.0
+Amadou Diallo,Newcastle Utd,ENG-Premier League,MF,0,1,0,0.0,0.0,0.402664032788481
+Anthony Gordon,Newcastle Utd,ENG-Premier League,FW,1,0,0,10.0,5.6,5.709647054259352
+Ben Parkinson,Newcastle Utd,ENG-Premier League,FW,1,0,0,0.0,0.0,0.2588707200117265
+Bruno Guimarães,Newcastle Utd,ENG-Premier League,MF,0,1,0,8.0,6.3,7.834746685934702
+Callum Wilson,Newcastle Utd,ENG-Premier League,FW,1,0,0,1.0,0.6,2.272735602942837
+Dan Burn,Newcastle Utd,ENG-Premier League,DF,0,0,1,2.0,1.1,1.0009096852257104
+Elliot Anderson,Newcastle Utd,ENG-Premier League,FW,1,0,0,2.0,1.2,6.0
+Emil Krafth,Newcastle Utd,ENG-Premier League,DF,0,0,1,0.0,0.8,0.6983959390454817
+Fabian Schär,Newcastle Utd,ENG-Premier League,DF,0,0,1,1.0,1.4,1.6406064489416297
+Harvey Barnes,Newcastle Utd,ENG-Premier League,MF,0,1,0,3.0,1.9,2.5209606903809334
+Jacob Murphy,Newcastle Utd,ENG-Premier League,DF,0,0,1,7.0,3.4,9.6
+Jamaal Lascelles,Newcastle Utd,ENG-Premier League,DF,0,0,1,0.0,0.1,0.3789530676232058
+Joe White,Newcastle Utd,ENG-Premier League,MF,0,1,0,0.0,0.0,0.2053293327594035
+Joe Willock,Newcastle Utd,ENG-Premier League,MF,0,1,0,0.0,0.6,2.4
+Joelinton,Newcastle Utd,ENG-Premier League,FW,1,0,0,1.0,1.1,2.5390421537979333
+Kieran Trippier,Newcastle Utd,ENG-Premier League,DF,0,0,1,10.0,7.1,5.596076512561184
+Lewis Hall,Newcastle Utd,ENG-Premier League,DF,0,0,1,0.0,0.7,4.8
+Lewis Miley,Newcastle Utd,ENG-Premier League,MF,0,1,0,3.0,1.4,1.3335185927351334
+Matt Ritchie,Newcastle Utd,ENG-Premier League,MF,0,1,0,0.0,0.1,0.5679429006820285
+Matt Targett,Newcastle Utd,ENG-Premier League,DF,0,0,1,0.0,0.0,0.3631375149459887
+Michael Ndiweni,Newcastle Utd,ENG-Premier League,FW,1,0,0,0.0,0.0,0.4191854323105802
+Miguel Almirón,Newcastle Utd,ENG-Premier League,FW,1,0,0,1.0,2.4,2.5451978249387874
+Paul Dummett,Newcastle Utd,ENG-Premier League,DF,0,0,1,0.0,0.0,0.4567916770212642
+Sandro Tonali,Newcastle Utd,ENG-Premier League,MF,0,1,0,0.0,0.5,2.0401226125446934
+Sean Longstaff,Newcastle Utd,ENG-Premier League,MF,0,1,0,2.0,3.0,2.7412004289028635
+Sven Botman,Newcastle Utd,ENG-Premier League,DF,0,0,1,2.0,0.6,0.6989647302373223
+Valentino Livramento,Newcastle Utd,ENG-Premier League,DF,0,0,1,0.0,0.8,1.4046890437947925
+Andrew Omobamidele,Nott'ham Forest,ENG-Premier League,DF,0,0,1,0.0,0.0,0.22418640528252143
+Andrey Santos,Nott'ham Forest,ENG-Premier League,MF,0,1,0,0.0,0.0,1.2
+Anthony Elanga,Nott'ham Forest,ENG-Premier League,MF,0,1,0,9.0,4.0,9.6
+Brandon Aguilera,Nott'ham Forest,ENG-Premier League,FW,1,0,0,0.0,0.0,0.2796121214877699
+Brennan Johnson,Nott'ham Forest,ENG-Premier League,MF,0,1,0,0.0,0.0,2.4
+Callum Hudson-Odoi,Nott'ham Forest,ENG-Premier League,MF,0,1,0,1.0,2.5,2.4988947913879875
+Cheikhou Kouyaté,Nott'ham Forest,ENG-Premier League,MF,0,1,0,0.0,0.0,0.39852391455926667
+Chris Wood,Nott'ham Forest,ENG-Premier League,FW,1,0,0,1.0,1.1,3.5999999999999996
+Danilo,Nott'ham Forest,ENG-Premier League,MF,0,1,0,2.0,0.7,1.2
+Divock Origi,Nott'ham Forest,ENG-Premier League,FW,1,0,0,1.0,0.8,0.791817493903406
+Felipe,Nott'ham Forest,ENG-Premier League,DF,0,0,1,0.0,0.0,0.25126904563452535
+Gio Reyna,Nott'ham Forest,ENG-Premier League,MF,0,1,0,1.0,0.4,0.9597445667882438
+Gonzalo Montiel,Nott'ham Forest,ENG-Premier League,DF,0,0,1,2.0,0.9,0.955535469783318
+Harry Toffolo,Nott'ham Forest,ENG-Premier League,DF,0,0,1,3.0,1.2,0.6760705057007633
+Ibrahim Sangaré,Nott'ham Forest,ENG-Premier League,MF,0,1,0,0.0,0.4,1.2
+Joe Worrall,Nott'ham Forest,ENG-Premier League,DF,0,0,1,0.0,0.3,0.44624822270633047
+Morgan Gibbs-White,Nott'ham Forest,ENG-Premier League,FW,1,0,0,10.0,6.8,4.084613633887459
+Moussa Niakhate,Nott'ham Forest,ENG-Premier League,DF,0,0,1,0.0,0.3,0.28690190137612037
+Murillo,Nott'ham Forest,ENG-Premier League,DF,0,0,1,2.0,0.6,0.7479190673111142
+Neco Williams,Nott'ham Forest,ENG-Premier League,DF,0,0,1,1.0,1.7,1.4166955965470536
+Nicolás Domínguez,Nott'ham Forest,ENG-Premier League,FW,1,0,0,2.0,1.3,1.0960127719020736
+Nuno Tavares,Nott'ham Forest,ENG-Premier League,DF,0,0,1,0.0,0.4,9.6
+Ola Aina,Nott'ham Forest,ENG-Premier League,DF,0,0,1,1.0,1.0,1.1625766872902477
+Orel Mangala,Nott'ham Forest,ENG-Premier League,MF,0,1,0,0.0,0.3,0.45775142813487224
+Rodrigo Ribeiro,Nott'ham Forest,ENG-Premier League,FW,1,0,0,0.0,0.0,0.28699984868953043
+Ryan Yates,Nott'ham Forest,ENG-Premier League,MF,0,1,0,1.0,0.6,0.7462622433037048
+Scott McKenna,Nott'ham Forest,ENG-Premier League,DF,0,0,1,0.0,0.2,0.3892547029854534
+Serge Aurier,Nott'ham Forest,ENG-Premier League,MF,0,1,0,2.0,0.5,0.6568711363967293
+Taiwo Awoniyi,Nott'ham Forest,ENG-Premier League,FW,1,0,0,3.0,0.9,1.0355279422009154
+Willy Boly,Nott'ham Forest,ENG-Premier League,DF,0,0,1,1.0,0.8,0.518702412916354
+Andre Brooks,Sheffield Utd,ENG-Premier League,DF,0,0,1,0.0,0.3,0.2845780823407408
+Anel Ahmedhodžić,Sheffield Utd,ENG-Premier League,DF,0,0,1,0.0,0.6,0.48542896476458197
+Anis Ben Slimane,Sheffield Utd,ENG-Premier League,MF,0,1,0,0.0,0.1,0.36440820402345914
+Antwoine Hackford,Sheffield Utd,ENG-Premier League,FW,1,0,0,0.0,0.0,0.33216288529474003
+Auston Trusty,Sheffield Utd,ENG-Premier League,DF,0,0,1,0.0,0.8,0.49151194244692864
+Ben Brereton,Sheffield Utd,ENG-Premier League,MF,0,1,0,1.0,1.1,1.084824678955308
+Ben Osborn,Sheffield Utd,ENG-Premier League,MF,0,1,0,2.0,0.9,0.7777110281743926
+Bénie Traoré,Sheffield Utd,ENG-Premier League,MF,0,1,0,0.0,0.5,0.3999346752912756
+Cameron Archer,Sheffield Utd,ENG-Premier League,MF,0,1,0,1.0,1.4,1.1884619820904125
+Chris Basham,Sheffield Utd,ENG-Premier League,MF,0,1,0,0.0,0.1,0.5173296735659941
+Daniel Jebbison,Sheffield Utd,ENG-Premier League,FW,1,0,0,0.0,0.0,0.38886609741495726
+George Baldock,Sheffield Utd,ENG-Premier League,DF,0,0,1,1.0,0.6,0.8134476268500694
+Gustavo Hamer,Sheffield Utd,ENG-Premier League,MF,0,1,0,6.0,4.6,2.9203214759975396
+Jack Robinson,Sheffield Utd,ENG-Premier League,DF,0,0,1,1.0,1.0,0.5382375148716143
+James Mcatee,Sheffield Utd,ENG-Premier League,FW,1,0,0,3.0,2.1,1.3364643705977766
+Jayden Bogle,Sheffield Utd,ENG-Premier League,DF,0,0,1,0.0,1.2,1.078530094480434
+John Egan,Sheffield Utd,ENG-Premier League,DF,0,0,1,0.0,0.0,0.6863852213593751
+John Fleck,Sheffield Utd,ENG-Premier League,DF,0,0,1,0.0,0.3,0.8582801384245439
+Luke Thomas,Sheffield Utd,ENG-Premier League,DF,0,0,1,0.0,0.2,0.3145213183087966
+Mason Holgate,Sheffield Utd,ENG-Premier League,DF,0,0,1,0.0,0.2,0.2744365941810126
+Max Lowe,Sheffield Utd,ENG-Premier League,MF,0,1,0,0.0,0.1,0.3488656631147538
+Oliver Arblaster,Sheffield Utd,ENG-Premier League,MF,0,1,0,0.0,0.9,0.6906567409157827
+Oliver McBurnie,Sheffield Utd,ENG-Premier League,FW,1,0,0,3.0,2.0,6.0
+Oliver Norwood,Sheffield Utd,ENG-Premier League,MF,0,1,0,0.0,1.2,0.606197951356837
+Rhian Brewster,Sheffield Utd,ENG-Premier League,MF,0,1,0,0.0,0.1,0.39840180283472976
+Rhys Norrington-Davies,Sheffield Utd,ENG-Premier League,DF,0,0,1,0.0,0.0,0.29639050658245036
+Ryan One,Sheffield Utd,ENG-Premier League,FW,1,0,0,0.0,0.0,0.2961009767126505
+Sam Curtis,Sheffield Utd,ENG-Premier League,DF,0,0,1,0.0,0.0,0.2083835180779634
+Sydie Peck,Sheffield Utd,ENG-Premier League,MF,0,1,0,0.0,0.0,0.3889226591889282
+Tom Davies,Sheffield Utd,ENG-Premier League,MF,0,1,0,0.0,0.2,0.43101688467056704
+Vinicius Souza,Sheffield Utd,ENG-Premier League,MF,0,1,0,0.0,0.5,1.2536872122163123
+William Osula,Sheffield Utd,ENG-Premier League,FW,1,0,0,0.0,0.2,0.43270475803647035
+Yasser Larouci,Sheffield Utd,ENG-Premier League,DF,0,0,1,0.0,0.1,0.5825817957134821
+Alejo Véliz,Tottenham,ENG-Premier League,FW,1,0,0,0.0,0.0,0.514697137905044
+Ben Davies,Tottenham,ENG-Premier League,DF,0,0,1,0.0,0.6,0.8867869215982351
+Brennan Johnson,Tottenham,ENG-Premier League,FW,1,0,0,10.0,4.5,3.4741831346620833
+Bryan Gil,Tottenham,ENG-Premier League,MF,0,1,0,0.0,0.3,3.5999999999999996
+Cristian Romero,Tottenham,ENG-Premier League,DF,0,0,1,0.0,1.5,1.1633922168459612
+Dane Scarlett,Tottenham,ENG-Premier League,FW,1,0,0,0.0,0.0,1.2
+Davinson Sánchez,Tottenham,ENG-Premier League,DF,0,0,1,0.0,0.0,0.374734196239794
+Dejan Kulusevski,Tottenham,ENG-Premier League,MF,0,1,0,3.0,6.7,6.127793924847035
+Destiny Udogie,Tottenham,ENG-Premier League,DF,0,0,1,3.0,2.0,2.1462922583041997
+Emerson,Tottenham,ENG-Premier League,DF,0,0,1,0.0,0.9,0.8890920827040025
+Eric Dier,Tottenham,ENG-Premier League,DF,0,0,1,0.0,0.0,1.2
+Giovani Lo Celso,Tottenham,ENG-Premier League,MF,0,1,0,2.0,1.9,1.7988467523549876
+Ivan Perišić,Tottenham,ENG-Premier League,FW,1,0,0,1.0,0.7,2.358111689000525
+James Maddison,Tottenham,ENG-Premier League,MF,0,1,0,9.0,6.3,8.164792085963917
+Jamie Donley,Tottenham,ENG-Premier League,FW,1,0,0,0.0,0.0,0.4205937613387095
+Manor Solomon,Tottenham,ENG-Premier League,FW,1,0,0,2.0,0.8,1.4006628059412467
+Micky van de Ven,Tottenham,ENG-Premier League,DF,0,0,1,0.0,0.3,2.4
+Mikey Moore,Tottenham,ENG-Premier League,MF,0,1,0,0.0,0.0,1.2
+Oliver Skipp,Tottenham,ENG-Premier League,DF,0,0,1,0.0,0.5,0.484699000617462
+Pape Matar Sarr,Tottenham,ENG-Premier League,MF,0,1,0,3.0,2.1,1.673889546812851
+Pedro Porro,Tottenham,ENG-Premier League,DF,0,0,1,7.0,6.0,4.200435324820599
+Pierre Højbjerg,Tottenham,ENG-Premier League,MF,0,1,0,0.0,1.5,3.5999999999999996
+Radu Drăgușin,Tottenham,ENG-Premier League,DF,0,0,1,0.0,0.0,0.3925232172989004
+Richarlison,Tottenham,ENG-Premier League,FW,1,0,0,4.0,1.4,2.102797618670505
+Rodrigo Bentancur,Tottenham,ENG-Premier League,MF,0,1,0,1.0,1.1,1.1865235134223617
+Son Heung-min,Tottenham,ENG-Premier League,FW,1,0,0,10.0,8.3,10.799999999999999
+Timo Werner,Tottenham,ENG-Premier League,FW,1,0,0,3.0,2.9,4.221934743659234
+Yves Bissouma,Tottenham,ENG-Premier League,MF,0,1,0,0.0,1.7,1.1882278767103278
+Aaron Cresswell,West Ham,ENG-Premier League,FW,1,0,0,0.0,0.3,0.8868230570985511
+Angelo Ogbonna,West Ham,ENG-Premier League,DF,0,0,1,0.0,0.1,0.2491146181737961
+Ben Johnson,West Ham,ENG-Premier League,FW,1,0,0,0.0,0.1,1.2
+Danny Ings,West Ham,ENG-Premier League,FW,1,0,0,0.0,0.3,2.4
+Divin Mubama,West Ham,ENG-Premier League,FW,1,0,0,0.0,0.0,0.31832403049553154
+Edson Álvarez,West Ham,ENG-Premier League,MF,0,1,0,1.0,0.8,1.2
+Emerson Palmieri,West Ham,ENG-Premier League,DF,0,0,1,2.0,2.1,1.7458152093100792
+George Earthy,West Ham,ENG-Premier League,FW,1,0,0,0.0,0.0,0.2592778725635337
+James Ward-Prowse,West Ham,ENG-Premier League,MF,0,1,0,7.0,6.3,4.053082824396871
+Jarrod Bowen,West Ham,ENG-Premier League,FW,1,0,0,6.0,4.8,6.3248584959527285
+Kaelan Casey,West Ham,ENG-Premier League,DF,0,0,1,0.0,0.0,0.4082273997655812
+Kalvin Phillips,West Ham,ENG-Premier League,MF,0,1,0,0.0,0.0,0.361488131209931
+Konstantinos Mavropanos,West Ham,ENG-Premier League,DF,0,0,1,0.0,0.1,0.3734618627471399
+Kurt Zouma,West Ham,ENG-Premier League,DF,0,0,1,0.0,0.1,0.4097580936029468
+Lucas Paquetá,West Ham,ENG-Premier League,MF,0,1,0,6.0,5.1,3.1273450439014163
+Maxwel Cornet,West Ham,ENG-Premier League,FW,1,0,0,0.0,0.0,1.2
+Michail Antonio,West Ham,ENG-Premier League,FW,1,0,0,2.0,1.3,1.4468418353427501
+Mohammed Kudus,West Ham,ENG-Premier League,MF,0,1,0,6.0,3.7,2.7508800166464398
+Nayef Aguerd,West Ham,ENG-Premier League,DF,0,0,1,0.0,0.4,0.30534528594500576
+Pablo Fornals,West Ham,ENG-Premier League,FW,1,0,0,0.0,0.3,0.7999181460905808
+Saïd Benrahma,West Ham,ENG-Premier League,MF,0,1,0,1.0,0.8,3.5999999999999996
+Thilo Kehrer,West Ham,ENG-Premier League,MF,0,1,0,0.0,0.0,0.5156644927201869
+Tomáš Souček,West Ham,ENG-Premier League,MF,0,1,0,2.0,1.2,1.183570418231014
+Vladimír Coufal,West Ham,ENG-Premier League,DF,0,0,1,7.0,3.0,1.8705951549994673
+Boubacar Traoré,Wolves,ENG-Premier League,MF,0,1,0,0.0,0.3,0.4496275849170721
+Craig Dawson,Wolves,ENG-Premier League,DF,0,0,1,1.0,0.6,0.3080648547745805
+Enso Gonzalez,Wolves,ENG-Premier League,DF,0,0,1,0.0,0.0,0.43743629513001764
+Fábio Silva,Wolves,ENG-Premier League,FW,1,0,0,0.0,0.1,2.4
+Hugo Bueno,Wolves,ENG-Premier League,MF,0,1,0,0.0,0.7,0.6552559649142468
+Hwang Hee-chan,Wolves,ENG-Premier League,MF,0,1,0,3.0,2.9,1.8833037381571884
+Jean-Ricner Bellegarde,Wolves,ENG-Premier League,FW,1,0,0,1.0,0.8,4.8
+Jonny Castro,Wolves,ENG-Premier League,MF,0,1,0,0.0,0.0,0.47932377475277343
+João Gomes,Wolves,ENG-Premier League,MF,0,1,0,1.0,1.7,1.4352615324420404
+Leon Chiwome,Wolves,ENG-Premier League,FW,1,0,0,0.0,0.0,0.30873260562646426
+Mario Lemina,Wolves,ENG-Premier League,MF,0,1,0,1.0,1.3,3.5999999999999996
+Matheus Cunha,Wolves,ENG-Premier League,MF,0,1,0,7.0,3.0,4.8
+Matheus Nunes,Wolves,ENG-Premier League,MF,0,1,0,0.0,0.2,4.8
+Matt Doherty,Wolves,ENG-Premier League,MF,0,1,0,0.0,0.9,1.2
+Max Kilman,Wolves,ENG-Premier League,DF,0,0,1,0.0,1.1,0.599485352089456
+Nathan Fraser,Wolves,ENG-Premier League,FW,1,0,0,0.0,0.1,0.24539201664029062
+Nélson Semedo,Wolves,ENG-Premier League,MF,0,1,0,1.0,1.8,4.8
+Pablo Sarabia,Wolves,ENG-Premier League,FW,1,0,0,7.0,4.9,3.2825476775109363
+Pedro Neto,Wolves,ENG-Premier League,MF,0,1,0,9.0,3.7,4.8
+Rayan Aït-Nouri,Wolves,ENG-Premier League,MF,0,1,0,1.0,1.7,6.0
+Santiago Bueno,Wolves,ENG-Premier League,DF,0,0,1,0.0,0.0,0.3945667811926833
+Sasa Kalajdzic,Wolves,ENG-Premier League,FW,1,0,0,0.0,0.3,0.36325693151460836
+Tawanda Chirewa,Wolves,ENG-Premier League,FW,1,0,0,0.0,0.1,0.3484196939794496
+Tommy Doyle,Wolves,ENG-Premier League,MF,0,1,0,0.0,0.9,1.2
+Toti Gomes,Wolves,ENG-Premier League,DF,0,0,1,3.0,0.6,1.2
+Abdel Abqar,Alavés,ESP-La Liga,DF,0,0,1,0.0,0.2,1.2
+Abderrahman Rebbach,Alavés,ESP-La Liga,MF,0,1,0,0.0,1.7,1.3192941907954625
+Aleksandar Sedlar,Alavés,ESP-La Liga,DF,0,0,1,0.0,0.1,0.2975729018898531
+Alex Sola,Alavés,ESP-La Liga,MF,0,1,0,3.0,2.1,1.3855070638342275
+Ander Guevara,Alavés,ESP-La Liga,MF,0,1,0,0.0,1.5,1.2595560109480146
+Andoni Gorosabel,Alavés,ESP-La Liga,DF,0,0,1,0.0,2.4,1.51322162989573
+Antonio Blanco,Alavés,ESP-La Liga,MF,0,1,0,1.0,1.1,1.009931609622118
+Carlos Benavídez,Alavés,ESP-La Liga,MF,0,1,0,1.0,0.7,1.2
+Carlos Vicente,Alavés,ESP-La Liga,FW,1,0,0,4.0,2.9,3.5999999999999996
+Eneko Ortiz,Alavés,ESP-La Liga,DF,0,0,1,0.0,0.0,0.2418727061954095
+Giuliano Simeone,Alavés,ESP-La Liga,FW,1,0,0,2.0,1.2,4.8
+Ianis Hagi,Alavés,ESP-La Liga,FW,1,0,0,2.0,1.8,1.309073342449382
+Javi López,Alavés,ESP-La Liga,DF,0,0,1,3.0,2.5,1.7294569954569967
+Joaquín Panichelli,Alavés,ESP-La Liga,MF,0,1,0,0.0,0.1,0.30431654567318084
+Jon Guridi,Alavés,ESP-La Liga,MF,0,1,0,4.0,2.9,1.654960489524645
+Jon Karrikaburu,Alavés,ESP-La Liga,FW,1,0,0,0.0,0.0,0.36186509971821035
+Kiké,Alavés,ESP-La Liga,MF,0,1,0,2.0,1.4,1.7298748800597021
+Luis Rioja,Alavés,ESP-La Liga,MF,0,1,0,4.0,4.2,3.1487817743965207
+Mamadou Sylla,Alavés,ESP-La Liga,MF,0,1,0,0.0,0.0,1.2
+Miguel,Alavés,ESP-La Liga,MF,0,1,0,0.0,0.0,3.5999999999999996
+Nahuel Tenaglia,Alavés,ESP-La Liga,DF,0,0,1,0.0,0.7,1.2
+Rafa Marín,Alavés,ESP-La Liga,DF,0,0,1,0.0,0.4,0.33391409738081257
+Rubén Duarte,Alavés,ESP-La Liga,DF,0,0,1,1.0,1.5,1.1223297793355371
+Samu Omorodion,Alavés,ESP-La Liga,FW,1,0,0,1.0,0.6,1.495731717723307
+Tomás Mendes,Alavés,ESP-La Liga,MF,0,1,0,0.0,0.0,0.24278349283073894
+Unai Ropero,Alavés,ESP-La Liga,MF,0,1,0,0.0,0.0,0.3897660714695186
+Victor Parada,Alavés,ESP-La Liga,MF,0,1,0,0.0,0.0,0.36258742622494483
+Xeber,Alavés,ESP-La Liga,MF,0,1,0,0.0,0.5,0.48493536200187803
+Adri Embarba,Almería,ESP-La Liga,MF,0,1,0,2.0,3.6,1.839139462445083
+Alejandro Pozo Pozo,Almería,ESP-La Liga,MF,0,1,0,0.0,0.8,0.9554613799642087
+Aleksandar Radovanović,Almería,ESP-La Liga,DF,0,0,1,0.0,0.0,0.29683911694395404
+Anthony Lozano,Almería,ESP-La Liga,FW,1,0,0,0.0,0.2,0.6814607666592299
+Arnau Puigmal,Almería,ESP-La Liga,DF,0,0,1,0.0,0.2,0.38693908679143274
+Bruno Langa,Almería,ESP-La Liga,DF,0,0,1,0.0,0.3,0.4351064403142654
+Chumi,Almería,ESP-La Liga,DF,0,0,1,1.0,0.6,0.19211909558099774
+César Montes,Almería,ESP-La Liga,DF,0,0,1,0.0,0.4,0.33191795485442593
+Dion Lopy,Almería,ESP-La Liga,MF,0,1,0,0.0,0.7,0.6407664546385141
+Gonzalo Melero,Almería,ESP-La Liga,FW,1,0,0,1.0,0.9,0.7891682674590417
+Houboulang Mendes,Almería,ESP-La Liga,DF,0,0,1,0.0,0.0,0.34266942305186554
+Ibrahima Koné,Almería,ESP-La Liga,FW,1,0,0,0.0,0.5,0.6945112060344417
+Iddrisu Baba,Almería,ESP-La Liga,MF,0,1,0,0.0,0.4,0.29985856293994784
+Jonathan Viera,Almería,ESP-La Liga,MF,0,1,0,3.0,1.3,1.3705454115776448
+Kaiky,Almería,ESP-La Liga,DF,0,0,1,0.0,0.0,0.3207189663666702
+Largie Ramazani,Almería,ESP-La Liga,MF,0,1,0,5.0,2.4,2.474057691192786
+Lucas Robertone,Almería,ESP-La Liga,MF,0,1,0,5.0,2.2,2.2312094995674028
+Luis Javier Suárez,Almería,ESP-La Liga,FW,1,0,0,0.0,0.5,0.9609189079919273
+Luka Romero,Almería,ESP-La Liga,FW,1,0,0,0.0,0.1,0.4255016055699683
+Lázaro,Almería,ESP-La Liga,MF,0,1,0,0.0,0.3,0.49542521901371694
+Léo Baptistão,Almería,ESP-La Liga,FW,1,0,0,0.0,1.0,1.3817197364867677
+Marc Pubill,Almería,ESP-La Liga,DF,0,0,1,3.0,1.2,1.2195790998861016
+Marciano Tchami,Almería,ESP-La Liga,MF,0,1,0,0.0,0.0,0.28371851420882277
+Marcos Peña,Almería,ESP-La Liga,MF,0,1,0,0.0,0.0,0.3240139228042349
+Marko Milovanović,Almería,ESP-La Liga,MF,0,1,0,0.0,0.1,0.32510483419908187
+Paco Sanz,Almería,ESP-La Liga,DF,0,0,1,0.0,0.0,0.36304377712760905
+Rachad Fettal,Almería,ESP-La Liga,FW,1,0,0,0.0,0.0,0.32254324212307267
+Sergio Akieme,Almería,ESP-La Liga,DF,0,0,1,0.0,2.1,1.2876616497464268
+Sergio Arribas,Almería,ESP-La Liga,FW,1,0,0,4.0,3.3,2.0337940184782064
+Srđan Babić,Almería,ESP-La Liga,DF,0,0,1,0.0,0.0,0.4345559529202631
+Álex Centelles,Almería,ESP-La Liga,DF,0,0,1,1.0,1.0,0.6992174900739441
+Édgar González,Almería,ESP-La Liga,MF,0,1,0,0.0,0.3,0.2945990460450649
+Adu Ares,Athletic Club,ESP-La Liga,FW,1,0,0,0.0,0.1,0.5823397129805947
+Aingeru Olabarrieta,Athletic Club,ESP-La Liga,FW,1,0,0,0.0,0.0,0.4946373428049159
+Aitor Paredes,Athletic Club,ESP-La Liga,DF,0,0,1,0.0,0.4,0.46394863262895547
+Ander Herrera,Athletic Club,ESP-La Liga,MF,0,1,0,3.0,1.9,0.9004979865330279
+Asier Villalibre,Athletic Club,ESP-La Liga,FW,1,0,0,1.0,0.7,0.827162604787528
+Beñat Prados,Athletic Club,ESP-La Liga,DF,0,0,1,0.0,1.0,0.9526396750835455
+Dani García,Athletic Club,ESP-La Liga,MF,0,1,0,0.0,0.2,0.3387304434964975
+Daniel Vivian,Athletic Club,ESP-La Liga,DF,0,0,1,0.0,0.6,0.5800136207298394
+Gorka Guruzeta,Athletic Club,ESP-La Liga,FW,1,0,0,5.0,1.8,2.4
+Iker Muniain,Athletic Club,ESP-La Liga,FW,1,0,0,0.0,1.3,1.9328450315212866
+Imanol,Athletic Club,ESP-La Liga,DF,0,0,1,0.0,0.3,0.39450849683443756
+Iñaki Williams,Athletic Club,ESP-La Liga,FW,1,0,0,3.0,5.8,9.6
+Iñigo Lekue,Athletic Club,ESP-La Liga,DF,0,0,1,2.0,0.9,1.0771770862956003
+Iñigo Ruiz de Galarreta,Athletic Club,ESP-La Liga,MF,0,1,0,1.0,2.5,2.9456980066073704
+Mikel Jauregizar,Athletic Club,ESP-La Liga,MF,0,1,0,0.0,0.1,1.2
+Mikel Vesga,Athletic Club,ESP-La Liga,MF,0,1,0,1.0,1.2,1.1143744973512288
+Nico Williams,Athletic Club,ESP-La Liga,FW,1,0,0,11.0,7.5,5.842844013699349
+Oihan Sancet,Athletic Club,ESP-La Liga,MF,0,1,0,5.0,2.9,4.024523598707237
+Peru Nolaskoain,Athletic Club,ESP-La Liga,MF,0,1,0,0.0,0.0,0.39441163154687453
+Raúl García,Athletic Club,ESP-La Liga,MF,0,1,0,0.0,0.6,0.6157100679145191
+Unai Gómez,Athletic Club,ESP-La Liga,MF,0,1,0,0.0,0.7,2.4
+Yeray Álvarez,Athletic Club,ESP-La Liga,DF,0,0,1,0.0,0.4,0.7439850077066302
+Yuri Berchiche,Athletic Club,ESP-La Liga,DF,0,0,1,1.0,2.0,2.3843735144779874
+Álex Berenguer,Athletic Club,ESP-La Liga,FW,1,0,0,3.0,4.0,7.199999999999999
+Óscar de Marcos,Athletic Club,ESP-La Liga,DF,0,0,1,5.0,3.4,4.8
+Abdellah Raihani,Atlético Madrid,ESP-La Liga,FW,1,0,0,0.0,0.0,0.3201917299385815
+Antoine Griezmann,Atlético Madrid,ESP-La Liga,MF,0,1,0,6.0,5.8,5.030295539759855
+Arthur Vermeeren,Atlético Madrid,ESP-La Liga,MF,0,1,0,0.0,0.1,1.2
+Axel Witsel,Atlético Madrid,ESP-La Liga,DF,0,0,1,0.0,0.2,1.2
+César Azpilicueta,Atlético Madrid,ESP-La Liga,DF,0,0,1,2.0,1.9,0.9680585703271762
+Gabriel Paulista,Atlético Madrid,ESP-La Liga,DF,0,0,1,0.0,0.0,0.27088588100649424
+Javi Galán,Atlético Madrid,ESP-La Liga,DF,0,0,1,0.0,0.1,2.4
+José María Giménez,Atlético Madrid,ESP-La Liga,DF,0,0,1,0.0,0.1,1.2
+Koke,Atlético Madrid,ESP-La Liga,MF,0,1,0,4.0,3.0,1.7889805186702117
+Marcos Llorente,Atlético Madrid,ESP-La Liga,DF,0,0,1,4.0,4.5,5.5905456701510206
+Mario Hermoso,Atlético Madrid,ESP-La Liga,DF,0,0,1,1.0,1.1,1.4691067817731704
+Memphis,Atlético Madrid,ESP-La Liga,FW,1,0,0,1.0,1.6,1.983323741883774
+Nahuel Molina,Atlético Madrid,ESP-La Liga,DF,0,0,1,3.0,2.2,4.067430976548882
+Pablo Barrios,Atlético Madrid,ESP-La Liga,MF,0,1,0,1.0,1.0,2.4
+Reinildo Mandava,Atlético Madrid,ESP-La Liga,DF,0,0,1,1.0,0.5,0.7819043090622797
+Rodrigo De Paul,Atlético Madrid,ESP-La Liga,MF,0,1,0,5.0,6.2,4.308729457417572
+Rodrigo Riquelme,Atlético Madrid,ESP-La Liga,MF,0,1,0,5.0,3.7,3.290413474082616
+Salim El Jebari,Atlético Madrid,ESP-La Liga,MF,0,1,0,0.0,0.0,0.272266436993169
+Samuel Lino,Atlético Madrid,ESP-La Liga,MF,0,1,0,5.0,3.5,4.1203788115556215
+Saúl Ñíguez,Atlético Madrid,ESP-La Liga,MF,0,1,0,4.0,2.1,6.0
+Stefan Savić,Atlético Madrid,ESP-La Liga,DF,0,0,1,0.0,0.6,0.4059474067580244
+Thomas Lemar,Atlético Madrid,ESP-La Liga,MF,0,1,0,0.0,0.1,0.8600967592484785
+Yannick Carrasco,Atlético Madrid,ESP-La Liga,DF,0,0,1,1.0,0.2,1.9565288430265966
+Álvaro Morata,Atlético Madrid,ESP-La Liga,FW,1,0,0,3.0,1.6,2.516593389675249
+Ángel Correa,Atlético Madrid,ESP-La Liga,MF,0,1,0,2.0,3.8,4.05745414907506
+Çağlar Söyüncü,Atlético Madrid,ESP-La Liga,DF,0,0,1,0.0,0.0,0.4536935936881201
+Abde Ezzalzouli,Barcelona,ESP-La Liga,MF,0,1,0,0.0,0.0,2.0898356013824206
+Alejandro Balde,Barcelona,ESP-La Liga,DF,0,0,1,1.0,1.5,3.5999999999999996
+Andreas Christensen,Barcelona,ESP-La Liga,MF,0,1,0,2.0,0.8,0.6325179251298823
+Ansu Fati,Barcelona,ESP-La Liga,FW,1,0,0,0.0,0.1,0.8473108831067038
+Eric García,Barcelona,ESP-La Liga,DF,0,0,1,0.0,0.0,1.2
+Fermin López,Barcelona,ESP-La Liga,FW,1,0,0,0.0,1.3,2.4
+Ferrán Torres,Barcelona,ESP-La Liga,FW,1,0,0,2.0,1.9,3.09657821427159
+Frenkie de Jong,Barcelona,ESP-La Liga,MF,0,1,0,0.0,4.9,3.64009510659743
+Gavi,Barcelona,ESP-La Liga,FW,1,0,0,1.0,1.4,1.9735040339973549
+Héctor Fort,Barcelona,ESP-La Liga,DF,0,0,1,2.0,0.5,0.6669717174918082
+Iñigo Martínez,Barcelona,ESP-La Liga,DF,0,0,1,0.0,0.5,2.4
+João Cancelo,Barcelona,ESP-La Liga,DF,0,0,1,4.0,6.7,4.324180102803127
+João Félix,Barcelona,ESP-La Liga,FW,1,0,0,3.0,2.6,3.079113989881657
+Jules Koundé,Barcelona,ESP-La Liga,DF,0,0,1,2.0,2.6,3.5999999999999996
+Lamine Yamal,Barcelona,ESP-La Liga,FW,1,0,0,5.0,6.5,13.2
+Marc Casado,Barcelona,ESP-La Liga,MF,0,1,0,0.0,0.0,3.5999999999999996
+Marc Guiu,Barcelona,ESP-La Liga,MF,0,1,0,0.0,0.1,0.5727659030412269
+Marcos Alonso,Barcelona,ESP-La Liga,DF,0,0,1,0.0,0.3,0.7798977506595726
+Oriol Romeu,Barcelona,ESP-La Liga,MF,0,1,0,1.0,0.9,0.8385770959540295
+Pau Cubarsí,Barcelona,ESP-La Liga,DF,0,0,1,0.0,0.4,3.5999999999999996
+Pedri,Barcelona,ESP-La Liga,FW,1,0,0,2.0,4.1,5.038599149966259
+Raphinha,Barcelona,ESP-La Liga,MF,0,1,0,9.0,5.0,8.4
+Robert Lewandowski,Barcelona,ESP-La Liga,FW,1,0,0,8.0,3.6,4.43303929369176
+Ronald Araújo,Barcelona,ESP-La Liga,DF,0,0,1,2.0,1.7,0.9290086294278689
+Sergi Roberto,Barcelona,ESP-La Liga,DF,0,0,1,2.0,0.8,1.2
+Vitor Roque,Barcelona,ESP-La Liga,FW,1,0,0,0.0,0.0,0.9880953246163948
+İlkay Gündoğan,Barcelona,ESP-La Liga,MF,0,1,0,9.0,9.8,6.797750709794878
+Abde Ezzalzouli,Betis,ESP-La Liga,FW,1,0,0,0.0,0.5,1.8253048293611265
+Abner,Betis,ESP-La Liga,DF,0,0,1,1.0,1.0,0.9677860194176573
+Aitor Ruibal,Betis,ESP-La Liga,FW,1,0,0,1.0,0.8,2.4
+Andrés Guardado,Betis,ESP-La Liga,MF,0,1,0,0.0,0.3,0.5204324376465083
+Assane Diao,Betis,ESP-La Liga,FW,1,0,0,0.0,0.8,1.4951756450168459
+Ayoze Pérez,Betis,ESP-La Liga,FW,1,0,0,1.0,3.0,3.2952749825295724
+Borja Iglesias,Betis,ESP-La Liga,FW,1,0,0,1.0,0.7,1.5951589021385282
+Chadi Riad,Betis,ESP-La Liga,DF,0,0,1,0.0,0.2,0.39015424993881465
+Cédric Bakambu,Betis,ESP-La Liga,FW,1,0,0,0.0,0.4,2.4
+Ezequiel Ávila,Betis,ESP-La Liga,FW,1,0,0,0.0,0.1,1.3158982835690074
+Germán Pezzella,Betis,ESP-La Liga,DF,0,0,1,0.0,0.3,0.4255487969174459
+Guido Rodríguez,Betis,ESP-La Liga,MF,0,1,0,0.0,0.8,0.7664119997961156
+Héctor Bellerín,Betis,ESP-La Liga,DF,0,0,1,1.0,1.2,1.263760478821646
+Isco,Betis,ESP-La Liga,MF,0,1,0,5.0,6.4,4.7450785986525865
+Johnny Cardoso,Betis,ESP-La Liga,MF,0,1,0,2.0,1.0,0.6585178947056239
+Juan Cruz,Betis,ESP-La Liga,FW,1,0,0,0.0,0.0,2.4
+Juan Miranda,Betis,ESP-La Liga,DF,0,0,1,1.0,2.4,4.8
+Luiz Felipe,Betis,ESP-La Liga,DF,0,0,1,0.0,0.2,0.4942075696402146
+Luiz Henrique,Betis,ESP-La Liga,FW,1,0,0,3.0,1.5,1.4793693397838867
+Marc Bartra,Betis,ESP-La Liga,DF,0,0,1,0.0,0.0,0.4910002985365408
+Marc Roca,Betis,ESP-La Liga,MF,0,1,0,2.0,1.7,2.4
+Nabil Fekir,Betis,ESP-La Liga,FW,1,0,0,2.0,2.7,2.275988938572322
+Pablo Busto,Betis,ESP-La Liga,DF,0,0,1,0.0,0.1,0.3707713488000849
+Pablo Fornals,Betis,ESP-La Liga,MF,0,1,0,2.0,2.0,1.6523298579136458
+Paul Akouokou,Betis,ESP-La Liga,MF,0,1,0,0.0,0.0,0.4847004802204372
+Ricardo Visus,Betis,ESP-La Liga,DF,0,0,1,0.0,0.0,0.3133485828317037
+Rodri,Betis,ESP-La Liga,MF,0,1,0,0.0,2.2,2.4590708285936635
+Sergi Altimira,Betis,ESP-La Liga,MF,0,1,0,0.0,0.3,1.2
+Sokratis Papastathopoulos,Betis,ESP-La Liga,DF,0,0,1,0.0,0.1,0.23542655273589982
+William Carvalho,Betis,ESP-La Liga,MF,0,1,0,3.0,0.7,0.9296123813207076
+Willian José,Betis,ESP-La Liga,FW,1,0,0,5.0,1.7,1.451846715234089
+Youssouf Sabaly,Betis,ESP-La Liga,DF,0,0,1,1.0,0.7,0.7256798869289547
+Anastasios Douvikas,Celta Vigo,ESP-La Liga,FW,1,0,0,1.0,0.6,1.0415324499533132
+Carl Starfelt,Celta Vigo,ESP-La Liga,DF,0,0,1,0.0,0.1,0.29416726318612296
+Carles Pérez,Celta Vigo,ESP-La Liga,DF,0,0,1,1.0,0.8,1.6777451288552774
+Carlos Dominguez,Celta Vigo,ESP-La Liga,DF,0,0,1,0.0,0.3,0.2592970182269902
+Carlos Dotor,Celta Vigo,ESP-La Liga,MF,0,1,0,0.0,0.3,0.3344695743606884
+Damián Rodríguez,Celta Vigo,ESP-La Liga,MF,0,1,0,2.0,0.8,0.9152751124712166
+Fran Beltrán,Celta Vigo,ESP-La Liga,MF,0,1,0,0.0,1.7,1.279396169889491
+Franco Cervi,Celta Vigo,ESP-La Liga,DF,0,0,1,1.0,1.2,1.1031860999477867
+Gabriel Veiga,Celta Vigo,ESP-La Liga,FW,1,0,0,0.0,0.0,2.054839602302123
+Hugo Sotelo,Celta Vigo,ESP-La Liga,MF,0,1,0,1.0,1.1,0.7635239798309197
+Hugo Álvarez,Celta Vigo,ESP-La Liga,DF,0,0,1,1.0,1.8,2.4
+Iago Aspas,Celta Vigo,ESP-La Liga,FW,1,0,0,10.0,9.3,5.5870971814331165
+Jailson Siqueira,Celta Vigo,ESP-La Liga,MF,0,1,0,1.0,0.4,0.3419760500933033
+Javier Manquillo,Celta Vigo,ESP-La Liga,MF,0,1,0,1.0,0.4,0.4644807739234556
+Javier Rueda Garcia,Celta Vigo,ESP-La Liga,DF,0,0,1,0.0,0.0,0.2840747160336411
+Jonathan Bamba,Celta Vigo,ESP-La Liga,FW,1,0,0,2.0,3.7,3.4963711852885195
+Joseph Aidoo,Celta Vigo,ESP-La Liga,DF,0,0,1,0.0,0.0,0.38290794924377286
+Jørgen Strand Larsen,Celta Vigo,ESP-La Liga,FW,1,0,0,3.0,2.1,2.305974627138833
+Kevin Vázquez,Celta Vigo,ESP-La Liga,DF,0,0,1,0.0,0.4,0.29779838103973527
+Luca de la Torre,Celta Vigo,ESP-La Liga,MF,0,1,0,4.0,1.5,1.2583727560962612
+Manu Sánchez,Celta Vigo,ESP-La Liga,MF,0,1,0,5.0,3.0,1.8724670079333285
+Miguel Rodríguez,Celta Vigo,ESP-La Liga,MF,0,1,0,0.0,0.2,0.5437204962479278
+Mihailo Ristić,Celta Vigo,ESP-La Liga,MF,0,1,0,0.0,0.5,1.2
+Renato Tapia,Celta Vigo,ESP-La Liga,DF,0,0,1,0.0,0.7,0.6378440845401466
+Tadeo Allende,Celta Vigo,ESP-La Liga,FW,1,0,0,0.0,0.2,0.3330287421085745
+Unai Núñez,Celta Vigo,ESP-La Liga,DF,0,0,1,0.0,1.0,0.5830630625990945
+Williot Swedberg,Celta Vigo,ESP-La Liga,MF,0,1,0,0.0,0.7,3.5999999999999996
+Yoel Lago,Celta Vigo,ESP-La Liga,DF,0,0,1,0.0,0.0,0.301467232110156
+Óscar Mingueza,Celta Vigo,ESP-La Liga,MF,0,1,0,2.0,6.2,3.434995261640547
+Aiham Ousou,Cádiz,ESP-La Liga,DF,0,0,1,0.0,0.2,0.25460474040748504
+Borja Vázquez,Cádiz,ESP-La Liga,FW,1,0,0,0.0,0.0,0.38870528518085246
+Brian Ocampo,Cádiz,ESP-La Liga,FW,1,0,0,0.0,0.2,0.8531791597078879
+Chris Ramos,Cádiz,ESP-La Liga,MF,0,1,0,1.0,1.4,1.5224306875421447
+Darwin Machís,Cádiz,ESP-La Liga,MF,0,1,0,0.0,1.1,0.9962577451965569
+Diadie Samassékou,Cádiz,ESP-La Liga,MF,0,1,0,0.0,0.0,0.2765893105257901
+Fali,Cádiz,ESP-La Liga,DF,0,0,1,0.0,0.3,0.3491354866302127
+Fede San Emeterio,Cádiz,ESP-La Liga,MF,0,1,0,0.0,0.2,0.5473297129713842
+Gonzalo Escalante,Cádiz,ESP-La Liga,MF,0,1,0,2.0,1.6,0.6201808126570308
+Isaac Carcelen,Cádiz,ESP-La Liga,DF,0,0,1,0.0,1.3,1.0560886158583713
+Iván Alejo,Cádiz,ESP-La Liga,MF,0,1,0,2.0,2.8,1.3431935271871012
+Javi Hernández,Cádiz,ESP-La Liga,DF,0,0,1,2.0,2.8,1.255506316743113
+Jorge Meré,Cádiz,ESP-La Liga,DF,0,0,1,0.0,0.0,0.21994860240115643
+Joseba Zaldúa,Cádiz,ESP-La Liga,DF,0,0,1,0.0,0.9,0.5504974693249399
+José Mari,Cádiz,ESP-La Liga,FW,1,0,0,0.0,0.0,0.32861540122798766
+Juanmi,Cádiz,ESP-La Liga,FW,1,0,0,1.0,0.6,0.7558310498629579
+Karl Etta,Cádiz,ESP-La Liga,FW,1,0,0,0.0,0.0,0.26607702968960356
+Lucas,Cádiz,ESP-La Liga,DF,0,0,1,0.0,2.0,1.190889869518347
+Luis Hernández,Cádiz,ESP-La Liga,DF,0,0,1,0.0,0.4,0.6877674432301284
+Mamadou Mbaye,Cádiz,ESP-La Liga,DF,0,0,1,0.0,0.0,0.22743883561533573
+Maxi Gómez,Cádiz,ESP-La Liga,FW,1,0,0,0.0,0.5,0.6759308534247271
+Milutin Osmajić,Cádiz,ESP-La Liga,MF,0,1,0,0.0,0.0,1.08725393859241
+Moussa Diakité,Cádiz,ESP-La Liga,MF,0,1,0,0.0,0.0,0.3037297061136559
+Roberto Navarro,Cádiz,ESP-La Liga,FW,1,0,0,1.0,2.4,1.404371147853009
+Roger Martí,Cádiz,ESP-La Liga,FW,1,0,0,3.0,1.3,0.817695063247029
+Rominigue Kouamé,Cádiz,ESP-La Liga,MF,0,1,0,0.0,0.3,0.5736757454348635
+Rubén Alcaraz,Cádiz,ESP-La Liga,MF,0,1,0,1.0,1.6,0.904243455009648
+Rubén Sobrino,Cádiz,ESP-La Liga,FW,1,0,0,1.0,1.7,1.1668848377637784
+Sergi Guardiola,Cádiz,ESP-La Liga,MF,0,1,0,1.0,0.8,0.4086605181439963
+Víctor Chust,Cádiz,ESP-La Liga,DF,0,0,1,1.0,0.2,0.2626893517470882
+Álex Fernández,Cádiz,ESP-La Liga,MF,0,1,0,1.0,1.4,0.7704977035214262
+Álvaro Negredo,Cádiz,ESP-La Liga,MF,0,1,0,0.0,0.1,0.49234018666346546
+Alberto Risco,Getafe,ESP-La Liga,MF,0,1,0,0.0,0.2,0.32248879455632495
+Anthony Lozano,Getafe,ESP-La Liga,FW,1,0,0,0.0,0.2,0.36747951002827883
+Borja Mayoral,Getafe,ESP-La Liga,FW,1,0,0,1.0,1.3,1.9603223916644148
+Carles Aleñá,Getafe,ESP-La Liga,MF,0,1,0,1.0,1.0,1.075204958843607
+Carmona,Getafe,ESP-La Liga,MF,0,1,0,1.0,1.4,1.1426605368113811
+Damián Suárez,Getafe,ESP-La Liga,DF,0,0,1,2.0,1.1,0.9465465798541064
+Diego Rico,Getafe,ESP-La Liga,DF,0,0,1,7.0,3.4,1.7482524026877249
+Djené,Getafe,ESP-La Liga,MF,0,1,0,0.0,0.7,0.8305932322941589
+Domingos Duarte,Getafe,ESP-La Liga,DF,0,0,1,0.0,0.1,0.3556241728519459
+Enes Ünal,Getafe,ESP-La Liga,MF,0,1,0,1.0,0.4,1.2
+Fabrizio Angileri,Getafe,ESP-La Liga,MF,0,1,0,0.0,0.9,0.518192131252914
+Gastón Álvarez,Getafe,ESP-La Liga,DF,0,0,1,0.0,0.4,0.5129402438300554
+Gorka Rivera Alonso,Getafe,ESP-La Liga,DF,0,0,1,0.0,0.0,0.26688093634672755
+Iglesias,Getafe,ESP-La Liga,FW,1,0,0,2.0,1.0,0.8669898407771537
+Ilaix Moriba,Getafe,ESP-La Liga,FW,1,0,0,2.0,0.4,1.2
+Jaime Mata,Getafe,ESP-La Liga,MF,0,1,0,1.0,1.6,1.2160592481247285
+Jeremy Jorge,Getafe,ESP-La Liga,FW,1,0,0,0.0,0.0,0.3214308525847204
+Jesús Santiago,Getafe,ESP-La Liga,MF,0,1,0,0.0,0.2,0.35079539920342495
+Jordi,Getafe,ESP-La Liga,DF,0,0,1,0.0,0.4,0.43399112097257203
+Juanmi Latasa,Getafe,ESP-La Liga,FW,1,0,0,0.0,1.4,1.0491935491150928
+Luis Milla,Getafe,ESP-La Liga,MF,0,1,0,1.0,2.1,1.245885251140116
+Mason Greenwood,Getafe,ESP-La Liga,FW,1,0,0,6.0,4.3,3.7838089051363206
+Mauro Arambarri,Getafe,ESP-La Liga,MF,0,1,0,0.0,0.1,1.0662019233280526
+Nabil Aberdin,Getafe,ESP-La Liga,DF,0,0,1,0.0,0.0,0.29181466386165866
+Nemanja Maksimović,Getafe,ESP-La Liga,MF,0,1,0,0.0,1.6,1.0399280299663165
+Omar Alderete,Getafe,ESP-La Liga,DF,0,0,1,1.0,0.8,0.5789218721840271
+Portu,Getafe,ESP-La Liga,FW,1,0,0,0.0,0.3,1.2
+Santiago García,Getafe,ESP-La Liga,FW,1,0,0,0.0,0.1,0.34735575127832874
+Stefan Mitrović,Getafe,ESP-La Liga,DF,0,0,1,0.0,0.3,0.2548710819277123
+Yassin Tallal,Getafe,ESP-La Liga,FW,1,0,0,0.0,0.0,0.2914650494525865
+Óscar Rodríguez Arnaiz,Getafe,ESP-La Liga,FW,1,0,0,1.0,1.4,3.5999999999999996
+Aleix García,Girona,ESP-La Liga,MF,0,1,0,6.0,6.0,4.855122761926171
+Antal Yaakobishvili,Girona,ESP-La Liga,DF,0,0,1,0.0,0.1,0.4088271468079072
+Arnau Martinez,Girona,ESP-La Liga,DF,0,0,1,2.0,1.5,2.4
+Artem Dovbyk,Girona,ESP-La Liga,FW,1,0,0,8.0,3.7,4.350442504404711
+Bernardo Espinosa,Girona,ESP-La Liga,DF,0,0,1,0.0,0.0,0.45003338707430435
+Cristhian Stuani,Girona,ESP-La Liga,FW,1,0,0,3.0,0.5,2.4
+Daley Blind,Girona,ESP-La Liga,DF,0,0,1,2.0,1.9,1.0094514796258862
+David López,Girona,ESP-La Liga,DF,0,0,1,0.0,0.4,0.5697744463965583
+Eric García,Girona,ESP-La Liga,DF,0,0,1,0.0,1.1,0.9408187218957611
+Ibrahima Kebe,Girona,ESP-La Liga,MF,0,1,0,0.0,0.0,0.42620892419310996
+Iván Martín,Girona,ESP-La Liga,MF,0,1,0,4.0,3.3,3.259652499100374
+Jastin García,Girona,ESP-La Liga,FW,1,0,0,0.0,0.0,0.44891417093448266
+Jhon Solis,Girona,ESP-La Liga,MF,0,1,0,0.0,0.2,0.5100768254980443
+Juanpe,Girona,ESP-La Liga,DF,0,0,1,0.0,0.0,0.4103264814621507
+Miguel Gutiérrez,Girona,ESP-La Liga,DF,0,0,1,7.0,6.8,6.720655494046875
+Pablo Torre,Girona,ESP-La Liga,FW,1,0,0,2.0,1.5,1.2452604711724335
+Portu,Girona,ESP-La Liga,FW,1,0,0,5.0,2.2,2.5434113504360223
+Silvi Clúa,Girona,ESP-La Liga,MF,0,1,0,0.0,0.0,0.5114591811359582
+Sávio,Girona,ESP-La Liga,MF,0,1,0,10.0,9.9,6.753727613767638
+Toni Villa,Girona,ESP-La Liga,FW,1,0,0,0.0,0.0,0.4631995203030363
+Valery Fernández,Girona,ESP-La Liga,FW,1,0,0,0.0,0.5,1.2413657613013593
+Viktor Tsyhankov,Girona,ESP-La Liga,FW,1,0,0,7.0,6.5,5.012932648075879
+Yan Couto,Girona,ESP-La Liga,FW,1,0,0,8.0,4.3,3.1164303247247935
+Yangel Herrera,Girona,ESP-La Liga,MF,0,1,0,0.0,1.9,3.5999999999999996
+Adri Bosch,Granada,ESP-La Liga,DF,0,0,1,0.0,0.0,0.20414134081815422
+Alberto Perea,Granada,ESP-La Liga,FW,1,0,0,0.0,0.0,0.37245367735141954
+Alberto Soro,Granada,ESP-La Liga,MF,0,1,0,0.0,0.0,0.6291618634406874
+Antonio Puertas,Granada,ESP-La Liga,FW,1,0,0,2.0,0.6,0.8371766017744351
+Brau,Granada,ESP-La Liga,DF,0,0,1,0.0,0.0,0.3016416106206371
+Bruno Méndez,Granada,ESP-La Liga,DF,0,0,1,0.0,0.2,0.3111346291398794
+Bryan Zaragoza,Granada,ESP-La Liga,FW,1,0,0,2.0,4.2,6.0
+Carlos Neva,Granada,ESP-La Liga,DF,0,0,1,2.0,1.4,0.8872194528351254
+Facundo Pellistri,Granada,ESP-La Liga,FW,1,0,0,1.0,1.1,1.38979805027875
+Faitout Maouassa,Granada,ESP-La Liga,MF,0,1,0,1.0,0.4,0.8928468915582282
+Famara Diedhiou,Granada,ESP-La Liga,MF,0,1,0,1.0,0.2,0.4099094740889651
+Gerard Gumbau,Granada,ESP-La Liga,MF,0,1,0,3.0,4.0,2.6234167584585983
+Gonzalo Villar,Granada,ESP-La Liga,MF,0,1,0,3.0,2.2,1.17530413919047
+Ignasi Miquel,Granada,ESP-La Liga,DF,0,0,1,1.0,0.8,0.5070309624787946
+Jesús Vallejo,Granada,ESP-La Liga,DF,0,0,1,0.0,0.0,0.3772329074375979
+José Callejón,Granada,ESP-La Liga,FW,1,0,0,1.0,1.4,0.9461822967332818
+Kamil Jóźwiak,Granada,ESP-La Liga,MF,0,1,0,1.0,0.6,0.623863711526467
+Kamil Piątkowski,Granada,ESP-La Liga,DF,0,0,1,0.0,0.1,0.26302364911772746
+Lucas Boyé,Granada,ESP-La Liga,FW,1,0,0,3.0,2.0,1.534687046316667
+Martin Hongla,Granada,ESP-La Liga,DF,0,0,1,0.0,0.1,0.3586135240919541
+Matias Arezo,Granada,ESP-La Liga,FW,1,0,0,0.0,0.1,0.31566589114271437
+Miguel Ángel Rubio,Granada,ESP-La Liga,DF,0,0,1,0.0,0.1,0.22781784808649394
+Myrto Uzuni,Granada,ESP-La Liga,FW,1,0,0,1.0,3.0,1.8750133700383367
+Njegoš Petrović,Granada,ESP-La Liga,FW,1,0,0,0.0,0.1,0.4232453335497115
+Pablo Saenz,Granada,ESP-La Liga,MF,0,1,0,0.0,0.0,0.29870097045013727
+Raúl Torrente,Granada,ESP-La Liga,DF,0,0,1,0.0,0.3,0.2290159742985709
+Ricard Sánchez,Granada,ESP-La Liga,DF,0,0,1,0.0,2.7,1.1511056784558775
+Samu Omorodion,Granada,ESP-La Liga,FW,1,0,0,0.0,0.0,0.9286387889322965
+Sergio Rodelas,Granada,ESP-La Liga,DF,0,0,1,1.0,0.8,0.7630884414270418
+Sergio Ruiz,Granada,ESP-La Liga,MF,0,1,0,4.0,1.8,1.096081020923372
+Shon Weissman,Granada,ESP-La Liga,FW,1,0,0,0.0,0.0,0.34724224410828614
+Theo Corbeanu,Granada,ESP-La Liga,FW,1,0,0,0.0,0.2,0.4148199778430087
+Víctor Díaz,Granada,ESP-La Liga,MF,0,1,0,0.0,0.0,0.20457225383077549
+Wilson Manafá,Granada,ESP-La Liga,MF,0,1,0,0.0,0.2,0.32549260763283333
+Álvaro Carreras,Granada,ESP-La Liga,FW,1,0,0,0.0,0.4,0.5204518585125919
+Óscar Melendo,Granada,ESP-La Liga,FW,1,0,0,0.0,1.0,0.6761997292070039
+Alberto Moleiro,Las Palmas,ESP-La Liga,MF,0,1,0,3.0,2.7,2.349425314322993
+Benito Ramírez,Las Palmas,ESP-La Liga,MF,0,1,0,1.0,0.4,0.6018736207585342
+Cristian Herrera,Las Palmas,ESP-La Liga,MF,0,1,0,0.0,0.1,0.5232446373250228
+Daley Sinkgraven,Las Palmas,ESP-La Liga,DF,0,0,1,0.0,0.1,0.3820944880717372
+Enzo Loiodice,Las Palmas,ESP-La Liga,MF,0,1,0,1.0,1.8,1.4440860801759214
+Eric Curbelo,Las Palmas,ESP-La Liga,MF,0,1,0,0.0,0.0,0.2615250894255108
+Fabio González,Las Palmas,ESP-La Liga,MF,0,1,0,0.0,0.1,0.28463112067467944
+Iñaki González,Las Palmas,ESP-La Liga,MF,0,1,0,0.0,0.0,0.3820387937554707
+Javier Muñoz,Las Palmas,ESP-La Liga,MF,0,1,0,3.0,1.8,2.4
+Jonathan Viera,Las Palmas,ESP-La Liga,FW,1,0,0,1.0,1.2,1.0980986476003236
+José Campaña,Las Palmas,ESP-La Liga,MF,0,1,0,0.0,0.1,2.4
+Juan Herzog,Las Palmas,ESP-La Liga,DF,0,0,1,0.0,0.0,0.32590920336785745
+Julian Araujo,Las Palmas,ESP-La Liga,DF,0,0,1,0.0,0.9,0.6945985943416924
+Kirian Rodríguez,Las Palmas,ESP-La Liga,MF,0,1,0,2.0,2.8,3.5999999999999996
+Marc Cardona,Las Palmas,ESP-La Liga,FW,1,0,0,1.0,0.6,1.088380476561644
+Marvin,Las Palmas,ESP-La Liga,DF,0,0,1,2.0,2.0,1.5435807230094911
+Mika Màrmol,Las Palmas,ESP-La Liga,DF,0,0,1,1.0,1.1,0.5431525333126328
+Munir El Haddadi,Las Palmas,ESP-La Liga,FW,1,0,0,2.0,2.8,1.832162834873454
+Máximo Perrone,Las Palmas,ESP-La Liga,MF,0,1,0,0.0,1.2,2.4
+Omenuke Mfulu,Las Palmas,ESP-La Liga,FW,1,0,0,0.0,0.0,0.3254003842916326
+Pejiño,Las Palmas,ESP-La Liga,FW,1,0,0,0.0,0.5,0.8749334242430804
+Sandro Ramírez,Las Palmas,ESP-La Liga,FW,1,0,0,3.0,3.0,1.9515125725384466
+Saúl Coco,Las Palmas,ESP-La Liga,DF,0,0,1,0.0,0.2,0.3670478569164587
+Sergi Cardona,Las Palmas,ESP-La Liga,DF,0,0,1,2.0,3.7,7.199999999999999
+Sory Kaba,Las Palmas,ESP-La Liga,FW,1,0,0,1.0,0.4,0.4914382710073567
+Álex Suárez,Las Palmas,ESP-La Liga,DF,0,0,1,0.0,0.6,0.5299565275237006
+Álvaro Lemos,Las Palmas,ESP-La Liga,DF,0,0,1,0.0,0.1,0.3014328404400531
+Abdón Prats,Mallorca,ESP-La Liga,MF,0,1,0,1.0,1.2,0.9770527228238146
+Amath,Mallorca,ESP-La Liga,MF,0,1,0,0.0,0.3,1.2
+Antonio Raillo,Mallorca,ESP-La Liga,DF,0,0,1,2.0,0.8,0.6713040200282955
+Antonio Sánchez,Mallorca,ESP-La Liga,MF,0,1,0,1.0,1.8,1.1457560995057838
+Copete,Mallorca,ESP-La Liga,DF,0,0,1,1.0,0.5,0.31261833235594383
+Cyle Larin,Mallorca,ESP-La Liga,FW,1,0,0,2.0,0.5,2.4
+Dani Rodríguez,Mallorca,ESP-La Liga,MF,0,1,0,4.0,5.2,7.199999999999999
+Giovanni González,Mallorca,ESP-La Liga,DF,0,0,1,1.0,1.9,1.3422167766245474
+Jaume Costa,Mallorca,ESP-La Liga,DF,0,0,1,1.0,1.2,1.1207616224885224
+Javier Llabrés,Mallorca,ESP-La Liga,FW,1,0,0,0.0,0.3,0.4728919676107551
+Manu Morlanes,Mallorca,ESP-La Liga,MF,0,1,0,2.0,2.0,1.0996271409501397
+Martin Valjent,Mallorca,ESP-La Liga,DF,0,0,1,1.0,1.0,0.7540640960592511
+Matija Nastasić,Mallorca,ESP-La Liga,DF,0,0,1,0.0,0.7,0.2868462494121393
+Nacho Vidal,Mallorca,ESP-La Liga,DF,0,0,1,0.0,0.3,0.5630206069734899
+Nemanja Radonjić,Mallorca,ESP-La Liga,DF,0,0,1,0.0,0.7,1.3548952575379987
+Omar Mascarell,Mallorca,ESP-La Liga,MF,0,1,0,0.0,0.2,0.5604401783109048
+Pablo Maffeo,Mallorca,ESP-La Liga,DF,0,0,1,2.0,0.9,1.2626800129715312
+Samu Costa,Mallorca,ESP-La Liga,MF,0,1,0,1.0,1.0,2.4
+Sergi Darder,Mallorca,ESP-La Liga,MF,0,1,0,5.0,5.0,3.217182557511954
+Siebe Van Der Heyden,Mallorca,ESP-La Liga,DF,0,0,1,0.0,0.1,0.23604034307901406
+Toni Lato,Mallorca,ESP-La Liga,DF,0,0,1,1.0,1.3,1.1508843652773921
+Vedat Muriqi,Mallorca,ESP-La Liga,FW,1,0,0,2.0,1.8,2.4
+Aimar Oroz,Osasuna,ESP-La Liga,MF,0,1,0,1.0,2.2,1.763155589244922
+Ante Budimir,Osasuna,ESP-La Liga,FW,1,0,0,2.0,1.8,2.4
+Asier Osambela,Osasuna,ESP-La Liga,MF,0,1,0,0.0,0.0,0.30430535974289524
+Catena,Osasuna,ESP-La Liga,DF,0,0,1,3.0,1.0,0.468420418534985
+Darko Brašanac,Osasuna,ESP-La Liga,MF,0,1,0,0.0,0.0,2.4
+David García,Osasuna,ESP-La Liga,DF,0,0,1,1.0,1.0,0.6117964916183143
+Ezequiel Ávila,Osasuna,ESP-La Liga,MF,0,1,0,3.0,2.7,1.7485645333857498
+Iker Muñoz,Osasuna,ESP-La Liga,MF,0,1,0,0.0,0.5,0.5579604604655513
+Iñigo Arguibide,Osasuna,ESP-La Liga,DF,0,0,1,0.0,0.0,0.29409444761406195
+Jesús Areso,Osasuna,ESP-La Liga,DF,0,0,1,6.0,2.9,1.806599501938072
+Johan Mojica,Osasuna,ESP-La Liga,DF,0,0,1,3.0,3.2,1.492378587708651
+Jon Moncayola,Osasuna,ESP-La Liga,MF,0,1,0,3.0,2.5,1.5483261781425777
+Jorge Herrando,Osasuna,ESP-La Liga,DF,0,0,1,1.0,0.1,0.23042100745698058
+Jorge Moreno,Osasuna,ESP-La Liga,DF,0,0,1,0.0,0.0,0.3068407325210874
+José Arnaiz,Osasuna,ESP-La Liga,MF,0,1,0,1.0,1.6,1.3200395203145656
+Juan Cruz Armada,Osasuna,ESP-La Liga,DF,0,0,1,1.0,0.6,0.702417325423473
+Kike Barja,Osasuna,ESP-La Liga,MF,0,1,0,0.0,0.4,1.2259984451399828
+Lucas Torró,Osasuna,ESP-La Liga,MF,0,1,0,0.0,0.6,0.49489495397335387
+Max Svensson,Osasuna,ESP-La Liga,FW,1,0,0,0.0,0.0,0.11554031213446143
+Moi Gómez,Osasuna,ESP-La Liga,FW,1,0,0,0.0,1.9,2.0237687067038874
+Nacho Vidal,Osasuna,ESP-La Liga,FW,1,0,0,0.0,0.0,0.512326669464881
+Pablo Ibáñez,Osasuna,ESP-La Liga,MF,0,1,0,2.0,1.1,1.0271862111660086
+Raúl,Osasuna,ESP-La Liga,FW,1,0,0,1.0,0.8,1.1230373435977745
+Rubén García,Osasuna,ESP-La Liga,MF,0,1,0,2.0,3.5,4.8
+Rubén Peña,Osasuna,ESP-La Liga,FW,1,0,0,2.0,3.0,1.5623237606174083
+Unai García,Osasuna,ESP-La Liga,DF,0,0,1,0.0,0.0,0.39892002776725544
+Xabier Huarte Armendáriz,Osasuna,ESP-La Liga,MF,0,1,0,0.0,0.0,0.27570798439329075
+Abdul Mumin,Rayo Vallecano,ESP-La Liga,DF,0,0,1,0.0,0.1,1.2
+Alfonso Espino,Rayo Vallecano,ESP-La Liga,DF,0,0,1,1.0,2.9,1.8856477805444856
+Andrei Ratiu,Rayo Vallecano,ESP-La Liga,MF,0,1,0,0.0,0.6,2.4
+Aridane Hernández,Rayo Vallecano,ESP-La Liga,DF,0,0,1,0.0,0.1,0.2174044387181382
+Bebé,Rayo Vallecano,ESP-La Liga,FW,1,0,0,0.0,0.5,0.5785792757773383
+Crespo,Rayo Vallecano,ESP-La Liga,MF,0,1,0,0.0,0.5,0.4026964154594976
+Diego Méndez,Rayo Vallecano,ESP-La Liga,MF,0,1,0,0.0,0.0,0.3570875755825206
+Florian Lejeune,Rayo Vallecano,ESP-La Liga,DF,0,0,1,1.0,0.8,2.4
+Isaac Palazón Camacho,Rayo Vallecano,ESP-La Liga,FW,1,0,0,1.0,2.2,3.5999999999999996
+Iván Balliu,Rayo Vallecano,ESP-La Liga,DF,0,0,1,1.0,2.3,1.577083251566201
+Jorge de Frutos,Rayo Vallecano,ESP-La Liga,MF,0,1,0,0.0,1.2,3.5999999999999996
+José Pozo,Rayo Vallecano,ESP-La Liga,MF,0,1,0,0.0,0.0,0.3375090873604954
+Kike Pérez,Rayo Vallecano,ESP-La Liga,FW,1,0,0,0.0,0.9,1.0163063520582363
+Pathé Ciss,Rayo Vallecano,ESP-La Liga,MF,0,1,0,0.0,0.7,1.2
+Pep Chavarría,Rayo Vallecano,ESP-La Liga,MF,0,1,0,1.0,1.2,1.344919706106035
+Radamel Falcao,Rayo Vallecano,ESP-La Liga,DF,0,0,1,0.0,0.3,0.3679420542142418
+Randy Nteka,Rayo Vallecano,ESP-La Liga,MF,0,1,0,1.0,0.9,0.5821859114101533
+Raúl de Tomás,Rayo Vallecano,ESP-La Liga,FW,1,0,0,2.0,0.4,0.9125451516706604
+Salvi,Rayo Vallecano,ESP-La Liga,MF,0,1,0,0.0,0.0,0.497982024860858
+Sergio Camello,Rayo Vallecano,ESP-La Liga,FW,1,0,0,1.0,1.3,2.4
+Unai López,Rayo Vallecano,ESP-La Liga,MF,0,1,0,2.0,2.7,1.5142853905912923
+Álvaro García,Rayo Vallecano,ESP-La Liga,MF,0,1,0,1.0,2.9,3.5999999999999996
+Óscar Trejo,Rayo Vallecano,ESP-La Liga,MF,0,1,0,0.0,2.1,1.7938181482292177
+Óscar Valentín,Rayo Vallecano,ESP-La Liga,MF,0,1,0,0.0,0.7,0.7717930736663985
+Antonio Rüdiger,Real Madrid,ESP-La Liga,DF,0,0,1,0.0,1.0,0.7729341238226596
+Arda Güler,Real Madrid,ESP-La Liga,MF,0,1,0,0.0,0.5,3.5999999999999996
+Aurélien Tchouaméni,Real Madrid,ESP-La Liga,DF,0,0,1,1.0,1.4,1.6204706117699739
+Brahim Díaz,Real Madrid,ESP-La Liga,MF,0,1,0,6.0,4.7,4.273854113607802
+Dani Carvajal,Real Madrid,ESP-La Liga,DF,0,0,1,3.0,3.1,2.1914072167038032
+Dani Ceballos,Real Madrid,ESP-La Liga,FW,1,0,0,2.0,1.0,1.4495626595186104
+David Alaba,Real Madrid,ESP-La Liga,DF,0,0,1,1.0,0.8,0.9938315974088539
+Eduardo Camavinga,Real Madrid,ESP-La Liga,DF,0,0,1,2.0,1.8,2.539706265269635
+Federico Valverde,Real Madrid,ESP-La Liga,MF,0,1,0,7.0,3.4,4.35915163923733
+Ferland Mendy,Real Madrid,ESP-La Liga,DF,0,0,1,0.0,0.7,1.4961972039282316
+Fran Garcia,Real Madrid,ESP-La Liga,DF,0,0,1,5.0,1.8,1.7289167488056019
+Gonzalo García,Real Madrid,ESP-La Liga,MF,0,1,0,0.0,0.0,0.5539234872924639
+Joselu,Real Madrid,ESP-La Liga,FW,1,0,0,2.0,2.0,2.1703120781501557
+Jude Bellingham,Real Madrid,ESP-La Liga,MF,0,1,0,6.0,4.3,7.706877886976067
+Lucas Vázquez,Real Madrid,ESP-La Liga,DF,0,0,1,6.0,3.6,2.9312816290294608
+Luka Modrić,Real Madrid,ESP-La Liga,MF,0,1,0,6.0,4.8,3.953392916479863
+Mario Martín,Real Madrid,ESP-La Liga,MF,0,1,0,0.0,0.0,1.2
+Nacho,Real Madrid,ESP-La Liga,DF,0,0,1,1.0,0.9,0.672345399024628
+Nicolás Paz,Real Madrid,ESP-La Liga,FW,1,0,0,0.0,0.0,4.8
+Rodrygo,Real Madrid,ESP-La Liga,FW,1,0,0,5.0,4.2,6.0
+Toni Kroos,Real Madrid,ESP-La Liga,MF,0,1,0,8.0,5.9,4.046500421351648
+Vinicius Júnior,Real Madrid,ESP-La Liga,FW,1,0,0,5.0,4.4,6.0
+Álvaro Rodríguez,Real Madrid,ESP-La Liga,FW,1,0,0,0.0,0.0,0.7638407801944972
+Éder Militão,Real Madrid,ESP-La Liga,DF,0,0,1,0.0,0.0,1.2
+Aihen Muñoz,Real Sociedad,ESP-La Liga,DF,0,0,1,2.0,0.9,0.760288815708699
+Alberto Dadie,Real Sociedad,ESP-La Liga,MF,0,1,0,0.0,0.1,0.3779644368956204
+Alex Sola,Real Sociedad,ESP-La Liga,MF,0,1,0,0.0,0.0,1.2
+Ander Barrenetxea,Real Sociedad,ESP-La Liga,MF,0,1,0,1.0,1.1,2.4
+André Silva,Real Sociedad,ESP-La Liga,FW,1,0,0,0.0,0.2,1.0083823967241026
+Aritz Elustondo,Real Sociedad,ESP-La Liga,DF,0,0,1,1.0,0.1,0.4598587150921376
+Arsen Zakharyan,Real Sociedad,ESP-La Liga,FW,1,0,0,2.0,2.3,2.186488405992078
+Beñat Turrientes,Real Sociedad,ESP-La Liga,MF,0,1,0,1.0,0.6,0.8484394298647393
+Brais Méndez,Real Sociedad,ESP-La Liga,FW,1,0,0,6.0,4.4,3.7834026900859126
+Carlos Fernández,Real Sociedad,ESP-La Liga,FW,1,0,0,1.0,0.2,0.46054453378410753
+Hamari Traoré,Real Sociedad,ESP-La Liga,DF,0,0,1,2.0,2.2,2.3396882974316657
+Igor Zubeldia,Real Sociedad,ESP-La Liga,DF,0,0,1,2.0,0.8,0.6205013138051612
+Javi Galán,Real Sociedad,ESP-La Liga,DF,0,0,1,1.0,0.9,2.4
+Jon Aramburu,Real Sociedad,ESP-La Liga,DF,0,0,1,0.0,0.1,1.2
+Jon Magunazelaia,Real Sociedad,ESP-La Liga,MF,0,1,0,0.0,0.3,0.4630217800356654
+Jon Martin,Real Sociedad,ESP-La Liga,DF,0,0,1,0.0,0.0,1.2
+Jon Pacheco,Real Sociedad,ESP-La Liga,DF,0,0,1,1.0,0.3,0.4477766169749887
+Kieran Tierney,Real Sociedad,ESP-La Liga,DF,0,0,1,2.0,1.1,0.7972507104086751
+Martín Zubimendi,Real Sociedad,ESP-La Liga,MF,0,1,0,1.0,2.0,1.58957199097014
+Mikel Merino,Real Sociedad,ESP-La Liga,MF,0,1,0,3.0,2.8,2.81905052682641
+Mikel Oyarzabal,Real Sociedad,ESP-La Liga,MF,0,1,0,3.0,1.3,2.4107806155456353
+Mohamed Ali Cho,Real Sociedad,ESP-La Liga,MF,0,1,0,0.0,0.3,4.8
+Olasagasti,Real Sociedad,ESP-La Liga,MF,0,1,0,0.0,0.2,1.2
+Robin Le Normand,Real Sociedad,ESP-La Liga,DF,0,0,1,0.0,0.8,0.5637152930661171
+Sheraldo Becker,Real Sociedad,ESP-La Liga,MF,0,1,0,2.0,1.8,2.646849822743606
+Takefusa Kubo,Real Sociedad,ESP-La Liga,MF,0,1,0,4.0,6.5,4.80437569605185
+Umar Sadiq,Real Sociedad,ESP-La Liga,FW,1,0,0,1.0,0.9,1.2849178285431306
+Urko González,Real Sociedad,ESP-La Liga,MF,0,1,0,0.0,0.0,0.35631500212111683
+Álvaro Odriozola,Real Sociedad,ESP-La Liga,DF,0,0,1,0.0,0.2,0.4009319491186626
+Adnan Januzaj,Sevilla,ESP-La Liga,MF,0,1,0,0.0,0.2,1.2
+Adrià Pedrosa,Sevilla,ESP-La Liga,DF,0,0,1,4.0,2.0,1.3782241603809002
+Alejo Véliz,Sevilla,ESP-La Liga,FW,1,0,0,0.0,0.0,0.3715445798959509
+Boubakary Soumaré,Sevilla,ESP-La Liga,MF,0,1,0,1.0,0.7,0.6917419945112324
+Diego Iturralde,Sevilla,ESP-La Liga,DF,0,0,1,0.0,0.0,0.3769723042458317
+Djibril Sow,Sevilla,ESP-La Liga,MF,0,1,0,1.0,1.1,0.8871704478750402
+Dodi Lukebakio,Sevilla,ESP-La Liga,MF,0,1,0,1.0,1.1,2.4349938045962913
+Federico Gattoni,Sevilla,ESP-La Liga,FW,1,0,0,0.0,0.0,0.26502131492650904
+Fernando,Sevilla,ESP-La Liga,MF,0,1,0,0.0,0.3,0.5001468229351547
+Hannibal Mejbri,Sevilla,ESP-La Liga,MF,0,1,0,0.0,0.2,0.3606089688280337
+Isaac Romero,Sevilla,ESP-La Liga,FW,1,0,0,4.0,1.0,2.4
+Ivan Rakitić,Sevilla,ESP-La Liga,MF,0,1,0,1.0,4.1,1.7481689624202956
+Jesús Corona,Sevilla,ESP-La Liga,DF,0,0,1,0.0,0.0,0.3902386185154406
+Jesús Navas,Sevilla,ESP-La Liga,DF,0,0,1,2.0,2.8,1.5693110114900801
+Joan Jordán,Sevilla,ESP-La Liga,MF,0,1,0,0.0,0.1,2.4
+Juanlu Sánchez,Sevilla,ESP-La Liga,DF,0,0,1,2.0,1.1,3.5999999999999996
+Kike Salas,Sevilla,ESP-La Liga,DF,0,0,1,0.0,0.8,2.4
+Loïc Bade,Sevilla,ESP-La Liga,DF,0,0,1,1.0,0.5,1.2
+Lucas Ocampos,Sevilla,ESP-La Liga,MF,0,1,0,3.0,4.1,2.8032007145358784
+Lucien Agoume,Sevilla,ESP-La Liga,MF,0,1,0,0.0,0.3,0.7337426694035925
+Manu Bueno,Sevilla,ESP-La Liga,MF,0,1,0,0.0,0.0,0.42829178499034004
+Marcos Acuña,Sevilla,ESP-La Liga,DF,0,0,1,2.0,2.1,2.1059494781050367
+Marcão,Sevilla,ESP-La Liga,DF,0,0,1,0.0,0.1,0.2977221890916153
+Mariano,Sevilla,ESP-La Liga,MF,0,1,0,0.0,0.1,0.3929622997816382
+Nemanja Gudelj,Sevilla,ESP-La Liga,MF,0,1,0,1.0,0.4,1.2
+Rafa Mir,Sevilla,ESP-La Liga,MF,0,1,0,0.0,0.1,1.2
+Sergio Ramos,Sevilla,ESP-La Liga,DF,0,0,1,0.0,0.4,0.617463950309881
+Suso,Sevilla,ESP-La Liga,FW,1,0,0,4.0,4.9,2.850156093922456
+Tanguy Nianzou,Sevilla,ESP-La Liga,DF,0,0,1,0.0,0.0,0.3560260883584139
+Youssef En-Nesyri,Sevilla,ESP-La Liga,FW,1,0,0,2.0,0.9,1.4758942545244156
+Érik Lamela,Sevilla,ESP-La Liga,MF,0,1,0,0.0,0.7,0.7838718820138519
+Óliver Torres,Sevilla,ESP-La Liga,MF,0,1,0,1.0,2.5,1.836850266599844
+Alberto Marí,Valencia,ESP-La Liga,FW,1,0,0,1.0,0.9,0.4823802079040278
+Cenk Özkacar,Valencia,ESP-La Liga,DF,0,0,1,0.0,0.3,0.31228178383170585
+Cristhian Mosquera,Valencia,ESP-La Liga,DF,0,0,1,0.0,0.2,0.34328476091627935
+César Tárrega,Valencia,ESP-La Liga,DF,0,0,1,0.0,0.0,0.38351333534934656
+Diego López,Valencia,ESP-La Liga,FW,1,0,0,6.0,2.4,4.8
+Dimitri Foulquier,Valencia,ESP-La Liga,MF,0,1,0,0.0,0.8,1.371221598439058
+Domingos André Ribeiro Almeida,Valencia,ESP-La Liga,MF,0,1,0,1.0,0.9,1.7628851364604308
+Francisco Perez,Valencia,ESP-La Liga,FW,1,0,0,4.0,2.1,1.5912407064865006
+Gabriel Paulista,Valencia,ESP-La Liga,DF,0,0,1,0.0,0.3,0.36300284645071956
+Hugo Duro,Valencia,ESP-La Liga,FW,1,0,0,2.0,0.6,2.4
+Hugo González,Valencia,ESP-La Liga,FW,1,0,0,1.0,0.2,0.39362142346158324
+Hugo Guillamón,Valencia,ESP-La Liga,MF,0,1,0,0.0,0.5,0.6036690574051575
+Javier Guerra,Valencia,ESP-La Liga,MF,0,1,0,1.0,1.9,3.5999999999999996
+Jesus Vazquez,Valencia,ESP-La Liga,MF,0,1,0,0.0,0.2,0.48261373846367484
+José Luis García Vayá,Valencia,ESP-La Liga,MF,0,1,0,1.0,4.5,2.4450265152942006
+José Luis Gayà,Valencia,ESP-La Liga,DF,0,0,1,2.0,2.5,2.3086249649928408
+Mario Dominguez,Valencia,ESP-La Liga,FW,1,0,0,0.0,0.0,0.4220097317380215
+Mouctar Diakhaby,Valencia,ESP-La Liga,MF,0,1,0,0.0,0.1,0.3396248224715997
+Pablo Gozalbez,Valencia,ESP-La Liga,FW,1,0,0,0.0,0.0,0.4232478708808942
+Peter Federico,Valencia,ESP-La Liga,FW,1,0,0,0.0,0.5,0.6717807413086979
+Roman Yaremchuk,Valencia,ESP-La Liga,FW,1,0,0,0.0,0.2,0.628432254490495
+Ruben Lendinez,Valencia,ESP-La Liga,DF,0,0,1,0.0,0.0,0.3891368293225662
+Selim Amallah,Valencia,ESP-La Liga,MF,0,1,0,1.0,0.3,1.2
+Sergi Canós,Valencia,ESP-La Liga,FW,1,0,0,2.0,2.1,1.749872137342521
+Thierry Correia,Valencia,ESP-La Liga,DF,0,0,1,2.0,2.5,1.5229329433555332
+Yarek Gasiorowski,Valencia,ESP-La Liga,DF,0,0,1,0.0,0.1,0.3416663753757911
+Adrià Altimira,Villarreal,ESP-La Liga,MF,0,1,0,0.0,0.2,0.3297447508729794
+Alberto Moreno,Villarreal,ESP-La Liga,DF,0,0,1,2.0,1.8,1.4301521883396981
+Alex Baena,Villarreal,ESP-La Liga,FW,1,0,0,14.0,9.5,6.041551341359318
+Alexander Sørloth,Villarreal,ESP-La Liga,FW,1,0,0,6.0,3.0,2.9535487944241536
+Alfonso Pedraza,Villarreal,ESP-La Liga,DF,0,0,1,3.0,2.3,1.371559684432735
+Aïssa Mandi,Villarreal,ESP-La Liga,DF,0,0,1,0.0,0.4,0.33843409098041494
+Ben Brereton,Villarreal,ESP-La Liga,MF,0,1,0,0.0,0.2,0.620602604445845
+Bertrand Traoré,Villarreal,ESP-La Liga,MF,0,1,0,0.0,0.7,1.4995531878802226
+Carlos Romero,Villarreal,ESP-La Liga,DF,0,0,1,0.0,0.2,1.2
+Daniel Parejo,Villarreal,ESP-La Liga,MF,0,1,0,5.0,4.0,2.3984680851154168
+Denis Suárez,Villarreal,ESP-La Liga,FW,1,0,0,0.0,0.6,1.2
+Eric Bailly,Villarreal,ESP-La Liga,DF,0,0,1,0.0,0.0,0.36574828390289893
+Francis Coquelin,Villarreal,ESP-La Liga,MF,0,1,0,0.0,0.6,1.2
+Gerard Moreno,Villarreal,ESP-La Liga,FW,1,0,0,6.0,4.6,3.5023734555671617
+Gonçalo Guedes,Villarreal,ESP-La Liga,MF,0,1,0,2.0,1.1,4.8
+Ilias Akhomach,Villarreal,ESP-La Liga,FW,1,0,0,2.0,2.5,1.8467314914306194
+Jorge Cuenca,Villarreal,ESP-La Liga,DF,0,0,1,1.0,0.8,0.5317449716135091
+José Luis Morales,Villarreal,ESP-La Liga,MF,0,1,0,0.0,0.8,1.105733975102972
+Juan Foyth,Villarreal,ESP-La Liga,DF,0,0,1,1.0,0.9,0.8528374807729604
+Kiko Femenía,Villarreal,ESP-La Liga,DF,0,0,1,0.0,0.7,1.2
+Manu Trigueros,Villarreal,ESP-La Liga,MF,0,1,0,0.0,0.2,0.4919587965862501
+Matteo Gabbia,Villarreal,ESP-La Liga,DF,0,0,1,0.0,0.1,0.3448185310252088
+Pascu,Villarreal,ESP-La Liga,FW,1,0,0,0.0,0.0,0.2503544038708744
+Ramón Terrats,Villarreal,ESP-La Liga,DF,0,0,1,2.0,1.2,0.9373156778379554
+Raúl Albiol,Villarreal,ESP-La Liga,DF,0,0,1,1.0,0.6,0.2813415301831702
+Santi Comesaña,Villarreal,ESP-La Liga,MF,0,1,0,0.0,1.3,2.4
+Stefan Lekovic,Villarreal,ESP-La Liga,DF,0,0,1,0.0,0.0,0.3895160618876346
+Yeremi Pino,Villarreal,ESP-La Liga,FW,1,0,0,0.0,0.5,4.8
+Yerson Mosquera,Villarreal,ESP-La Liga,DF,0,0,1,1.0,0.5,0.5422042486536143
+Étienne Capoue,Villarreal,ESP-La Liga,MF,0,1,0,1.0,1.0,0.8614847496033078
+Achraf Dari,Brest,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.37316675206521766
+Adrien Lebeau,Brest,FRA-Ligue 1,FW,1,0,0,1.0,0.3,0.6450221101179903
+Axel Camblan,Brest,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.5095634860226659
+Bilal Brahimi,Brest,FRA-Ligue 1,MF,0,1,0,0.0,0.8,1.0166565882662397
+Bradley Locko,Brest,FRA-Ligue 1,DF,0,0,1,3.0,1.9,1.8324516381250238
+Brendan Chardonnet,Brest,FRA-Ligue 1,DF,0,0,1,1.0,1.3,0.6771811481505986
+Hianga Mananga Mbock,Brest,FRA-Ligue 1,FW,1,0,0,0.0,0.1,0.5108729743027987
+Hugo Magnetti,Brest,FRA-Ligue 1,MF,0,1,0,0.0,2.5,1.5612940623214433
+Jonas Martin,Brest,FRA-Ligue 1,MF,0,1,0,1.0,0.9,0.7712026724233831
+Jordan Amavi,Brest,FRA-Ligue 1,DF,0,0,1,0.0,0.0,0.3853634580677348
+Julien Le Cardinal,Brest,FRA-Ligue 1,DF,0,0,1,0.0,0.1,1.2
+Jérémy Le Douaron,Brest,FRA-Ligue 1,FW,1,0,0,0.0,1.5,1.7334788853586838
+Kamory Doumbia,Brest,FRA-Ligue 1,MF,0,1,0,5.0,0.7,1.8867787223620307
+Karamoko Dembélé,Brest,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.4846272985968728
+Kenny Lala,Brest,FRA-Ligue 1,DF,0,0,1,3.0,4.3,2.9889217939822843
+Lilian Brassier,Brest,FRA-Ligue 1,DF,0,0,1,0.0,0.9,0.8267734709919878
+Luc Zogbé,Brest,FRA-Ligue 1,DF,0,0,1,0.0,0.0,0.2802268698380195
+Mahdi Camara,Brest,FRA-Ligue 1,MF,0,1,0,3.0,2.4,2.221486168788516
+Martin Satriano,Brest,FRA-Ligue 1,FW,1,0,0,4.0,2.6,2.24756622207271
+Mathias Pereira Lage,Brest,FRA-Ligue 1,MF,0,1,0,2.0,1.7,2.8920188207503004
+Pierre Lees-Melou,Brest,FRA-Ligue 1,MF,0,1,0,0.0,3.0,2.543927617320879
+Romain Del Castillo,Brest,FRA-Ligue 1,FW,1,0,0,8.0,9.1,5.939582980985628
+Steve Mounié,Brest,FRA-Ligue 1,FW,1,0,0,2.0,1.4,1.9021397266715883
+Abdellah Baallal,Clermont Foot,FRA-Ligue 1,MF,0,1,0,0.0,0.0,0.2674229944126414
+Alan Virginius,Clermont Foot,FRA-Ligue 1,FW,1,0,0,2.0,2.7,1.2947972035817124
+Alidu Seidu,Clermont Foot,FRA-Ligue 1,DF,0,0,1,1.0,0.2,0.3628860892459708
+Andy Pelmard,Clermont Foot,FRA-Ligue 1,DF,0,0,1,0.0,0.9,0.3128940595050753
+Aïman Maurer,Clermont Foot,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.6725135113294629
+Bilal Boutobba,Clermont Foot,FRA-Ligue 1,MF,0,1,0,1.0,1.5,1.243794785578884
+Cheick Konaté,Clermont Foot,FRA-Ligue 1,DF,0,0,1,1.0,1.3,1.1479696524417085
+Chrislain Matsima,Clermont Foot,FRA-Ligue 1,DF,0,0,1,0.0,0.1,0.47747627741562026
+Elba Rashani,Clermont Foot,FRA-Ligue 1,FW,1,0,0,0.0,0.8,1.3048874475065952
+Florent Ogier,Clermont Foot,FRA-Ligue 1,DF,0,0,1,1.0,0.5,0.28961588620297984
+Grejohn Kyei,Clermont Foot,FRA-Ligue 1,FW,1,0,0,1.0,1.1,1.0410818215673654
+Habib Keita,Clermont Foot,FRA-Ligue 1,MF,0,1,0,0.0,0.6,0.7282312211134266
+Ilhan Fakili,Clermont Foot,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.4061759583272735
+Jim Allevinah,Clermont Foot,FRA-Ligue 1,DF,0,0,1,1.0,1.4,3.5999999999999996
+Johan Gastien,Clermont Foot,FRA-Ligue 1,MF,0,1,0,0.0,2.7,1.3382110267338545
+Joshua M'Bahia,Clermont Foot,FRA-Ligue 1,MF,0,1,0,0.0,0.0,0.35327354663621113
+Jérémie Bela,Clermont Foot,FRA-Ligue 1,FW,1,0,0,0.0,0.2,0.4519380201955794
+Jérémy Jacquet,Clermont Foot,FRA-Ligue 1,DF,0,0,1,1.0,0.5,1.2
+Komnen Andrić,Clermont Foot,FRA-Ligue 1,FW,1,0,0,0.0,0.1,0.41485929968480273
+Mateusz Wieteska,Clermont Foot,FRA-Ligue 1,DF,0,0,1,0.0,0.0,0.7671705368501909
+Maxime Gonalons,Clermont Foot,FRA-Ligue 1,MF,0,1,0,0.0,0.4,0.4516133600727358
+Maximiliano Caufriez,Clermont Foot,FRA-Ligue 1,DF,0,0,1,1.0,0.3,0.3247347164401271
+Mehdi Zeffane,Clermont Foot,FRA-Ligue 1,MF,0,1,0,0.0,0.8,0.6733626259498879
+Mohamed Bouchenna,Clermont Foot,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.42383281083190577
+Muhammed Cham,Clermont Foot,FRA-Ligue 1,FW,1,0,0,4.0,4.0,2.731626498596407
+Neto Borges,Clermont Foot,FRA-Ligue 1,DF,0,0,1,1.0,2.5,1.5403878801933915
+Shamar Nicholson,Clermont Foot,FRA-Ligue 1,FW,1,0,0,3.0,1.0,1.1861004239176955
+Yohann Magnin,Clermont Foot,FRA-Ligue 1,MF,0,1,0,0.0,1.1,0.812855947823618
+Yoël Armougom,Clermont Foot,FRA-Ligue 1,MF,0,1,0,0.0,0.2,0.3453804156993229
+Abdoulaye Touré,Le Havre,FRA-Ligue 1,MF,0,1,0,0.0,0.9,1.2
+Alois Confais,Le Havre,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.2739445642322782
+André Ayew,Le Havre,FRA-Ligue 1,FW,1,0,0,0.0,0.5,1.2
+Antoine Joujou,Le Havre,FRA-Ligue 1,MF,0,1,0,2.0,0.9,2.4
+Arouna Sangante,Le Havre,FRA-Ligue 1,DF,0,0,1,0.0,0.9,0.6731027638239179
+Christopher Operi,Le Havre,FRA-Ligue 1,DF,0,0,1,4.0,4.8,2.6825869045205706
+Daler Kuzyaev,Le Havre,FRA-Ligue 1,MF,0,1,0,2.0,1.3,1.5333112177271704
+Elysée Logbo,Le Havre,FRA-Ligue 1,FW,1,0,0,0.0,0.2,0.32873135924199215
+Emmanuel Sabbi,Le Havre,FRA-Ligue 1,MF,0,1,0,1.0,1.1,1.3792937191365142
+Etienne Youte Kinkoue,Le Havre,FRA-Ligue 1,DF,0,0,1,0.0,0.2,0.24174826387213527
+Gautier Lloris,Le Havre,FRA-Ligue 1,DF,0,0,1,0.0,0.4,1.2
+Issa Soumaré,Le Havre,FRA-Ligue 1,MF,0,1,0,0.0,0.1,2.4
+Josué Casimir,Le Havre,FRA-Ligue 1,DF,0,0,1,5.0,3.0,2.107574392221414
+Loïc Nego,Le Havre,FRA-Ligue 1,MF,0,1,0,3.0,1.6,1.2446508027852508
+Mohamed Lamine Bayo,Le Havre,FRA-Ligue 1,FW,1,0,0,1.0,0.6,1.5537544939913737
+Nabil Alioui,Le Havre,FRA-Ligue 1,FW,1,0,0,1.0,2.5,2.0436168749095946
+Nolan Mbemba,Le Havre,FRA-Ligue 1,MF,0,1,0,0.0,0.0,0.4065813878093585
+Oualid El Hajjam,Le Havre,FRA-Ligue 1,MF,0,1,0,0.0,0.3,0.6589912149056197
+Oussama Targhalline,Le Havre,FRA-Ligue 1,MF,0,1,0,0.0,0.5,0.49195803552090067
+Rassoul Ndiaye,Le Havre,FRA-Ligue 1,FW,1,0,0,0.0,0.6,0.5213206938998916
+Samuel Grandsir,Le Havre,FRA-Ligue 1,FW,1,0,0,1.0,1.4,1.3085988094102987
+Simon Ebonog,Le Havre,FRA-Ligue 1,MF,0,1,0,0.0,0.0,0.2875188831188427
+Steve Ngoura,Le Havre,FRA-Ligue 1,MF,0,1,0,1.0,0.2,0.4120104117616595
+Yassine Kechta,Le Havre,FRA-Ligue 1,MF,0,1,0,1.0,1.4,1.4313063695094732
+Yoann Salmier,Le Havre,FRA-Ligue 1,DF,0,0,1,1.0,1.0,0.5161174027561427
+Abdukodir Khusanov,Lens,FRA-Ligue 1,DF,0,0,1,0.0,0.2,0.40871528965900195
+Adrien Thomasson,Lens,FRA-Ligue 1,MF,0,1,0,2.0,3.8,2.702831973049491
+Andy Diouf,Lens,FRA-Ligue 1,MF,0,1,0,0.0,1.7,1.3775607718700358
+Angelo Fulgini,Lens,FRA-Ligue 1,MF,0,1,0,2.0,4.0,2.630910518838836
+Ayanda Sishuba,Lens,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.7249338585382823
+David Costa,Lens,FRA-Ligue 1,MF,0,1,0,2.0,3.1,3.0987088237214433
+Deiver Machado,Lens,FRA-Ligue 1,DF,0,0,1,0.0,1.1,3.5999999999999996
+Elye Wahi,Lens,FRA-Ligue 1,FW,1,0,0,3.0,1.0,2.1484661936029448
+Facundo Medina,Lens,FRA-Ligue 1,DF,0,0,1,3.0,2.6,1.7113675568352307
+Faitout Maouassa,Lens,FRA-Ligue 1,DF,0,0,1,0.0,0.1,0.4877066368872499
+Florian Sotoca,Lens,FRA-Ligue 1,FW,1,0,0,6.0,6.3,5.073206229451271
+Jhoanner Chávez,Lens,FRA-Ligue 1,DF,0,0,1,0.0,0.6,0.6000363235768449
+Jonathan Gradit,Lens,FRA-Ligue 1,DF,0,0,1,0.0,0.8,0.8862687576302927
+Julien Le Cardinal,Lens,FRA-Ligue 1,DF,0,0,1,0.0,0.0,1.2
+Kevin Danso,Lens,FRA-Ligue 1,DF,0,0,1,0.0,0.7,0.712284076797616
+Massadio Haïdara,Lens,FRA-Ligue 1,DF,0,0,1,1.0,0.4,0.7051380669175927
+Morgan Guilavogui,Lens,FRA-Ligue 1,MF,0,1,0,0.0,1.0,1.5869373203135466
+Nampalys Mendy,Lens,FRA-Ligue 1,MF,0,1,0,1.0,1.7,0.7494551977582055
+Neil El Aynaoui,Lens,FRA-Ligue 1,MF,0,1,0,2.0,0.9,1.0064120156655165
+Oscar Cortés,Lens,FRA-Ligue 1,MF,0,1,0,1.0,0.1,0.48306984610744863
+Przemysław Frankowski,Lens,FRA-Ligue 1,DF,0,0,1,2.0,5.0,3.391917592431126
+Ruben Aguilar,Lens,FRA-Ligue 1,DF,0,0,1,3.0,4.0,2.054109980626444
+Salis Abdul Samed,Lens,FRA-Ligue 1,MF,0,1,0,0.0,1.1,1.1024431216381858
+Stijn Spierings,Lens,FRA-Ligue 1,MF,0,1,0,0.0,0.0,0.6252531544966549
+Wesley Saïd,Lens,FRA-Ligue 1,MF,0,1,0,1.0,1.2,1.3481688240603407
+Aaron Malouda,Lille,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.40733109414538893
+Adam Ounas,Lille,FRA-Ligue 1,FW,1,0,0,0.0,1.8,1.7038363045578415
+Alan Virginius,Lille,FRA-Ligue 1,FW,1,0,0,0.0,0.0,1.339213789687207
+Alexsandro Ribeiro,Lille,FRA-Ligue 1,DF,0,0,1,0.0,0.7,1.2
+Andrej Ilic,Lille,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.411984815198549
+Angel Gomes,Lille,FRA-Ligue 1,MF,0,1,0,8.0,6.0,3.9043603648620504
+Ayyoub Bouaddi,Lille,FRA-Ligue 1,MF,0,1,0,0.0,0.0,1.2
+Bafodé Diakité,Lille,FRA-Ligue 1,DF,0,0,1,2.0,0.7,1.2
+Benjamin André,Lille,FRA-Ligue 1,MF,0,1,0,0.0,2.2,1.5481043750812455
+Carlos Baleba,Lille,FRA-Ligue 1,MF,0,1,0,0.0,0.0,1.2
+Edon Zhegrova,Lille,FRA-Ligue 1,FW,1,0,0,6.0,7.8,5.445253417288801
+Gabriel Gudmundsson,Lille,FRA-Ligue 1,FW,1,0,0,0.0,1.6,1.3849600877498554
+Hákon Arnar Haraldsson,Lille,FRA-Ligue 1,MF,0,1,0,0.0,1.6,2.4
+Ichem Ferrah,Lille,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.41197926540979835
+Ignacio Miramon,Lille,FRA-Ligue 1,MF,0,1,0,0.0,0.0,0.3767603844241363
+Ismaily,Lille,FRA-Ligue 1,DF,0,0,1,1.0,1.5,1.7907283853019549
+Ivan Cavaleiro,Lille,FRA-Ligue 1,FW,1,0,0,1.0,1.7,1.8656778133024734
+Jonathan David,Lille,FRA-Ligue 1,FW,1,0,0,4.0,2.3,6.085161808330758
+Leny Yoro,Lille,FRA-Ligue 1,DF,0,0,1,0.0,0.3,0.4767448239058705
+Nabil Bentaleb,Lille,FRA-Ligue 1,MF,0,1,0,3.0,0.8,1.4181461932574684
+Rémy Cabella,Lille,FRA-Ligue 1,MF,0,1,0,2.0,3.6,4.239501510898908
+Samuel Umtiti,Lille,FRA-Ligue 1,DF,0,0,1,0.0,0.0,0.4588473241331293
+Tiago Fonseca Morais,Lille,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.6571027455826457
+Tiago Santos,Lille,FRA-Ligue 1,DF,0,0,1,2.0,2.6,2.421000712348113
+Trévis Dago,Lille,FRA-Ligue 1,MF,0,1,0,1.0,0.0,0.3064998576743594
+Yusuf Yazıcı,Lille,FRA-Ligue 1,FW,1,0,0,2.0,3.1,1.8123876564867838
+Adrian Grbić,Lorient,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.3561672284435605
+Aurélien Pelon,Lorient,FRA-Ligue 1,DF,0,0,1,0.0,0.0,0.29337230745860876
+Ayman Kari,Lorient,FRA-Ligue 1,MF,0,1,0,1.0,1.0,0.9154285392720505
+Badredine Bouanani,Lorient,FRA-Ligue 1,MF,0,1,0,0.0,1.0,1.1588342463383168
+Bamba Dieng,Lorient,FRA-Ligue 1,FW,1,0,0,1.0,0.9,0.6221558103400417
+Bamo Meïté,Lorient,FRA-Ligue 1,DF,0,0,1,0.0,0.0,0.41757115442218384
+Bassirou Ndiaye,Lorient,FRA-Ligue 1,FW,1,0,0,0.0,0.2,0.3724516223224445
+Benjamin Mendy,Lorient,FRA-Ligue 1,DF,0,0,1,1.0,3.0,1.503951359571622
+Bonke Innocent,Lorient,FRA-Ligue 1,MF,0,1,0,0.0,0.1,0.35498261710462614
+Darlin Yongwa,Lorient,FRA-Ligue 1,DF,0,0,1,1.0,2.0,1.3354960124567905
+Dembo Sylla,Lorient,FRA-Ligue 1,DF,0,0,1,0.0,0.0,0.28644188635335
+Eli Junior Kroupi,Lorient,FRA-Ligue 1,MF,0,1,0,3.0,1.1,0.941757288661453
+Formose Mendy,Lorient,FRA-Ligue 1,DF,0,0,1,0.0,0.3,0.2792643829219144
+Gedeon Kalulu,Lorient,FRA-Ligue 1,DF,0,0,1,1.0,1.1,0.9121699873187651
+Gino Caoki,Lorient,FRA-Ligue 1,MF,0,1,0,0.0,0.0,0.2987924441912328
+Ibrahima Koné,Lorient,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.40737144157706495
+Igor Carioca,Lorient,FRA-Ligue 1,MF,0,1,0,0.0,0.5,0.4087723823122146
+Imran Louza,Lorient,FRA-Ligue 1,MF,0,1,0,3.0,2.4,1.077165216005578
+Jean-Victor Makengo,Lorient,FRA-Ligue 1,FW,1,0,0,0.0,0.2,0.33199869162229756
+Joel Mvuka,Lorient,FRA-Ligue 1,FW,1,0,0,0.0,0.2,0.5168202962679298
+Julien Laporte,Lorient,FRA-Ligue 1,DF,0,0,1,0.0,0.3,0.2393336488752594
+Julien Ponceau,Lorient,FRA-Ligue 1,MF,0,1,0,2.0,1.9,1.774587724071849
+Laurent Abergel,Lorient,FRA-Ligue 1,MF,0,1,0,1.0,1.9,1.3191547656098257
+Loris Mouyokolo,Lorient,FRA-Ligue 1,DF,0,0,1,0.0,0.0,0.25463915682324173
+Mohamed Bamba,Lorient,FRA-Ligue 1,FW,1,0,0,3.0,1.2,1.240676355727284
+Montassar Talbi,Lorient,FRA-Ligue 1,DF,0,0,1,0.0,0.5,0.6752330685939086
+Nathaniel Adjei,Lorient,FRA-Ligue 1,DF,0,0,1,0.0,0.5,0.31955489823229066
+Pablo Pagis,Lorient,FRA-Ligue 1,MF,0,1,0,0.0,0.2,0.3980072059802688
+Panos Katseris,Lorient,FRA-Ligue 1,DF,0,0,1,1.0,0.5,1.0326931606847516
+Romain Faivre,Lorient,FRA-Ligue 1,FW,1,0,0,1.0,2.0,1.5449630357870656
+Royce Openda Owaga,Lorient,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.33544155296927824
+Siriné Doucouré,Lorient,FRA-Ligue 1,FW,1,0,0,3.0,0.6,1.1682792594420595
+Souleymane Touré,Lorient,FRA-Ligue 1,DF,0,0,1,1.0,1.6,0.6316977494537483
+Théo Le Bris,Lorient,FRA-Ligue 1,MF,0,1,0,2.0,1.1,1.2680683352818458
+Tiemoué Bakayoko,Lorient,FRA-Ligue 1,MF,0,1,0,1.0,0.3,0.37688330422561844
+Tosin Aiyegun,Lorient,FRA-Ligue 1,FW,1,0,0,0.0,0.3,0.6403377527217909
+Vincent Le Goff,Lorient,FRA-Ligue 1,MF,0,1,0,1.0,0.9,0.7292311580701827
+Adryelson,Lyon,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.31429169357691916
+Ainsley Maitland-Niles,Lyon,FRA-Ligue 1,MF,0,1,0,4.0,1.5,3.5999999999999996
+Alexandre Lacazette,Lyon,FRA-Ligue 1,FW,1,0,0,2.0,2.1,3.670376463879686
+Amin Sarr,Lyon,FRA-Ligue 1,MF,0,1,0,0.0,0.1,1.2
+Bradley Barcola,Lyon,FRA-Ligue 1,FW,1,0,0,0.0,0.4,8.4
+Chaim El Djebali,Lyon,FRA-Ligue 1,MF,0,1,0,0.0,0.0,0.3153531940138704
+Clinton Mata,Lyon,FRA-Ligue 1,DF,0,0,1,3.0,2.7,3.5999999999999996
+Corentin Tolisso,Lyon,FRA-Ligue 1,MF,0,1,0,1.0,3.6,2.3459036750861118
+Dejan Lovren,Lyon,FRA-Ligue 1,DF,0,0,1,0.0,0.1,0.25764452827225576
+Diego Moreira,Lyon,FRA-Ligue 1,MF,0,1,0,0.0,0.2,6.0
+Duje Ćaleta-Car,Lyon,FRA-Ligue 1,DF,0,0,1,0.0,1.1,0.5845485525397811
+Ernest Nuamah,Lyon,FRA-Ligue 1,MF,0,1,0,2.0,5.2,2.9418984211177914
+Gift Orban,Lyon,FRA-Ligue 1,FW,1,0,0,0.0,0.2,0.7314711764740673
+Henrique,Lyon,FRA-Ligue 1,DF,0,0,1,0.0,0.6,0.528522128434521
+Jake O'Brien,Lyon,FRA-Ligue 1,DF,0,0,1,2.0,0.2,0.40644713118748893
+Jeffinho,Lyon,FRA-Ligue 1,MF,0,1,0,1.0,0.4,0.7040615888460667
+Johann Lepenant,Lyon,FRA-Ligue 1,MF,0,1,0,0.0,0.1,1.2
+Mahamadou Diawara,Lyon,FRA-Ligue 1,MF,0,1,0,0.0,0.2,0.4682878100949899
+Malick Fofana,Lyon,FRA-Ligue 1,FW,1,0,0,0.0,0.5,4.8
+Mama Samba Baldé,Lyon,FRA-Ligue 1,MF,0,1,0,3.0,1.2,1.9707185680283335
+Mamadou Sarr,Lyon,FRA-Ligue 1,DF,0,0,1,0.0,0.0,1.2
+Maxence Caqueret,Lyon,FRA-Ligue 1,MF,0,1,0,3.0,7.2,4.26066831280246
+Mohamed El Arouch,Lyon,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.2737926100064047
+Nemanja Matić,Lyon,FRA-Ligue 1,MF,0,1,0,0.0,1.3,1.14350669902309
+Nicolás Tagliafico,Lyon,FRA-Ligue 1,DF,0,0,1,1.0,1.7,1.7219266996453508
+Orel Mangala,Lyon,FRA-Ligue 1,MF,0,1,0,0.0,0.6,0.6097057934848408
+Paul Akouokou,Lyon,FRA-Ligue 1,MF,0,1,0,0.0,0.1,0.27237284112456145
+Rayan Cherki,Lyon,FRA-Ligue 1,FW,1,0,0,6.0,5.5,10.799999999999999
+Sael Kumbedi,Lyon,FRA-Ligue 1,DF,0,0,1,1.0,0.6,1.080369271285254
+Saïd Benrahma,Lyon,FRA-Ligue 1,MF,0,1,0,3.0,3.7,2.7332894630202533
+Sinaly Diomande,Lyon,FRA-Ligue 1,DF,0,0,1,0.0,0.4,2.4
+Skelly Alvero,Lyon,FRA-Ligue 1,MF,0,1,0,0.0,0.2,0.41007145670456313
+Tino Kadewere,Lyon,FRA-Ligue 1,MF,0,1,0,0.0,0.2,2.4
+Amine Harit,Marseille,FRA-Ligue 1,FW,1,0,0,2.0,3.6,3.213961089087193
+Azzedine Ounahi,Marseille,FRA-Ligue 1,MF,0,1,0,0.0,1.7,1.597405508090358
+Bamo Meïté,Marseille,FRA-Ligue 1,DF,0,0,1,0.0,0.1,0.4088750876985486
+Bilal Nadir,Marseille,FRA-Ligue 1,FW,1,0,0,0.0,0.1,0.366564888320033
+Chancel Mbemba,Marseille,FRA-Ligue 1,DF,0,0,1,2.0,1.5,0.9884506729325222
+Emran Soglo,Marseille,FRA-Ligue 1,DF,0,0,1,1.0,0.0,0.45828393136646806
+Faris Pemi Moumbagna,Marseille,FRA-Ligue 1,FW,1,0,0,1.0,0.3,0.7147144933750051
+François Mughe,Marseille,FRA-Ligue 1,DF,0,0,1,0.0,0.2,0.6308841896499887
+Geoffrey Kondogbia,Marseille,FRA-Ligue 1,MF,0,1,0,0.0,1.0,0.7490042416498772
+Iliman Ndiaye,Marseille,FRA-Ligue 1,MF,0,1,0,3.0,2.9,2.3432989521845835
+Ismaila Sarr,Marseille,FRA-Ligue 1,MF,0,1,0,4.0,2.3,3.5999999999999996
+Jean Onana,Marseille,FRA-Ligue 1,MF,0,1,0,0.0,0.2,0.574856385574969
+Joaquín Correa,Marseille,FRA-Ligue 1,MF,0,1,0,0.0,0.6,2.4
+Jonathan Clauss,Marseille,FRA-Ligue 1,DF,0,0,1,4.0,5.3,3.8565428337287715
+Jordan Veretout,Marseille,FRA-Ligue 1,MF,0,1,0,2.0,4.6,3.572337006702347
+Keyliane Abdallah,Marseille,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.25285237119349413
+Leonardo Balerdi,Marseille,FRA-Ligue 1,DF,0,0,1,0.0,0.5,0.5178451714308315
+Luis Henrique,Marseille,FRA-Ligue 1,DF,0,0,1,0.0,0.9,4.8
+Mattéo Guendouzi,Marseille,FRA-Ligue 1,MF,0,1,0,0.0,0.0,3.5999999999999996
+Michael Amir Murillo,Marseille,FRA-Ligue 1,DF,0,0,1,2.0,1.2,2.4
+Noam Mayoka-Tika,Marseille,FRA-Ligue 1,MF,0,1,0,0.0,0.0,0.26953730482830596
+Pape Gueye,Marseille,FRA-Ligue 1,DF,0,0,1,0.0,0.5,0.7016286436906243
+Pierre-Emerick Aubameyang,Marseille,FRA-Ligue 1,FW,1,0,0,8.0,4.4,3.169761975420071
+Quentin Merlin,Marseille,FRA-Ligue 1,DF,0,0,1,1.0,1.2,3.5999999999999996
+Raimane Daou,Marseille,FRA-Ligue 1,MF,0,1,0,0.0,0.0,0.35863607471388126
+Renan Lodi,Marseille,FRA-Ligue 1,DF,0,0,1,0.0,1.3,1.6230007914139104
+Samuel Gigot,Marseille,FRA-Ligue 1,DF,0,0,1,0.0,0.5,0.5239789207931596
+Sofiane Sidi Ali,Marseille,FRA-Ligue 1,MF,0,1,0,0.0,0.0,0.48499356078120814
+Ulisses Garcia,Marseille,FRA-Ligue 1,DF,0,0,1,0.0,1.1,1.3012698884713279
+Valentin Rongier,Marseille,FRA-Ligue 1,MF,0,1,0,0.0,1.2,1.5670605109838989
+Vitinha,Marseille,FRA-Ligue 1,FW,1,0,0,2.0,2.4,4.1866539986702005
+Ablie Jallow,Metz,FRA-Ligue 1,FW,1,0,0,2.0,0.7,0.9549397507488329
+Abou Lô,Metz,FRA-Ligue 1,DF,0,0,1,0.0,0.0,0.3029935645179697
+Arthur Atta,Metz,FRA-Ligue 1,FW,1,0,0,2.0,0.5,1.2
+Benjamin Tetteh,Metz,FRA-Ligue 1,MF,0,1,0,0.0,0.2,0.3391325218943691
+Cheikh Tidiane Sabaly,Metz,FRA-Ligue 1,MF,0,1,0,1.0,0.7,1.2185411214972626
+Christophe Hérelle,Metz,FRA-Ligue 1,DF,0,0,1,0.0,0.1,0.270037999522306
+Danley Jean-Jacques,Metz,FRA-Ligue 1,MF,0,1,0,0.0,0.6,0.8742714477194613
+Didier Lamkel Zé,Metz,FRA-Ligue 1,MF,0,1,0,0.0,0.2,0.46114647474667514
+Fali Candé,Metz,FRA-Ligue 1,DF,0,0,1,1.0,0.2,1.2
+Georges Mikautadze,Metz,FRA-Ligue 1,FW,1,0,0,4.0,1.0,2.4
+Habib Maïga,Metz,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.41298819257324204
+Ibou Sané,Metz,FRA-Ligue 1,FW,1,0,0,0.0,0.1,0.3940286064892147
+Ismaël Traoré,Metz,FRA-Ligue 1,DF,0,0,1,0.0,0.1,0.526827377422487
+Joel Asoro,Metz,FRA-Ligue 1,MF,0,1,0,1.0,0.3,0.5447744577487803
+Joseph Nduquidi,Metz,FRA-Ligue 1,DF,0,0,1,0.0,0.1,0.28133339948658226
+Koffi Kouao,Metz,FRA-Ligue 1,DF,0,0,1,2.0,0.7,0.5741256934981998
+Kévin N'Doram,Metz,FRA-Ligue 1,MF,0,1,0,2.0,0.3,0.36316691945851703
+Kévin Van Den Kerkhof,Metz,FRA-Ligue 1,MF,0,1,0,2.0,2.3,1.5814468662558543
+Lamine Camara,Metz,FRA-Ligue 1,MF,0,1,0,4.0,2.7,7.199999999999999
+Malick Mbaye,Metz,FRA-Ligue 1,FW,1,0,0,0.0,0.2,0.3072114169797139
+Matthieu Udol,Metz,FRA-Ligue 1,DF,0,0,1,3.0,2.1,1.036181821808372
+Maxime Colin,Metz,FRA-Ligue 1,DF,0,0,1,0.0,0.6,0.7101053230806723
+N'Guessan Kouadio,Metz,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.2722499817826212
+Oscar Estupiñan,Metz,FRA-Ligue 1,FW,1,0,0,0.0,0.1,0.33968204058013485
+Papa Amadou Diallo,Metz,FRA-Ligue 1,FW,1,0,0,1.0,0.7,0.9115784033717377
+Sadibou Sané,Metz,FRA-Ligue 1,DF,0,0,1,0.0,0.1,0.23431584034849037
+Simon Elisor,Metz,FRA-Ligue 1,FW,1,0,0,0.0,0.4,0.5698604142911576
+Youssef Maziz,Metz,FRA-Ligue 1,MF,0,1,0,0.0,0.1,0.5659274556501461
+Aleksandr Golovin,Monaco,FRA-Ligue 1,FW,1,0,0,6.0,6.4,4.497943338982033
+Antonin Cartillier,Monaco,FRA-Ligue 1,DF,0,0,1,0.0,0.0,0.26653320452486917
+Breel Embolo,Monaco,FRA-Ligue 1,FW,1,0,0,0.0,0.2,4.8
+Caio Henrique Oliveira Silva,Monaco,FRA-Ligue 1,DF,0,0,1,5.0,2.3,4.8
+Chrislain Matsima,Monaco,FRA-Ligue 1,DF,0,0,1,1.0,0.1,0.5080375732218773
+Denis Zakaria,Monaco,FRA-Ligue 1,DF,0,0,1,0.0,1.1,2.4
+Edan Diop,Monaco,FRA-Ligue 1,DF,0,0,1,0.0,0.0,0.45857311215509267
+Eliesse Ben Seghir,Monaco,FRA-Ligue 1,FW,1,0,0,1.0,0.6,3.5999999999999996
+Eliot Matazo,Monaco,FRA-Ligue 1,MF,0,1,0,1.0,0.7,0.657432084469463
+Folarin Balogun,Monaco,FRA-Ligue 1,FW,1,0,0,5.0,1.9,3.6483391589631733
+Guillermo Maripán,Monaco,FRA-Ligue 1,DF,0,0,1,0.0,0.2,1.2
+Ismail Jakobs,Monaco,FRA-Ligue 1,DF,0,0,1,2.0,2.0,2.021845797200399
+Kassoum Ouattara,Monaco,FRA-Ligue 1,FW,1,0,0,0.0,0.8,1.2274051044886278
+Krépin Diatta,Monaco,FRA-Ligue 1,FW,1,0,0,2.0,2.2,2.611885914018135
+Lucas Michal,Monaco,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.3983360949973498
+Maghnes Akliouche,Monaco,FRA-Ligue 1,FW,1,0,0,4.0,3.4,7.199999999999999
+Mamadou Coulibaly,Monaco,FRA-Ligue 1,MF,0,1,0,0.0,0.1,0.4856470783071807
+Mohamed Camara,Monaco,FRA-Ligue 1,MF,0,1,0,2.0,0.9,0.9868434548675661
+Mohammed Salisu,Monaco,FRA-Ligue 1,DF,0,0,1,1.0,0.2,0.5245724239056756
+Myron Boadu,Monaco,FRA-Ligue 1,FW,1,0,0,0.0,0.0,1.2
+Saïmon Bouabré,Monaco,FRA-Ligue 1,MF,0,1,0,0.0,0.0,0.37575005912901677
+Soungoutou Magassa,Monaco,FRA-Ligue 1,MF,0,1,0,0.0,0.5,1.2
+Takumi Minamino,Monaco,FRA-Ligue 1,MF,0,1,0,6.0,4.3,4.61781309893175
+Thilo Kehrer,Monaco,FRA-Ligue 1,DF,0,0,1,1.0,0.3,0.4573680272536508
+Vanderson,Monaco,FRA-Ligue 1,DF,0,0,1,1.0,2.0,2.3349795580801698
+Wilfried Singo,Monaco,FRA-Ligue 1,DF,0,0,1,1.0,1.1,2.4
+Wissam Ben Yedder,Monaco,FRA-Ligue 1,FW,1,0,0,2.0,5.7,4.763264526030774
+Youssouf Fofana,Monaco,FRA-Ligue 1,MF,0,1,0,4.0,4.7,5.233838999814112
+Akor Adams,Montpellier,FRA-Ligue 1,FW,1,0,0,1.0,1.4,1.811561576568279
+Arnaud Nordin,Montpellier,FRA-Ligue 1,MF,0,1,0,3.0,1.4,2.2171970899364535
+Axel Gueguin,Montpellier,FRA-Ligue 1,FW,1,0,0,0.0,0.1,0.3444621841449051
+Becir Omeragic,Montpellier,FRA-Ligue 1,MF,0,1,0,0.0,0.4,0.4317009230736319
+Boubakar Kouyaté,Montpellier,FRA-Ligue 1,DF,0,0,1,2.0,0.4,0.3680045261067862
+Christopher Jullien,Montpellier,FRA-Ligue 1,DF,0,0,1,0.0,0.1,0.5092798526139528
+Elye Wahi,Montpellier,FRA-Ligue 1,FW,1,0,0,0.0,0.1,0.9823410877174588
+Enzo Tchato,Montpellier,FRA-Ligue 1,DF,0,0,1,0.0,0.8,0.9823475677800286
+Falaye Sacko,Montpellier,FRA-Ligue 1,DF,0,0,1,1.0,1.3,0.9740413546992885
+Issiaga Sylla,Montpellier,FRA-Ligue 1,FW,1,0,0,2.0,1.0,0.8790147079104234
+Jordan Ferri,Montpellier,FRA-Ligue 1,MF,0,1,0,1.0,2.1,2.0517987107662834
+Joris Chotard,Montpellier,FRA-Ligue 1,MF,0,1,0,3.0,2.5,1.780556385760018
+Kelvin Yeboah,Montpellier,FRA-Ligue 1,FW,1,0,0,0.0,0.1,0.6340283716825696
+Khalil Fayad,Montpellier,FRA-Ligue 1,MF,0,1,0,0.0,0.5,0.8291775413727898
+Lucas Mincarelli,Montpellier,FRA-Ligue 1,MF,0,1,0,1.0,0.8,0.6157455344515855
+Léo Leroy,Montpellier,FRA-Ligue 1,MF,0,1,0,1.0,0.1,0.577247933089235
+Mamadou Sakho,Montpellier,FRA-Ligue 1,DF,0,0,1,0.0,0.0,0.4104118780022222
+Maxime Estève,Montpellier,FRA-Ligue 1,DF,0,0,1,1.0,0.6,0.3377874706088988
+Modibo Sagnan,Montpellier,FRA-Ligue 1,DF,0,0,1,0.0,0.4,0.3722600547671311
+Musa Al-Taamari,Montpellier,FRA-Ligue 1,FW,1,0,0,2.0,2.0,2.2512744412243504
+Othmane Maamma,Montpellier,FRA-Ligue 1,FW,1,0,0,0.0,0.1,1.2
+Sacha Delaye,Montpellier,FRA-Ligue 1,FW,1,0,0,0.0,0.1,0.29892552949559775
+Silvan Hefti,Montpellier,FRA-Ligue 1,FW,1,0,0,1.0,1.1,0.8257665405806849
+Tanguy Coulibaly,Montpellier,FRA-Ligue 1,MF,0,1,0,0.0,0.6,0.9758975378202118
+Théo Sainte-Luce,Montpellier,FRA-Ligue 1,DF,0,0,1,0.0,0.1,0.39975901620747556
+Téji Savanier,Montpellier,FRA-Ligue 1,MF,0,1,0,6.0,8.5,7.7073784354624255
+Wahbi Khazri,Montpellier,FRA-Ligue 1,FW,1,0,0,0.0,0.8,1.2731559918494328
+Yanis Issoufou,Montpellier,FRA-Ligue 1,MF,0,1,0,0.0,0.0,0.26664223823324285
+Yann Karamoh,Montpellier,FRA-Ligue 1,MF,0,1,0,0.0,0.2,1.2
+Abdoul Kader Bamba,Nantes,FRA-Ligue 1,MF,0,1,0,1.0,1.1,1.2900129796902515
+Adel Mahamoud,Nantes,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.23549435044902067
+Adson,Nantes,FRA-Ligue 1,FW,1,0,0,0.0,0.3,0.5150831193744578
+Bastien Meupiyou,Nantes,FRA-Ligue 1,DF,0,0,1,0.0,0.0,0.30438469760658937
+Bénie Traoré,Nantes,FRA-Ligue 1,MF,0,1,0,1.0,1.3,1.0531383770324514
+Douglas,Nantes,FRA-Ligue 1,MF,0,1,0,0.0,1.6,2.4
+Enzo Mongo,Nantes,FRA-Ligue 1,DF,0,0,1,0.0,0.0,0.4054698734183146
+Eray Cömert,Nantes,FRA-Ligue 1,DF,0,0,1,0.0,0.4,0.3250639402524303
+Fabien Centonze,Nantes,FRA-Ligue 1,DF,0,0,1,0.0,0.2,0.4816740974325914
+Florent Mollet,Nantes,FRA-Ligue 1,FW,1,0,0,4.0,2.4,1.7302776916910108
+Hugo Boutsingkham,Nantes,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.4163534712639184
+Ignatius Ganago,Nantes,FRA-Ligue 1,MF,0,1,0,0.0,0.5,0.8674222114836192
+Jaouen Hadjam,Nantes,FRA-Ligue 1,DF,0,0,1,0.0,0.2,0.44933262294142323
+Jean-Charles Castelletto,Nantes,FRA-Ligue 1,DF,0,0,1,0.0,1.2,0.6823192820628409
+Jean-Kevin Duverne,Nantes,FRA-Ligue 1,DF,0,0,1,0.0,0.3,0.5720450618266296
+Kelvin Amian,Nantes,FRA-Ligue 1,DF,0,0,1,1.0,0.7,1.0136455948501413
+Lamine Diack,Nantes,FRA-Ligue 1,MF,0,1,0,0.0,0.0,0.3432873197847328
+Marcus Coco,Nantes,FRA-Ligue 1,FW,1,0,0,0.0,1.1,0.9116526220063431
+Marquinhos,Nantes,FRA-Ligue 1,MF,0,1,0,0.0,0.7,0.651321378189504
+Matthis Abline,Nantes,FRA-Ligue 1,FW,1,0,0,0.0,0.9,1.2866364800916799
+Moses Simon,Nantes,FRA-Ligue 1,MF,0,1,0,5.0,5.6,8.4
+Mostafa Mohamed,Nantes,FRA-Ligue 1,FW,1,0,0,2.0,1.3,1.6315268953029234
+Moussa Sissoko,Nantes,FRA-Ligue 1,MF,0,1,0,0.0,0.8,0.7774687534198859
+Nathan Zeze,Nantes,FRA-Ligue 1,DF,0,0,1,0.0,0.1,0.23061761506058454
+Nicolas Cozza,Nantes,FRA-Ligue 1,DF,0,0,1,0.0,0.5,0.41131631868579077
+Nicolas Pallois,Nantes,FRA-Ligue 1,DF,0,0,1,1.0,0.3,1.2
+Pedro Chirivella,Nantes,FRA-Ligue 1,MF,0,1,0,1.0,2.8,1.3455760404973647
+Quentin Merlin,Nantes,FRA-Ligue 1,DF,0,0,1,1.0,1.9,3.5999999999999996
+Ronaël Pierre-Gabriel,Nantes,FRA-Ligue 1,DF,0,0,1,0.0,0.4,0.5085380553605248
+Samuel Moutoussamy,Nantes,FRA-Ligue 1,MF,0,1,0,0.0,1.1,0.8957271110606315
+Stredair Appuah,Nantes,FRA-Ligue 1,MF,0,1,0,0.0,0.0,0.36616598083951146
+Tino Kadewere,Nantes,FRA-Ligue 1,MF,0,1,0,0.0,0.9,2.4
+Alexis Claude-Maurice,Nice,FRA-Ligue 1,MF,0,1,0,0.0,0.6,1.2
+Aliou Badara Baldé,Nice,FRA-Ligue 1,DF,0,0,1,0.0,0.0,0.3539487780809146
+Antoine Mendy,Nice,FRA-Ligue 1,DF,0,0,1,0.0,0.2,0.4591001557967038
+Badredine Bouanani,Nice,FRA-Ligue 1,FW,1,0,0,0.0,0.4,0.6321294883530999
+Bilal Brahimi,Nice,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.4596536583642327
+Dante,Nice,FRA-Ligue 1,DF,0,0,1,1.0,1.2,0.9486514187065278
+Daouda Traoré,Nice,FRA-Ligue 1,MF,0,1,0,0.0,0.0,0.346443894598437
+Evann Guessand,Nice,FRA-Ligue 1,FW,1,0,0,0.0,1.0,8.4
+Gaëtan Laborde,Nice,FRA-Ligue 1,MF,0,1,0,2.0,2.2,3.5999999999999996
+Hicham Boudaoui,Nice,FRA-Ligue 1,MF,0,1,0,0.0,1.3,1.6844176166923712
+Jean-Clair Todibo,Nice,FRA-Ligue 1,DF,0,0,1,2.0,1.2,0.7797000536066344
+Jeremie Boga,Nice,FRA-Ligue 1,FW,1,0,0,6.0,4.3,4.038401335975101
+Jordan Lotomba,Nice,FRA-Ligue 1,DF,0,0,1,0.0,1.3,1.24211697542824
+Khéphren Thuram,Nice,FRA-Ligue 1,MF,0,1,0,1.0,3.2,4.8
+Melvin Bard,Nice,FRA-Ligue 1,DF,0,0,1,2.0,2.3,1.8031606273418026
+Mohamed Ali Cho,Nice,FRA-Ligue 1,FW,1,0,0,2.0,1.4,4.8
+Morgan Sanson,Nice,FRA-Ligue 1,MF,0,1,0,3.0,3.8,2.97308880714114
+Pablo Rosario,Nice,FRA-Ligue 1,DF,0,0,1,0.0,1.5,1.1239069476482217
+Reda Belahyane,Nice,FRA-Ligue 1,MF,0,1,0,0.0,0.0,0.427659923813247
+Romain Perraud,Nice,FRA-Ligue 1,FW,1,0,0,1.0,0.7,1.0508137194143772
+Sofiane Diop,Nice,FRA-Ligue 1,FW,1,0,0,0.0,0.9,3.5999999999999996
+Terem Moffi,Nice,FRA-Ligue 1,FW,1,0,0,2.0,1.1,1.9680413555374252
+Tom Louchet,Nice,FRA-Ligue 1,DF,0,0,1,1.0,0.7,0.8710132123074159
+Valentin Rosier,Nice,FRA-Ligue 1,MF,0,1,0,0.0,0.1,2.4
+Youcef Atal,Nice,FRA-Ligue 1,DF,0,0,1,0.0,0.4,0.9723247244544125
+Youssouf Ndayishimiye,Nice,FRA-Ligue 1,DF,0,0,1,0.0,0.5,0.4852090223993202
+Achraf Hakimi,Paris S-G,FRA-Ligue 1,DF,0,0,1,5.0,4.2,7.199999999999999
+Bradley Barcola,Paris S-G,FRA-Ligue 1,MF,0,1,0,7.0,4.2,8.4
+Carlos Soler,Paris S-G,FRA-Ligue 1,DF,0,0,1,2.0,1.9,1.6236215013101754
+Cher Ndour,Paris S-G,FRA-Ligue 1,MF,0,1,0,0.0,0.0,0.37453189145029664
+Danilo Pereira,Paris S-G,FRA-Ligue 1,DF,0,0,1,0.0,0.9,0.7338668377520923
+Ethan Mbappé,Paris S-G,FRA-Ligue 1,DF,0,0,1,0.0,0.0,0.5841120414482229
+Fabián Ruiz Peña,Paris S-G,FRA-Ligue 1,MF,0,1,0,3.0,1.5,1.477677485995907
+Gonçalo Ramos,Paris S-G,FRA-Ligue 1,FW,1,0,0,1.0,1.6,2.4
+Hugo Ekitike,Paris S-G,FRA-Ligue 1,FW,1,0,0,0.0,0.0,3.5999999999999996
+Kylian Mbappé,Paris S-G,FRA-Ligue 1,FW,1,0,0,7.0,5.2,6.022875930846556
+Layvin Kurzawa,Paris S-G,FRA-Ligue 1,DF,0,0,1,0.0,0.0,0.47332915883175114
+Lee Kang-in,Paris S-G,FRA-Ligue 1,MF,0,1,0,4.0,4.2,6.0
+Lucas Beraldo,Paris S-G,FRA-Ligue 1,DF,0,0,1,0.0,0.2,0.48112542616944587
+Lucas Hernández,Paris S-G,FRA-Ligue 1,DF,0,0,1,1.0,1.4,1.021715943205174
+Manuel Ugarte Ribeiro,Paris S-G,FRA-Ligue 1,MF,0,1,0,2.0,1.0,1.541389078434631
+Marco Asensio,Paris S-G,FRA-Ligue 1,FW,1,0,0,5.0,4.3,3.529875474111012
+Marquinhos,Paris S-G,FRA-Ligue 1,DF,0,0,1,1.0,0.7,0.7264888268415529
+Milan Škriniar,Paris S-G,FRA-Ligue 1,DF,0,0,1,0.0,0.3,0.4420922798721524
+Nordi Mukiele,Paris S-G,FRA-Ligue 1,DF,0,0,1,0.0,0.4,0.7066671808675533
+Nuno Mendes,Paris S-G,FRA-Ligue 1,DF,0,0,1,1.0,0.5,2.4
+Ousmane Dembélé,Paris S-G,FRA-Ligue 1,FW,1,0,0,8.0,5.8,5.127106192013217
+Randal Kolo Muani,Paris S-G,FRA-Ligue 1,MF,0,1,0,5.0,1.6,3.3479973437016315
+Senny Mayulu,Paris S-G,FRA-Ligue 1,MF,0,1,0,1.0,0.5,0.7206507984760517
+Vitinha,Paris S-G,FRA-Ligue 1,MF,0,1,0,4.0,4.0,3.757738820979138
+Warren Zaïre-Emery,Paris S-G,FRA-Ligue 1,DF,0,0,1,3.0,3.3,2.399515409625406
+Yoram Zague,Paris S-G,FRA-Ligue 1,DF,0,0,1,0.0,0.2,0.5182758722518738
+Abdoul Koné,Reims,FRA-Ligue 1,DF,0,0,1,0.0,0.0,0.4336697140340419
+Adama Bojang,Reims,FRA-Ligue 1,FW,1,0,0,0.0,0.1,0.3891623707898172
+Amadou Koné,Reims,FRA-Ligue 1,MF,0,1,0,0.0,0.1,0.43733657327830233
+Amine Salama,Reims,FRA-Ligue 1,FW,1,0,0,0.0,0.2,0.7465630843987295
+Amir Richardson,Reims,FRA-Ligue 1,MF,0,1,0,1.0,1.4,1.0566099931903334
+Azor Matusiwa,Reims,FRA-Ligue 1,MF,0,1,0,0.0,0.5,0.7901763880200998
+Benjamin Stambouli,Reims,FRA-Ligue 1,MF,0,1,0,1.0,0.3,0.5676060837724607
+Christ Mbondi,Reims,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.3095127544194046
+Emmanuel Agbadou,Reims,FRA-Ligue 1,DF,0,0,1,1.0,1.6,1.212204008436145
+Ibrahim Diakité,Reims,FRA-Ligue 1,DF,0,0,1,0.0,0.1,0.4449322759977469
+Joseph Okumu,Reims,FRA-Ligue 1,DF,0,0,1,0.0,0.2,0.37268491802306986
+Josh Wilson-Esbrand,Reims,FRA-Ligue 1,MF,0,1,0,1.0,0.8,0.7690629191356197
+Junya Ito,Reims,FRA-Ligue 1,MF,0,1,0,7.0,9.9,6.5333780995427855
+Keito Nakamura,Reims,FRA-Ligue 1,MF,0,1,0,1.0,2.2,1.6399536837923339
+Mamadou Diakhon,Reims,FRA-Ligue 1,MF,0,1,0,0.0,0.4,0.436387145998686
+Marshall Munetsi,Reims,FRA-Ligue 1,MF,0,1,0,3.0,2.2,2.601155587034653
+Maxime Busi,Reims,FRA-Ligue 1,DF,0,0,1,0.0,0.1,0.7568809073570457
+Mohammed Daramy,Reims,FRA-Ligue 1,MF,0,1,0,5.0,2.9,2.7969646767030403
+Oumar Diakité,Reims,FRA-Ligue 1,FW,1,0,0,1.0,1.3,1.6905350588953498
+Reda Khadra,Reims,FRA-Ligue 1,MF,0,1,0,3.0,2.4,1.723649175158801
+Sergio Akieme,Reims,FRA-Ligue 1,DF,0,0,1,0.0,0.4,1.2
+Teddy Teuma,Reims,FRA-Ligue 1,MF,0,1,0,3.0,4.3,3.258619462216747
+Therence Koudou,Reims,FRA-Ligue 1,DF,0,0,1,0.0,0.3,0.3167445018521473
+Thibault De Smet,Reims,FRA-Ligue 1,DF,0,0,1,0.0,0.6,1.297644472479128
+Thomas Foket,Reims,FRA-Ligue 1,DF,0,0,1,1.0,1.4,1.4886973561832177
+Valentin Atangana Edoa,Reims,FRA-Ligue 1,MF,0,1,0,0.0,0.3,0.48751875044117116
+Yaya Kader Fofana,Reims,FRA-Ligue 1,DF,0,0,1,0.0,0.0,1.2
+Yunis Abdelhamid,Reims,FRA-Ligue 1,DF,0,0,1,0.0,0.6,0.645851235455627
+Adrien Truffert,Rennes,FRA-Ligue 1,DF,0,0,1,2.0,2.0,1.7466622873624207
+Alidu Seidu,Rennes,FRA-Ligue 1,DF,0,0,1,0.0,0.1,0.5312668391169129
+Amine Gouiri,Rennes,FRA-Ligue 1,MF,0,1,0,3.0,2.4,5.073085091102575
+Arnaud Kalimuendo,Rennes,FRA-Ligue 1,FW,1,0,0,1.0,2.3,2.761844512164426
+Arthur Theate,Rennes,FRA-Ligue 1,DF,0,0,1,0.0,1.3,0.7471422245894459
+Azor Matusiwa,Rennes,FRA-Ligue 1,MF,0,1,0,1.0,0.4,0.5047131746304225
+Baptiste Santamaria,Rennes,FRA-Ligue 1,MF,0,1,0,1.0,1.6,1.206447386499153
+Benjamin Bourigeaud,Rennes,FRA-Ligue 1,FW,1,0,0,6.0,6.2,4.834421703058117
+Bertuğ Yıldırım,Rennes,FRA-Ligue 1,FW,1,0,0,1.0,0.2,0.5069416618078263
+Birger Meling,Rennes,FRA-Ligue 1,DF,0,0,1,0.0,0.0,1.4170932877217481
+Christopher Wooh,Rennes,FRA-Ligue 1,DF,0,0,1,0.0,0.4,0.32174142999107197
+Djaoui Cissé,Rennes,FRA-Ligue 1,MF,0,1,0,0.0,0.0,0.3908823483062603
+Désiré Doué,Rennes,FRA-Ligue 1,FW,1,0,0,4.0,3.7,7.199999999999999
+Enzo Le Fée,Rennes,FRA-Ligue 1,MF,0,1,0,1.0,2.5,2.7562209596132856
+Fabian Rieder,Rennes,FRA-Ligue 1,MF,0,1,0,0.0,0.3,3.5999999999999996
+Guela Doué,Rennes,FRA-Ligue 1,DF,0,0,1,2.0,1.4,1.8416298011639298
+Ibrahim Salah,Rennes,FRA-Ligue 1,MF,0,1,0,1.0,1.2,1.188415174693851
+Jeanuël Belocian,Rennes,FRA-Ligue 1,DF,0,0,1,1.0,0.3,0.4782405260819246
+Jeremy Doku,Rennes,FRA-Ligue 1,FW,1,0,0,0.0,0.6,4.8
+Jérémy Jacquet,Rennes,FRA-Ligue 1,MF,0,1,0,0.0,0.0,1.2
+Lorenz Assignon,Rennes,FRA-Ligue 1,DF,0,0,1,1.0,1.3,4.8
+Lovro Majer,Rennes,FRA-Ligue 1,MF,0,1,0,0.0,0.1,1.786819639447478
+Ludovic Blas,Rennes,FRA-Ligue 1,MF,0,1,0,1.0,1.9,8.4
+Mahamadou Nagida,Rennes,FRA-Ligue 1,DF,0,0,1,0.0,0.3,0.531821973738038
+Martin Terrier,Rennes,FRA-Ligue 1,MF,0,1,0,3.0,2.4,2.194648070994803
+Mathis Lambourde,Rennes,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.19694506852116905
+Nemanja Matić,Rennes,FRA-Ligue 1,MF,0,1,0,0.0,0.9,1.2
+Warmed Omari,Rennes,FRA-Ligue 1,DF,0,0,1,0.0,0.6,0.6060718138947315
+Abakar Sylla,Strasbourg,FRA-Ligue 1,DF,0,0,1,0.0,0.2,0.31156756255985074
+Aboubacar Ali,Strasbourg,FRA-Ligue 1,FW,1,0,0,1.0,0.1,0.5632920613843767
+Andrey Santos,Strasbourg,FRA-Ligue 1,MF,0,1,0,0.0,0.8,1.2
+Dilane Bakwa,Strasbourg,FRA-Ligue 1,MF,0,1,0,6.0,4.6,7.199999999999999
+Dion Moise Sahi,Strasbourg,FRA-Ligue 1,FW,1,0,0,1.0,1.4,0.7695581949844612
+Eduard Sobol,Strasbourg,FRA-Ligue 1,DF,0,0,1,0.0,0.0,0.4019839276834661
+Emanuel Emegha,Strasbourg,FRA-Ligue 1,FW,1,0,0,1.0,0.4,2.4
+Frederic Guilbert,Strasbourg,FRA-Ligue 1,MF,0,1,0,0.0,1.4,1.3309922959890923
+Gerzino Nyamsi,Strasbourg,FRA-Ligue 1,DF,0,0,1,0.0,0.1,0.3582631912107059
+Habib Diarra,Strasbourg,FRA-Ligue 1,FW,1,0,0,1.0,1.8,3.5999999999999996
+Ibrahima Sissoko,Strasbourg,FRA-Ligue 1,MF,0,1,0,1.0,1.9,1.0025973394733698
+Ismaël Doukouré,Strasbourg,FRA-Ligue 1,DF,0,0,1,0.0,0.4,1.2
+Jean-Ricner Bellegarde,Strasbourg,FRA-Ligue 1,FW,1,0,0,2.0,1.1,4.8
+Jessy Deminguet,Strasbourg,FRA-Ligue 1,FW,1,0,0,0.0,0.6,0.5992635037890485
+Junior Mwanga,Strasbourg,FRA-Ligue 1,FW,1,0,0,1.0,0.8,0.8217167307810986
+Jérémy Sebas,Strasbourg,FRA-Ligue 1,MF,0,1,0,0.0,0.1,0.9246701785914422
+Kévin Gameiro,Strasbourg,FRA-Ligue 1,MF,0,1,0,2.0,3.0,1.987467135003194
+Lebo Mothiba,Strasbourg,FRA-Ligue 1,FW,1,0,0,0.0,0.5,0.5829326153148636
+Lucas Perrin,Strasbourg,FRA-Ligue 1,DF,0,0,1,1.0,1.1,0.9258777615230407
+Marvin Senaya,Strasbourg,FRA-Ligue 1,MF,0,1,0,1.0,1.9,1.316933000707432
+Mohamed Bechikh,Strasbourg,FRA-Ligue 1,MF,0,1,0,0.0,0.0,0.319014604683849
+Patrick Ouotro,Strasbourg,FRA-Ligue 1,FW,1,0,0,0.0,0.0,0.35036524154948817
+Rabby Nzingoula,Strasbourg,FRA-Ligue 1,FW,1,0,0,1.0,0.0,0.41811260580813625
+Saidou Sow,Strasbourg,FRA-Ligue 1,DF,0,0,1,1.0,0.4,1.2
+Sanjin Prcić,Strasbourg,FRA-Ligue 1,MF,0,1,0,0.0,0.0,0.854721533978744
+Steven Baseya,Strasbourg,FRA-Ligue 1,DF,0,0,1,0.0,0.0,0.3433035542589801
+Thomas Delaine,Strasbourg,FRA-Ligue 1,MF,0,1,0,1.0,3.0,1.8773702977192461
+Ângelo,Strasbourg,FRA-Ligue 1,MF,0,1,0,3.0,3.0,2.0374307064315413
+Aron Dønnum,Toulouse,FRA-Ligue 1,MF,0,1,0,1.0,3.0,2.0888509749838553
+Christian Mawissa,Toulouse,FRA-Ligue 1,DF,0,0,1,0.0,0.4,0.676373231639393
+Cristian Cásseres Jr.,Toulouse,FRA-Ligue 1,MF,0,1,0,3.0,2.0,1.2281318201484752
+Denis Genreau,Toulouse,FRA-Ligue 1,FW,1,0,0,0.0,0.4,0.3924392530802905
+Fares Chaïbi,Toulouse,FRA-Ligue 1,MF,0,1,0,1.0,0.2,1.814210944446602
+Frank Magri,Toulouse,FRA-Ligue 1,MF,0,1,0,2.0,1.1,1.2903977144344703
+Gabriel Suazo,Toulouse,FRA-Ligue 1,DF,0,0,1,4.0,4.1,6.0
+Gelabert,Toulouse,FRA-Ligue 1,FW,1,0,0,2.0,1.0,1.0837389492737315
+Ibrahim Cissoko,Toulouse,FRA-Ligue 1,MF,0,1,0,1.0,0.7,0.9257478266837911
+Kévin Keben Biakolo,Toulouse,FRA-Ligue 1,DF,0,0,1,0.0,0.1,0.386080381249896
+Logan Costa,Toulouse,FRA-Ligue 1,DF,0,0,1,1.0,0.7,0.3566072644956755
+Mamady Bangré,Toulouse,FRA-Ligue 1,MF,0,1,0,1.0,0.6,0.6063667058224174
+Mikkel Desler,Toulouse,FRA-Ligue 1,DF,0,0,1,1.0,1.1,1.3644357816432615
+Moussa Diarra,Toulouse,FRA-Ligue 1,DF,0,0,1,2.0,0.9,0.7242488281889664
+Naatan Skyttä,Toulouse,FRA-Ligue 1,FW,1,0,0,0.0,0.2,0.318994805810797
+Niklas Schmidt,Toulouse,FRA-Ligue 1,MF,0,1,0,1.0,2.6,1.3145128091964682
+Rasmus Nicolaisen,Toulouse,FRA-Ligue 1,DF,0,0,1,0.0,0.5,1.2
+Shavy Babicka,Toulouse,FRA-Ligue 1,MF,0,1,0,0.0,0.4,2.4
+Stijn Spierings,Toulouse,FRA-Ligue 1,MF,0,1,0,1.0,1.0,0.516535172475519
+Thijs Dallinga,Toulouse,FRA-Ligue 1,FW,1,0,0,2.0,1.8,2.0939307256690025
+Vincent Sierro,Toulouse,FRA-Ligue 1,MF,0,1,0,2.0,2.8,1.8022995841368787
+Waren Kamanzi,Toulouse,FRA-Ligue 1,FW,1,0,0,3.0,2.3,1.1171278389750108
+Yanis Begraoui,Toulouse,FRA-Ligue 1,MF,0,1,0,0.0,0.1,0.4612666365221939
+Yann Gboho,Toulouse,FRA-Ligue 1,FW,1,0,0,2.0,1.7,2.4
+Zakaria Aboukhlal,Toulouse,FRA-Ligue 1,FW,1,0,0,0.0,1.1,2.4
+Arne Engels,Augsburg,GER-Bundesliga,DF,0,0,1,2.0,1.8,1.469911768497242
+Arne Maier,Augsburg,GER-Bundesliga,MF,0,1,0,4.0,2.8,1.5654181872108608
+Dion Drena Beljo,Augsburg,GER-Bundesliga,MF,0,1,0,0.0,0.8,0.8841635471823609
+Elvis Rexhbeçaj,Augsburg,GER-Bundesliga,MF,0,1,0,0.0,1.3,0.9061042225674952
+Ermedin Demirović,Augsburg,GER-Bundesliga,MF,0,1,0,9.0,3.7,3.3186845579107755
+Fredrik Jensen,Augsburg,GER-Bundesliga,FW,1,0,0,4.0,4.9,2.1782722221297037
+Iago,Augsburg,GER-Bundesliga,DF,0,0,1,1.0,2.9,1.4007635427249665
+Irvin Cardona,Augsburg,GER-Bundesliga,DF,0,0,1,0.0,0.1,1.2
+Jeffrey Gouweleeuw,Augsburg,GER-Bundesliga,DF,0,0,1,0.0,1.6,3.5999999999999996
+Kevin Mbabu,Augsburg,GER-Bundesliga,DF,0,0,1,2.0,3.9,1.580202555091071
+Kristijan Jakić,Augsburg,GER-Bundesliga,MF,0,1,0,1.0,0.8,1.2
+Mads Pedersen,Augsburg,GER-Bundesliga,DF,0,0,1,1.0,2.1,1.279809968255664
+Mahmut Kücüksahin,Augsburg,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.2856920001557299
+Masaya Okugawa,Augsburg,GER-Bundesliga,DF,0,0,1,0.0,0.0,0.6567016305894697
+Maximilian Bauer,Augsburg,GER-Bundesliga,DF,0,0,1,0.0,0.1,0.39560865564792524
+Mergim Berisha,Augsburg,GER-Bundesliga,FW,1,0,0,0.0,0.1,2.1356218482270863
+Mert Kömür,Augsburg,GER-Bundesliga,DF,0,0,1,0.0,0.1,1.2
+Nathanael Mbuku,Augsburg,GER-Bundesliga,FW,1,0,0,0.0,0.0,0.38592107066530346
+Niklas Dorsch,Augsburg,GER-Bundesliga,MF,0,1,0,0.0,0.3,1.2
+Ohis Felix Uduokhai,Augsburg,GER-Bundesliga,DF,0,0,1,0.0,1.3,0.7618894435645879
+Patric Pfeiffer,Augsburg,GER-Bundesliga,DF,0,0,1,1.0,0.6,0.4844180935644967
+Pep Biel,Augsburg,GER-Bundesliga,FW,1,0,0,0.0,0.3,0.4208379369050015
+Phillip Tietz,Augsburg,GER-Bundesliga,FW,1,0,0,4.0,3.4,2.809311969431328
+Robert Gumny,Augsburg,GER-Bundesliga,DF,0,0,1,0.0,0.2,0.5529212455082156
+Ruben Vargas,Augsburg,GER-Bundesliga,FW,1,0,0,5.0,3.2,2.414339281747355
+Sven Michel,Augsburg,GER-Bundesliga,MF,0,1,0,1.0,0.8,0.688126937618466
+Tim Breithaupt,Augsburg,GER-Bundesliga,MF,0,1,0,0.0,0.3,1.2
+Aleksandar Pavlovic,Bayern Munich,GER-Bundesliga,MF,0,1,0,2.0,1.8,1.3737730757136197
+Alphonso Davies,Bayern Munich,GER-Bundesliga,DF,0,0,1,5.0,3.3,3.5674121877842406
+Bouna Sarr,Bayern Munich,GER-Bundesliga,DF,0,0,1,0.0,0.1,0.7067857707747697
+Bryan Zaragoza,Bayern Munich,GER-Bundesliga,MF,0,1,0,0.0,0.4,6.0
+Dayot Upamecano,Bayern Munich,GER-Bundesliga,DF,0,0,1,0.0,0.9,1.0273390358530263
+Eric Dier,Bayern Munich,GER-Bundesliga,DF,0,0,1,0.0,0.4,1.2
+Eric Maxim Choupo-Moting,Bayern Munich,GER-Bundesliga,FW,1,0,0,2.0,1.4,2.2690242823375018
+Frans Krätzig,Bayern Munich,GER-Bundesliga,DF,0,0,1,0.0,0.1,0.5204275709671891
+Harry Kane,Bayern Munich,GER-Bundesliga,FW,1,0,0,8.0,5.9,8.4
+Jamal Musiala,Bayern Munich,GER-Bundesliga,FW,1,0,0,5.0,5.8,6.407580290458867
+Jonathan Asp Jensen,Bayern Munich,GER-Bundesliga,FW,1,0,0,0.0,0.0,0.4197683657364835
+Joshua Kimmich,Bayern Munich,GER-Bundesliga,DF,0,0,1,6.0,9.3,8.368605481622042
+Kim Min-jae,Bayern Munich,GER-Bundesliga,DF,0,0,1,1.0,0.5,0.7782868249148067
+Kingsley Coman,Bayern Munich,GER-Bundesliga,FW,1,0,0,3.0,4.5,4.439918077153192
+Konrad Laimer,Bayern Munich,GER-Bundesliga,MF,0,1,0,3.0,4.5,2.9213379525468377
+Leon Goretzka,Bayern Munich,GER-Bundesliga,MF,0,1,0,7.0,4.7,4.0115096660387275
+Leroy Sané,Bayern Munich,GER-Bundesliga,FW,1,0,0,11.0,9.5,6.4304650181809615
+Lovro Zvonarek,Bayern Munich,GER-Bundesliga,MF,0,1,0,0.0,0.3,0.6943264248416336
+Mathys Tel,Bayern Munich,GER-Bundesliga,MF,0,1,0,5.0,3.0,3.2673691630332566
+Matteo Perez Vinlöf,Bayern Munich,GER-Bundesliga,FW,1,0,0,0.0,0.0,0.45224988066565663
+Matthijs de Ligt,Bayern Munich,GER-Bundesliga,DF,0,0,1,0.0,0.6,0.8308945216476701
+Noussair Mazraoui,Bayern Munich,GER-Bundesliga,DF,0,0,1,3.0,2.4,1.9552416330507756
+Raphaël Guerreiro,Bayern Munich,GER-Bundesliga,MF,0,1,0,0.0,3.4,3.079831256455781
+Ryan Gravenberch,Bayern Munich,GER-Bundesliga,FW,1,0,0,0.0,0.1,2.4
+Sacha Boey,Bayern Munich,GER-Bundesliga,DF,0,0,1,0.0,0.0,1.2
+Serge Gnabry,Bayern Munich,GER-Bundesliga,MF,0,1,0,1.0,2.0,3.5999999999999996
+Thomas Müller,Bayern Munich,GER-Bundesliga,FW,1,0,0,9.0,7.9,4.8167157317777445
+Anthony Losilla,Bochum,GER-Bundesliga,MF,0,1,0,2.0,1.0,0.7637402302635206
+Bernardo,Bochum,GER-Bundesliga,DF,0,0,1,0.0,1.3,0.7506636830676805
+Christopher Antwi-Adjei,Bochum,GER-Bundesliga,MF,0,1,0,2.0,3.0,2.3149395398724213
+Cristian Gamboa,Bochum,GER-Bundesliga,DF,0,0,1,1.0,0.9,0.46660934025359735
+Danilo Soares,Bochum,GER-Bundesliga,DF,0,0,1,0.0,0.1,0.4830413880323861
+Erhan Mašović,Bochum,GER-Bundesliga,MF,0,1,0,0.0,0.8,1.2
+Felix Passlack,Bochum,GER-Bundesliga,DF,0,0,1,2.0,1.2,4.8
+Gonçalo Paciência,Bochum,GER-Bundesliga,MF,0,1,0,1.0,0.6,0.502313287983746
+Ivan Ordets,Bochum,GER-Bundesliga,DF,0,0,1,0.0,1.7,0.6876581059777647
+Keven Schlotterbeck,Bochum,GER-Bundesliga,DF,0,0,1,1.0,1.1,0.5038075309488446
+Kevin Stöger,Bochum,GER-Bundesliga,MF,0,1,0,10.0,9.8,6.414448263172449
+Lukas Daschner,Bochum,GER-Bundesliga,FW,1,0,0,1.0,1.2,0.8611521916654773
+Matúš Bero,Bochum,GER-Bundesliga,FW,1,0,0,1.0,1.9,2.4
+Maximilian Wittek,Bochum,GER-Bundesliga,FW,1,0,0,1.0,2.7,1.5227309079595468
+Moritz Broschinski,Bochum,GER-Bundesliga,FW,1,0,0,3.0,0.9,3.5999999999999996
+Moritz-Broni Kwarteng,Bochum,GER-Bundesliga,FW,1,0,0,1.0,0.1,0.5481707236197968
+Noah Loosli,Bochum,GER-Bundesliga,DF,0,0,1,0.0,0.0,0.336421882715978
+Patrick Osterhage,Bochum,GER-Bundesliga,MF,0,1,0,1.0,0.7,1.195391376351739
+Philipp Förster,Bochum,GER-Bundesliga,FW,1,0,0,0.0,0.8,0.8955792635525106
+Philipp Hofmann,Bochum,GER-Bundesliga,FW,1,0,0,2.0,1.3,3.5999999999999996
+Simon Zoller,Bochum,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.48995891347420606
+Takuma Asano,Bochum,GER-Bundesliga,MF,0,1,0,1.0,0.9,1.9769224926895912
+Tim Oermann,Bochum,GER-Bundesliga,DF,0,0,1,0.0,0.4,1.2
+Aaron Seydel,Darmstadt 98,GER-Bundesliga,FW,1,0,0,0.0,0.6,0.5849672294055004
+Andreas Müller,Darmstadt 98,GER-Bundesliga,MF,0,1,0,0.0,0.1,0.2942345249903791
+Asaf Arania,Darmstadt 98,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.30235289685843414
+Bartol Franjić,Darmstadt 98,GER-Bundesliga,MF,0,1,0,1.0,0.3,0.373767115074249
+Braydon Manu,Darmstadt 98,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.43592766491790497
+Christoph Klarer,Darmstadt 98,GER-Bundesliga,DF,0,0,1,2.0,1.0,0.5197025418341599
+Christoph Zimmermann,Darmstadt 98,GER-Bundesliga,DF,0,0,1,0.0,0.3,0.2610600099354887
+Clemens Riedel,Darmstadt 98,GER-Bundesliga,DF,0,0,1,0.0,0.3,0.3755230883194056
+Emir Karic,Darmstadt 98,GER-Bundesliga,DF,0,0,1,0.0,1.9,1.1649463136405815
+Fabian Holland,Darmstadt 98,GER-Bundesliga,DF,0,0,1,2.0,1.4,0.7794803004456373
+Fabian Nürnberger,Darmstadt 98,GER-Bundesliga,MF,0,1,0,1.0,2.6,1.4941086476272767
+Fabian Schnellhardt,Darmstadt 98,GER-Bundesliga,MF,0,1,0,0.0,0.1,0.3843742900117704
+Fabio Torsiello,Darmstadt 98,GER-Bundesliga,DF,0,0,1,0.0,0.1,0.31639119097005686
+Filip Stojilković,Darmstadt 98,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.41089804917173495
+Frank Ronstadt,Darmstadt 98,GER-Bundesliga,MF,0,1,0,0.0,0.1,0.3661325047540678
+Fraser Hornby,Darmstadt 98,GER-Bundesliga,MF,0,1,0,0.0,0.5,0.5206607319091958
+Gerrit Holtmann,Darmstadt 98,GER-Bundesliga,FW,1,0,0,0.0,0.3,1.2
+Jannik Müller,Darmstadt 98,GER-Bundesliga,MF,0,1,0,0.0,0.2,0.24780813180923572
+Julian Justvan,Darmstadt 98,GER-Bundesliga,FW,1,0,0,2.0,3.5,2.056869414120974
+Klaus Gjasula,Darmstadt 98,GER-Bundesliga,MF,0,1,0,0.0,0.8,0.4933848473334608
+Luca Pfeiffer,Darmstadt 98,GER-Bundesliga,MF,0,1,0,4.0,1.0,1.1278307121739237
+Marvin Mehlem,Darmstadt 98,GER-Bundesliga,MF,0,1,0,2.0,1.5,1.0237690201349965
+Matej Maglica,Darmstadt 98,GER-Bundesliga,DF,0,0,1,0.0,1.0,0.3392500552897306
+Mathias Honsak,Darmstadt 98,GER-Bundesliga,MF,0,1,0,1.0,0.7,1.2
+Matthias Bader,Darmstadt 98,GER-Bundesliga,MF,0,1,0,2.0,3.5,1.0276576744626658
+Oscar Vilhelmsson,Darmstadt 98,GER-Bundesliga,MF,0,1,0,1.0,0.6,0.9301687076398859
+Sebastian Polter,Darmstadt 98,GER-Bundesliga,FW,1,0,0,1.0,0.5,0.6580979799795603
+Thomas Isherwood,Darmstadt 98,GER-Bundesliga,DF,0,0,1,0.0,0.1,0.26064282703702535
+Tim Skarke,Darmstadt 98,GER-Bundesliga,DF,0,0,1,0.0,3.0,1.4875736273913365
+Tobias Kempe,Darmstadt 98,GER-Bundesliga,MF,0,1,0,2.0,2.5,1.0720701950061728
+Antonios Papadopoulos,Dortmund,GER-Bundesliga,DF,0,0,1,0.0,0.0,0.3948896689808812
+Donyell Malen,Dortmund,GER-Bundesliga,MF,0,1,0,1.0,3.4,4.550544227977638
+Emre Can,Dortmund,GER-Bundesliga,DF,0,0,1,2.0,1.3,1.1447182064966805
+Felix Nmecha,Dortmund,GER-Bundesliga,MF,0,1,0,2.0,1.2,1.1301175449324288
+Gio Reyna,Dortmund,GER-Bundesliga,FW,1,0,0,0.0,1.1,0.9910703018174267
+Hendry Blank,Dortmund,GER-Bundesliga,DF,0,0,1,0.0,0.0,0.37641044936727686
+Ian Maatsen,Dortmund,GER-Bundesliga,DF,0,0,1,2.0,1.7,1.3003562598350902
+Jadon Sancho,Dortmund,GER-Bundesliga,MF,0,1,0,2.0,3.3,4.8
+Jamie Gittens,Dortmund,GER-Bundesliga,MF,0,1,0,4.0,3.0,4.1338627829568875
+Julian Brandt,Dortmund,GER-Bundesliga,FW,1,0,0,11.0,7.5,5.442126600365317
+Julian Ryerson,Dortmund,GER-Bundesliga,DF,0,0,1,1.0,2.8,1.7322258879750954
+Julien Duranville,Dortmund,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.4192264235479745
+Karim Adeyemi,Dortmund,GER-Bundesliga,MF,0,1,0,1.0,1.6,3.5999999999999996
+Kjell-Arik Wätjen,Dortmund,GER-Bundesliga,FW,1,0,0,1.0,0.2,0.4999064813474305
+Marcel Sabitzer,Dortmund,GER-Bundesliga,MF,0,1,0,3.0,3.0,2.361248165355175
+Marco Reus,Dortmund,GER-Bundesliga,FW,1,0,0,8.0,3.7,3.1885799332701477
+Marius Wolf,Dortmund,GER-Bundesliga,DF,0,0,1,1.0,2.3,3.5999999999999996
+Mateu Morey,Dortmund,GER-Bundesliga,DF,0,0,1,0.0,0.1,0.729741323407261
+Mats Hummels,Dortmund,GER-Bundesliga,DF,0,0,1,0.0,1.4,0.8990523403736789
+Niclas Füllkrug,Dortmund,GER-Bundesliga,FW,1,0,0,8.0,3.3,3.4285837044124836
+Nico Schlotterbeck,Dortmund,GER-Bundesliga,DF,0,0,1,1.0,2.1,1.2879523031092626
+Niklas Süle,Dortmund,GER-Bundesliga,DF,0,0,1,0.0,0.6,0.7115438950122444
+Ole Pohlmann,Dortmund,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.4264813080989759
+Ramy Bensebaini,Dortmund,GER-Bundesliga,DF,0,0,1,0.0,0.9,6.0
+Salih Özcan,Dortmund,GER-Bundesliga,MF,0,1,0,0.0,0.8,0.7630745856174099
+Samuel Bamba,Dortmund,GER-Bundesliga,FW,1,0,0,0.0,0.1,0.4579966969561321
+Sébastien Haller,Dortmund,GER-Bundesliga,FW,1,0,0,1.0,0.9,1.0427570759817026
+Thomas Meunier,Dortmund,GER-Bundesliga,DF,0,0,1,0.0,0.9,0.732875739690576
+Thorgan Hazard,Dortmund,GER-Bundesliga,DF,0,0,1,0.0,0.0,0.4821449217538378
+Youssoufa Moukoko,Dortmund,GER-Bundesliga,FW,1,0,0,0.0,0.7,1.2
+Ansgar Knauff,Eint Frankfurt,GER-Bundesliga,DF,0,0,1,2.0,2.7,4.8
+Aurélio Buta,Eint Frankfurt,GER-Bundesliga,MF,0,1,0,1.0,1.7,1.4791951546076119
+Christopher Lenz,Eint Frankfurt,GER-Bundesliga,DF,0,0,1,0.0,0.0,1.6876739176730173
+Donny van de Beek,Eint Frankfurt,GER-Bundesliga,FW,1,0,0,0.0,0.6,2.4
+Elias Baum,Eint Frankfurt,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.3383658558433121
+Ellyes Skhiri,Eint Frankfurt,GER-Bundesliga,MF,0,1,0,2.0,1.9,1.2552607302976322
+Fares Chaïbi,Eint Frankfurt,GER-Bundesliga,FW,1,0,0,4.0,6.1,3.4248383479884854
+Hrvoje Smolčić,Eint Frankfurt,GER-Bundesliga,DF,0,0,1,0.0,0.0,0.3786294636541653
+Hugo Ekitike,Eint Frankfurt,GER-Bundesliga,FW,1,0,0,2.0,1.5,3.5999999999999996
+Hugo Larsson,Eint Frankfurt,GER-Bundesliga,MF,0,1,0,1.0,1.5,1.080597269851584
+Jean Mattéo Bahoya,Eint Frankfurt,GER-Bundesliga,FW,1,0,0,0.0,0.1,2.4
+Jens Petter Hauge,Eint Frankfurt,GER-Bundesliga,FW,1,0,0,0.0,0.4,0.709910343202567
+Jesper Lindstrøm,Eint Frankfurt,GER-Bundesliga,FW,1,0,0,0.0,0.0,1.8940919803343217
+Jessic Ngankam,Eint Frankfurt,GER-Bundesliga,FW,1,0,0,0.0,0.1,0.4498757155105513
+Junior Dina Ebimbe,Eint Frankfurt,GER-Bundesliga,DF,0,0,1,3.0,3.7,2.407668033202137
+Kristijan Jakić,Eint Frankfurt,GER-Bundesliga,FW,1,0,0,0.0,0.2,1.2
+Makoto Hasebe,Eint Frankfurt,GER-Bundesliga,MF,0,1,0,0.0,0.2,0.3260580030374819
+Mario Götze,Eint Frankfurt,GER-Bundesliga,MF,0,1,0,2.0,3.8,4.200045122810128
+Marko Mladenović,Eint Frankfurt,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.28945151909390887
+Nacho Ferri,Eint Frankfurt,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.5476006032384325
+Niels Nkounkou,Eint Frankfurt,GER-Bundesliga,MF,0,1,0,2.0,2.0,1.5113569134095806
+Nnamdi Collins,Eint Frankfurt,GER-Bundesliga,DF,0,0,1,0.0,0.1,1.2
+Omar Marmoush,Eint Frankfurt,GER-Bundesliga,MF,0,1,0,6.0,4.4,10.799999999999999
+Paxten Aaronson,Eint Frankfurt,GER-Bundesliga,MF,0,1,0,1.0,0.1,0.39055567166762917
+Philipp Max,Eint Frankfurt,GER-Bundesliga,DF,0,0,1,2.0,2.4,1.3151888373271663
+Randal Kolo Muani,Eint Frankfurt,GER-Bundesliga,FW,1,0,0,0.0,0.0,1.383139018693194
+Robin Koch,Eint Frankfurt,GER-Bundesliga,DF,0,0,1,0.0,0.6,0.5217274401112979
+Sasa Kalajdzic,Eint Frankfurt,GER-Bundesliga,FW,1,0,0,1.0,0.1,0.5088317435503409
+Sebastian Rode,Eint Frankfurt,GER-Bundesliga,MF,0,1,0,0.0,0.5,0.7863161460323238
+Timothy Chandler,Eint Frankfurt,GER-Bundesliga,DF,0,0,1,1.0,0.1,0.2108758419204807
+Tuta,Eint Frankfurt,GER-Bundesliga,DF,0,0,1,2.0,2.0,1.056145157921908
+Willian Pacho,Eint Frankfurt,GER-Bundesliga,DF,0,0,1,3.0,1.6,0.8681082055473012
+Attila Szalai,Freiburg,GER-Bundesliga,DF,0,0,1,0.0,0.2,0.271980381734486
+Christian Günter,Freiburg,GER-Bundesliga,DF,0,0,1,2.0,1.9,2.451655818173508
+Fabian Rüdlin,Freiburg,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.26317769576384176
+Florent Muslija,Freiburg,GER-Bundesliga,FW,1,0,0,0.0,0.6,0.5347395277515796
+Jordy Makengo,Freiburg,GER-Bundesliga,DF,0,0,1,0.0,0.5,0.459011525380963
+Junior Adamu,Freiburg,GER-Bundesliga,MF,0,1,0,0.0,0.0,1.2
+Kenneth Schmidt,Freiburg,GER-Bundesliga,DF,0,0,1,0.0,0.1,0.3728364666701637
+Kiliann Sildillia,Freiburg,GER-Bundesliga,DF,0,0,1,1.0,1.6,1.2140052131198031
+Lucas Höler,Freiburg,GER-Bundesliga,MF,0,1,0,2.0,2.0,4.8
+Lukas Kübler,Freiburg,GER-Bundesliga,DF,0,0,1,0.0,0.6,0.8098711486080926
+Manuel Gulde,Freiburg,GER-Bundesliga,DF,0,0,1,0.0,0.5,0.31653469349715324
+Matthias Ginter,Freiburg,GER-Bundesliga,DF,0,0,1,2.0,1.5,0.932142657280257
+Maximilian Breunig,Freiburg,GER-Bundesliga,FW,1,0,0,0.0,0.0,0.3465173724464199
+Maximilian Eggestein,Freiburg,GER-Bundesliga,MF,0,1,0,2.0,2.4,1.6153492607362663
+Maximilian Philipp,Freiburg,GER-Bundesliga,MF,0,1,0,0.0,0.4,0.3427887885958795
+Merlin Röhl,Freiburg,GER-Bundesliga,FW,1,0,0,4.0,2.1,1.387239021621289
+Michael Gregoritsch,Freiburg,GER-Bundesliga,FW,1,0,0,4.0,1.3,1.887620606372665
+Nicolas Höfler,Freiburg,GER-Bundesliga,MF,0,1,0,1.0,0.7,0.6573922752026224
+Noah Weißhaupt,Freiburg,GER-Bundesliga,FW,1,0,0,2.0,1.8,1.412552957129635
+Philipp Lienhart,Freiburg,GER-Bundesliga,DF,0,0,1,0.0,0.6,0.5304345262691685
+Ritsu Doan,Freiburg,GER-Bundesliga,MF,0,1,0,2.0,4.2,2.910345869451592
+Roland Sallai,Freiburg,GER-Bundesliga,FW,1,0,0,2.0,3.6,3.1335412209902205
+Vincenzo Grifo,Freiburg,GER-Bundesliga,FW,1,0,0,8.0,7.5,6.213243896110893
+Yannik Keitel,Freiburg,GER-Bundesliga,MF,0,1,0,0.0,0.2,0.509818168057821
+Alassane Pléa,Gladbach,GER-Bundesliga,MF,0,1,0,4.0,4.1,3.6852947099070805
+Christoph Kramer,Gladbach,GER-Bundesliga,MF,0,1,0,0.0,0.4,0.836192663637972
+Fabio Chiarodia,Gladbach,GER-Bundesliga,DF,0,0,1,0.0,0.2,0.3422834794704864
+Florian Neuhaus,Gladbach,GER-Bundesliga,MF,0,1,0,2.0,2.6,1.5111834546010305
+Franck Honorat,Gladbach,GER-Bundesliga,FW,1,0,0,9.0,9.4,5.570957454874129
+Grant Ranos,Gladbach,GER-Bundesliga,FW,1,0,0,0.0,0.1,0.41571736334935827
+Joe Scally,Gladbach,GER-Bundesliga,DF,0,0,1,4.0,1.5,1.2806070905041271
+Jordan Pefok,Gladbach,GER-Bundesliga,FW,1,0,0,3.0,1.9,1.5282126677320762
+Julian Weigl,Gladbach,GER-Bundesliga,MF,0,1,0,3.0,1.4,2.4
+Ko Itakura,Gladbach,GER-Bundesliga,MF,0,1,0,0.0,0.6,0.6614132530145169
+Luca Netz,Gladbach,GER-Bundesliga,DF,0,0,1,4.0,3.1,1.6650366044139466
+Lukas Ullrich,Gladbach,GER-Bundesliga,FW,1,0,0,0.0,0.0,2.4
+Manu Koné,Gladbach,GER-Bundesliga,MF,0,1,0,0.0,0.8,1.3418744159109628
+Marvin Friedrich,Gladbach,GER-Bundesliga,DF,0,0,1,0.0,0.1,1.2
+Maximilian Wöber,Gladbach,GER-Bundesliga,DF,0,0,1,3.0,1.1,0.6519348295171342
+Nathan N'Goumou,Gladbach,GER-Bundesliga,MF,0,1,0,2.0,2.9,1.6306843057305005
+Nico Elvedi,Gladbach,GER-Bundesliga,DF,0,0,1,1.0,0.4,1.2
+Patrick Herrmann,Gladbach,GER-Bundesliga,DF,0,0,1,0.0,0.1,0.4740000812726919
+Robin Hack,Gladbach,GER-Bundesliga,MF,0,1,0,2.0,2.0,4.8
+Rocco Reitz,Gladbach,GER-Bundesliga,MF,0,1,0,3.0,2.6,1.7325535489027317
+Shiō Fukuda,Gladbach,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.3779544887172678
+Stefan Lainer,Gladbach,GER-Bundesliga,MF,0,1,0,1.0,1.1,0.7726615578503724
+Tomáš Čvančara,Gladbach,GER-Bundesliga,FW,1,0,0,1.0,0.8,0.8321123044896593
+Tony Jantschke,Gladbach,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.31133242601114425
+Yvandro Borges Sanches,Gladbach,GER-Bundesliga,FW,1,0,0,0.0,0.0,0.6033655861411067
+Adrian Beck,Heidenheim,GER-Bundesliga,FW,1,0,0,1.0,0.6,1.2
+Benedikt Gimber,Heidenheim,GER-Bundesliga,DF,0,0,1,1.0,1.1,0.6007824420169288
+Christian Kühlwetter,Heidenheim,GER-Bundesliga,MF,0,1,0,1.0,0.4,0.4130439388816175
+Denis Thomalla,Heidenheim,GER-Bundesliga,FW,1,0,0,0.0,0.8,0.5190019693207985
+Eren Dinkçi,Heidenheim,GER-Bundesliga,MF,0,1,0,5.0,3.7,2.3327688166569853
+Florian Pick,Heidenheim,GER-Bundesliga,FW,1,0,0,1.0,1.1,0.864390902907596
+Jan Schöppner,Heidenheim,GER-Bundesliga,MF,0,1,0,2.0,1.4,2.4
+Jan-Niklas Beste,Heidenheim,GER-Bundesliga,MF,0,1,0,11.0,6.3,4.934396490646261
+Jonas Föhrenbach,Heidenheim,GER-Bundesliga,DF,0,0,1,0.0,1.4,1.1546200759199237
+Kevin Sessa,Heidenheim,GER-Bundesliga,FW,1,0,0,0.0,1.7,1.2124112344797504
+Lennard Maloney,Heidenheim,GER-Bundesliga,MF,0,1,0,1.0,1.3,0.6704008819245755
+Marnon Busch,Heidenheim,GER-Bundesliga,DF,0,0,1,0.0,0.5,1.2
+Marvin Pieringer,Heidenheim,GER-Bundesliga,FW,1,0,0,3.0,1.5,2.4
+Nikola Dovedan,Heidenheim,GER-Bundesliga,FW,1,0,0,1.0,0.8,0.7721382799835574
+Norman Theuerkauf,Heidenheim,GER-Bundesliga,DF,0,0,1,1.0,1.5,0.7614219209060491
+Omar Traoré,Heidenheim,GER-Bundesliga,DF,0,0,1,2.0,1.8,1.415035388109312
+Patrick Mainka,Heidenheim,GER-Bundesliga,DF,0,0,1,0.0,0.6,0.5939950817672439
+Stefan Schimmer,Heidenheim,GER-Bundesliga,FW,1,0,0,1.0,0.8,0.6247650369950843
+Thomas Keller,Heidenheim,GER-Bundesliga,FW,1,0,0,0.0,0.0,0.40815058500446055
+Tim Kleindienst,Heidenheim,GER-Bundesliga,FW,1,0,0,3.0,2.0,6.0
+Tim Siersleben,Heidenheim,GER-Bundesliga,DF,0,0,1,0.0,0.4,0.3336108628524961
+Andrej Kramarić,Hoffenheim,GER-Bundesliga,FW,1,0,0,6.0,7.0,6.211293136235316
+Angelo Stiller,Hoffenheim,GER-Bundesliga,MF,0,1,0,0.0,0.1,6.0
+Anton Stach,Hoffenheim,GER-Bundesliga,MF,0,1,0,3.0,2.5,2.32274313220659
+Attila Szalai,Hoffenheim,GER-Bundesliga,DF,0,0,1,0.0,0.8,0.40487737543447855
+Bambasé Conté,Hoffenheim,GER-Bundesliga,FW,1,0,0,0.0,0.0,0.36306810899073344
+David Jurásek,Hoffenheim,GER-Bundesliga,DF,0,0,1,1.0,0.8,0.7819218232111271
+Dennis Geiger,Hoffenheim,GER-Bundesliga,MF,0,1,0,0.0,0.1,1.3520551051817091
+Diadie Samassékou,Hoffenheim,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.48273005158127713
+Finn Ole Becker,Hoffenheim,GER-Bundesliga,MF,0,1,0,0.0,0.7,1.2
+Florian Grillitsch,Hoffenheim,GER-Bundesliga,MF,0,1,0,6.0,1.9,1.3599968359372512
+Grischa Prömel,Hoffenheim,GER-Bundesliga,MF,0,1,0,5.0,2.2,1.717486636035206
+Ihlas Bebou,Hoffenheim,GER-Bundesliga,DF,0,0,1,5.0,3.0,2.324761953821921
+John Brooks,Hoffenheim,GER-Bundesliga,DF,0,0,1,0.0,0.3,0.36896933493363226
+Julian Justvan,Hoffenheim,GER-Bundesliga,MF,0,1,0,0.0,0.1,1.1706259873279719
+Kasim Nuhu,Hoffenheim,GER-Bundesliga,DF,0,0,1,0.0,0.0,0.23128672340118245
+Kevin Akpoguma,Hoffenheim,GER-Bundesliga,DF,0,0,1,0.0,0.4,0.5749901767954749
+Kevin Vogt,Hoffenheim,GER-Bundesliga,DF,0,0,1,0.0,0.4,0.5833243653718101
+Marius Bülter,Hoffenheim,GER-Bundesliga,FW,1,0,0,4.0,4.3,2.1295586259427686
+Max Moerstedt,Hoffenheim,GER-Bundesliga,FW,1,0,0,0.0,0.0,0.14543533567184652
+Maximilian Beier,Hoffenheim,GER-Bundesliga,MF,0,1,0,1.0,3.0,2.845949250028637
+Mergim Berisha,Hoffenheim,GER-Bundesliga,FW,1,0,0,0.0,0.1,1.2
+Ozan Kabak,Hoffenheim,GER-Bundesliga,DF,0,0,1,0.0,1.7,1.1305237833629418
+Pavel Kadeřábek,Hoffenheim,GER-Bundesliga,FW,1,0,0,4.0,5.4,2.594904496315401
+Robert Skov,Hoffenheim,GER-Bundesliga,FW,1,0,0,4.0,1.8,2.4
+Stanley N'Soki,Hoffenheim,GER-Bundesliga,DF,0,0,1,0.0,0.3,0.37024343897496004
+Tim Drexler,Hoffenheim,GER-Bundesliga,DF,0,0,1,0.0,0.0,0.36881966118316967
+Tom Bischof,Hoffenheim,GER-Bundesliga,FW,1,0,0,2.0,0.8,2.4
+Umut Tohumcu,Hoffenheim,GER-Bundesliga,MF,0,1,0,2.0,2.0,0.7731204961946748
+Wout Weghorst,Hoffenheim,GER-Bundesliga,FW,1,0,0,3.0,2.8,1.781710035287084
+Benno Schmitz,Köln,GER-Bundesliga,DF,0,0,1,1.0,1.1,1.1021423780405386
+Damion Downs,Köln,GER-Bundesliga,MF,0,1,0,0.0,0.1,0.4491282646613172
+Davie Selke,Köln,GER-Bundesliga,FW,1,0,0,0.0,0.3,0.7119600198980016
+Dejan Ljubicic,Köln,GER-Bundesliga,FW,1,0,0,2.0,2.0,1.191668821258626
+Denis Huseinbasic,Köln,GER-Bundesliga,MF,0,1,0,3.0,0.7,0.6338254578675874
+Dominique Heintz,Köln,GER-Bundesliga,DF,0,0,1,0.0,0.7,0.4871891958202387
+Eric Martel,Köln,GER-Bundesliga,MF,0,1,0,1.0,0.8,0.7917506598054488
+Faride Alidou,Köln,GER-Bundesliga,MF,0,1,0,0.0,0.7,1.3373649197556234
+Florian Dietz,Köln,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.44398266554590843
+Florian Kainz,Köln,GER-Bundesliga,FW,1,0,0,4.0,4.5,3.1692706841310168
+Jacob Christensen,Köln,GER-Bundesliga,MF,0,1,0,0.0,0.1,0.3235202241687701
+Jan Thielmann,Köln,GER-Bundesliga,DF,0,0,1,0.0,1.2,1.3284815541233796
+Julian Chabot,Köln,GER-Bundesliga,DF,0,0,1,0.0,1.5,0.6146610273483264
+Justin Diehl,Köln,GER-Bundesliga,MF,0,1,0,0.0,0.2,0.7199068417778809
+Leart Paqarada,Köln,GER-Bundesliga,DF,0,0,1,0.0,3.0,1.3828968562157726
+Linton Maina,Köln,GER-Bundesliga,MF,0,1,0,3.0,3.3,2.311770733887612
+Luca Kilian,Köln,GER-Bundesliga,DF,0,0,1,0.0,0.0,0.2810545150886575
+Luca Waldschmidt,Köln,GER-Bundesliga,FW,1,0,0,0.0,1.8,1.8589081740562847
+Mark Uth,Köln,GER-Bundesliga,FW,1,0,0,1.0,0.7,0.7350992509897998
+Mathias Olesen,Köln,GER-Bundesliga,FW,1,0,0,0.0,0.2,0.4384655524654252
+Max Finkgräfe,Köln,GER-Bundesliga,FW,1,0,0,0.0,1.6,1.3307167270306401
+Rasmus Carstensen,Köln,GER-Bundesliga,FW,1,0,0,0.0,3.3,1.7080978135048224
+Sargis Adamyan,Köln,GER-Bundesliga,MF,0,1,0,2.0,1.1,0.9396876537783849
+Steffen Tigges,Köln,GER-Bundesliga,FW,1,0,0,0.0,0.7,0.7036217795616808
+Timo Hübers,Köln,GER-Bundesliga,DF,0,0,1,0.0,1.0,0.48442315068865416
+Adam Hložek,Leverkusen,GER-Bundesliga,FW,1,0,0,3.0,1.2,2.4
+Amine Adli,Leverkusen,GER-Bundesliga,FW,1,0,0,6.0,2.9,2.827821572509972
+Arthur,Leverkusen,GER-Bundesliga,DF,0,0,1,2.0,0.4,1.2
+Borja Iglesias,Leverkusen,GER-Bundesliga,FW,1,0,0,0.0,0.4,1.2
+Edmond Tapsoba,Leverkusen,GER-Bundesliga,DF,0,0,1,1.0,1.4,1.1561731951612921
+Exequiel Palacios,Leverkusen,GER-Bundesliga,MF,0,1,0,4.0,4.1,3.0305125269288453
+Florian Wirtz,Leverkusen,GER-Bundesliga,MF,0,1,0,11.0,9.7,12.0
+Granit Xhaka,Leverkusen,GER-Bundesliga,MF,0,1,0,0.0,5.9,8.4
+Gustavo Puerta,Leverkusen,GER-Bundesliga,MF,0,1,0,0.0,0.1,0.5038225699763104
+Jeremie Frimpong,Leverkusen,GER-Bundesliga,DF,0,0,1,7.0,5.4,8.115889168906909
+Jonas Hofmann,Leverkusen,GER-Bundesliga,MF,0,1,0,7.0,8.3,6.448061183113099
+Jonathan Tah,Leverkusen,GER-Bundesliga,DF,0,0,1,1.0,0.9,0.7516668258787196
+Josip Stanišić,Leverkusen,GER-Bundesliga,DF,0,0,1,1.0,1.7,1.5689557035476864
+Nadiem Amiri,Leverkusen,GER-Bundesliga,MF,0,1,0,0.0,0.1,3.5999999999999996
+Nathan Tella,Leverkusen,GER-Bundesliga,MF,0,1,0,2.0,2.9,3.4364387298762713
+Noah Mbamba,Leverkusen,GER-Bundesliga,MF,0,1,0,1.0,0.5,0.8479310013815751
+Odilon Kossounou,Leverkusen,GER-Bundesliga,DF,0,0,1,0.0,1.5,1.3612457513888332
+Patrik Schick,Leverkusen,GER-Bundesliga,FW,1,0,0,0.0,1.6,1.965399945811784
+Piero Hincapié,Leverkusen,GER-Bundesliga,DF,0,0,1,2.0,0.9,1.2
+Robert Andrich,Leverkusen,GER-Bundesliga,DF,0,0,1,2.0,2.2,1.4548106964803362
+Victor Boniface,Leverkusen,GER-Bundesliga,FW,1,0,0,8.0,3.3,4.642216166265558
+Álex Grimaldo,Leverkusen,GER-Bundesliga,DF,0,0,1,13.0,11.1,8.034858673704942
+Andreas Hanche-Olsen,Mainz 05,GER-Bundesliga,DF,0,0,1,0.0,0.1,1.2
+Anthony Caci,Mainz 05,GER-Bundesliga,DF,0,0,1,3.0,3.5,6.0
+Anton Stach,Mainz 05,GER-Bundesliga,MF,0,1,0,0.0,0.1,1.757369038096766
+Anwar El Ghazi,Mainz 05,GER-Bundesliga,DF,0,0,1,1.0,0.0,0.3666963595951998
+Aymen Barkok,Mainz 05,GER-Bundesliga,FW,1,0,0,0.0,0.6,1.0429936894981369
+Brajan Gruda,Mainz 05,GER-Bundesliga,FW,1,0,0,3.0,5.1,3.007547538814972
+Danny da Costa,Mainz 05,GER-Bundesliga,DF,0,0,1,1.0,1.3,0.8147628745885961
+David Mamutovic,Mainz 05,GER-Bundesliga,DF,0,0,1,0.0,0.0,0.2463886768439624
+Dominik Kohr,Mainz 05,GER-Bundesliga,MF,0,1,0,0.0,1.2,0.8688270900838764
+Edimilson Fernandes,Mainz 05,GER-Bundesliga,DF,0,0,1,2.0,1.9,1.0346349509369914
+Jessic Ngankam,Mainz 05,GER-Bundesliga,MF,0,1,0,0.0,0.6,0.4643268603273748
+Jonathan Burkardt,Mainz 05,GER-Bundesliga,MF,0,1,0,2.0,1.0,2.4
+Josuha Guilavogui,Mainz 05,GER-Bundesliga,DF,0,0,1,1.0,0.2,0.4644089993820995
+Karim Onisiwo,Mainz 05,GER-Bundesliga,MF,0,1,0,3.0,1.3,1.8148363424185452
+Leandro Barreiro Martins,Mainz 05,GER-Bundesliga,MF,0,1,0,1.0,1.1,1.2869004189367148
+Lee Jae-sung,Mainz 05,GER-Bundesliga,FW,1,0,0,3.0,2.2,6.0
+Ludovic Ajorque,Mainz 05,GER-Bundesliga,FW,1,0,0,0.0,1.6,1.2898294034146396
+Marco Richter,Mainz 05,GER-Bundesliga,FW,1,0,0,0.0,2.1,1.7530770624979068
+Marcus Müller,Mainz 05,GER-Bundesliga,MF,0,1,0,0.0,0.1,0.35655680937535045
+Maxim Leitsch,Mainz 05,GER-Bundesliga,DF,0,0,1,0.0,0.1,0.36216008167879943
+Merveille Papela,Mainz 05,GER-Bundesliga,DF,0,0,1,0.0,0.2,0.3054357272937888
+Nadiem Amiri,Mainz 05,GER-Bundesliga,MF,0,1,0,4.0,4.1,2.2733376051698424
+Nelson Weiper,Mainz 05,GER-Bundesliga,MF,0,1,0,0.0,0.1,0.4983620602834441
+Phillipp Mwene,Mainz 05,GER-Bundesliga,DF,0,0,1,2.0,2.6,4.8
+Sepp van den Berg,Mainz 05,GER-Bundesliga,DF,0,0,1,0.0,0.4,0.3499284841109178
+Silvan Widmer,Mainz 05,GER-Bundesliga,DF,0,0,1,3.0,2.5,1.293690959850068
+Stefan Bell,Mainz 05,GER-Bundesliga,DF,0,0,1,0.0,0.3,1.2
+Tom Krauß,Mainz 05,GER-Bundesliga,MF,0,1,0,2.0,0.8,0.7705406807534607
+Amadou Haidara,RB Leipzig,GER-Bundesliga,MF,0,1,0,1.0,1.6,1.1413354386973547
+Benjamin Henrichs,RB Leipzig,GER-Bundesliga,DF,0,0,1,5.0,6.0,3.6224401497757803
+Benjamin Šeško,RB Leipzig,GER-Bundesliga,FW,1,0,0,2.0,1.3,4.8
+Castello Lukeba,RB Leipzig,GER-Bundesliga,DF,0,0,1,0.0,0.8,0.8445715221423757
+Christoph Baumgartner,RB Leipzig,GER-Bundesliga,FW,1,0,0,1.0,1.6,2.73519885643676
+Christopher Lenz,RB Leipzig,GER-Bundesliga,MF,0,1,0,0.0,0.1,0.413846084293609
+Dani Olmo,RB Leipzig,GER-Bundesliga,MF,0,1,0,5.0,3.7,3.7674959479179866
+David Raum,RB Leipzig,GER-Bundesliga,DF,0,0,1,8.0,10.7,5.670190368340844
+El Chadaille Bitshiabu,RB Leipzig,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.5026016617383635
+Elif Elmas,RB Leipzig,GER-Bundesliga,FW,1,0,0,0.0,0.4,1.3799798049792245
+Emil Forsberg,RB Leipzig,GER-Bundesliga,FW,1,0,0,1.0,0.4,1.2806952416843385
+Fabio Carvalho,RB Leipzig,GER-Bundesliga,MF,0,1,0,0.0,0.2,1.2
+Jonathan Norbye,RB Leipzig,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.32560656677870453
+Kevin Kampl,RB Leipzig,GER-Bundesliga,MF,0,1,0,0.0,1.5,1.0632432026832732
+Loïs Openda,RB Leipzig,GER-Bundesliga,FW,1,0,0,7.0,4.6,7.79930270605114
+Lukas Klostermann,RB Leipzig,GER-Bundesliga,DF,0,0,1,0.0,0.9,0.7310248390353233
+Mohamed Simakan,RB Leipzig,GER-Bundesliga,DF,0,0,1,3.0,2.9,2.218844937679353
+Nicolas Seiwald,RB Leipzig,GER-Bundesliga,MF,0,1,0,2.0,0.4,0.5639583430147956
+Nuha Jatta,RB Leipzig,GER-Bundesliga,FW,1,0,0,0.0,0.0,0.32221816303990747
+Timo Werner,RB Leipzig,GER-Bundesliga,MF,0,1,0,0.0,0.1,3.5999999999999996
+Willi Orban,RB Leipzig,GER-Bundesliga,DF,0,0,1,0.0,0.8,0.6547100523377174
+Xaver Schlager,RB Leipzig,GER-Bundesliga,MF,0,1,0,5.0,3.1,1.828271722083778
+Xavi Simons,RB Leipzig,GER-Bundesliga,MF,0,1,0,11.0,9.0,6.357819773179429
+Yussuf Poulsen,RB Leipzig,GER-Bundesliga,FW,1,0,0,2.0,2.3,2.1725490189393155
+Angelo Stiller,Stuttgart,GER-Bundesliga,MF,0,1,0,5.0,5.4,3.4176159986819856
+Anthony Rouault,Stuttgart,GER-Bundesliga,DF,0,0,1,2.0,1.2,0.7781874185770359
+Atakan Karazor,Stuttgart,GER-Bundesliga,MF,0,1,0,4.0,2.5,1.36429020788015
+Borna Sosa,Stuttgart,GER-Bundesliga,DF,0,0,1,0.0,0.1,2.4231881359186263
+Chris Führich,Stuttgart,GER-Bundesliga,MF,0,1,0,7.0,9.2,5.491675620384071
+Dan-Axel Zagadou,Stuttgart,GER-Bundesliga,DF,0,0,1,0.0,0.7,0.4924599373180526
+Deniz Undav,Stuttgart,GER-Bundesliga,MF,0,1,0,10.0,6.1,5.057463209279506
+Enzo Millot,Stuttgart,GER-Bundesliga,FW,1,0,0,4.0,5.3,5.031013624428311
+Genki Haraguchi,Stuttgart,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.4010705097873982
+Hiroki Ito,Stuttgart,GER-Bundesliga,DF,0,0,1,2.0,2.4,1.8058368462809091
+Jamie Leweling,Stuttgart,GER-Bundesliga,MF,0,1,0,4.0,3.1,2.8130483735057874
+Jeong Woo-yeong,Stuttgart,GER-Bundesliga,FW,1,0,0,3.0,1.6,2.7261742640194577
+Josha Vagnoman,Stuttgart,GER-Bundesliga,DF,0,0,1,2.0,1.4,1.623162594666585
+Jovan Milošević,Stuttgart,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.42298451412922455
+Leonidas Stergiou,Stuttgart,GER-Bundesliga,DF,0,0,1,0.0,0.9,1.2
+Lilian Egloff,Stuttgart,GER-Bundesliga,DF,0,0,1,0.0,0.0,0.36065620284621974
+Luca Raimund,Stuttgart,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.5687892410468892
+Mahmoud Dahoud,Stuttgart,GER-Bundesliga,MF,0,1,0,0.0,0.9,1.2
+Maximilian Mittelstädt,Stuttgart,GER-Bundesliga,DF,0,0,1,4.0,6.7,3.011850349534467
+Pascal Stenzel,Stuttgart,GER-Bundesliga,DF,0,0,1,5.0,2.4,1.71149481607375
+Roberto Massimo,Stuttgart,GER-Bundesliga,DF,0,0,1,0.0,0.0,0.7289755722730169
+Samuele Di Benedetto,Stuttgart,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.5708171582486457
+Serhou Guirassy,Stuttgart,GER-Bundesliga,FW,1,0,0,3.0,5.4,5.141833814564732
+Silas Katompa,Stuttgart,GER-Bundesliga,MF,0,1,0,2.0,1.7,2.8691686829934584
+Waldemar Anton,Stuttgart,GER-Bundesliga,DF,0,0,1,3.0,1.5,2.4
+Alex Král,Union Berlin,GER-Bundesliga,MF,0,1,0,0.0,0.5,1.2
+Aljoscha Kemlein,Union Berlin,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.43078385464698654
+András Schäfer,Union Berlin,GER-Bundesliga,MF,0,1,0,2.0,1.0,1.2866170893907802
+Aïssa Laïdouni,Union Berlin,GER-Bundesliga,MF,0,1,0,3.0,1.6,0.9929815361014034
+Benedict Hollerbach,Union Berlin,GER-Bundesliga,MF,0,1,0,0.0,1.4,1.5433217355983118
+Brenden Aaronson,Union Berlin,GER-Bundesliga,FW,1,0,0,2.0,2.0,1.910847346777194
+Chris Bedia,Union Berlin,GER-Bundesliga,MF,0,1,0,0.0,0.2,0.3489008553054129
+Christopher Trimmel,Union Berlin,GER-Bundesliga,DF,0,0,1,2.0,3.7,1.5448962586081934
+Danilho Doekhi,Union Berlin,GER-Bundesliga,DF,0,0,1,0.0,1.0,0.5643991297595593
+David Datro Fofana,Union Berlin,GER-Bundesliga,MF,0,1,0,0.0,0.3,1.3501609179662553
+Diogo Leite,Union Berlin,GER-Bundesliga,DF,0,0,1,0.0,0.7,1.2
+Janik Haberer,Union Berlin,GER-Bundesliga,DF,0,0,1,1.0,1.2,0.7086597236670515
+Jordan Pefok,Union Berlin,GER-Bundesliga,FW,1,0,0,0.0,0.0,1.2
+Josip Juranović,Union Berlin,GER-Bundesliga,DF,0,0,1,2.0,3.0,1.293434757363178
+Jérôme Roussillon,Union Berlin,GER-Bundesliga,DF,0,0,1,1.0,0.6,0.45061775646930374
+Kevin Behrens,Union Berlin,GER-Bundesliga,FW,1,0,0,0.0,1.2,1.3224540585800815
+Kevin Vogt,Union Berlin,GER-Bundesliga,DF,0,0,1,0.0,0.2,0.2781012253163656
+Kevin Volland,Union Berlin,GER-Bundesliga,MF,0,1,0,4.0,2.3,1.594348205572786
+Leonardo Bonucci,Union Berlin,GER-Bundesliga,DF,0,0,1,0.0,0.1,0.21790556293475632
+Lucas Tousart,Union Berlin,GER-Bundesliga,MF,0,1,0,0.0,0.4,1.2
+Mikkel Kaufmann,Union Berlin,GER-Bundesliga,FW,1,0,0,0.0,0.4,0.47909475811343194
+Miloš Pantović,Union Berlin,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.8763190064286255
+Paul Jaeckel,Union Berlin,GER-Bundesliga,DF,0,0,1,0.0,0.1,0.4646603392597396
+Rani Khedira,Union Berlin,GER-Bundesliga,MF,0,1,0,0.0,0.5,0.575047823270923
+Robin Gosens,Union Berlin,GER-Bundesliga,MF,0,1,0,3.0,3.3,4.8
+Robin Knoche,Union Berlin,GER-Bundesliga,DF,0,0,1,0.0,0.4,0.5479478534830341
+Sheraldo Becker,Union Berlin,GER-Bundesliga,MF,0,1,0,1.0,1.6,1.371929741532157
+Yorbe Vertessen,Union Berlin,GER-Bundesliga,MF,0,1,0,2.0,0.7,0.949223344777433
+Amos Pieper,Werder Bremen,GER-Bundesliga,DF,0,0,1,0.0,0.5,0.6066076210128276
+Anthony Jung,Werder Bremen,GER-Bundesliga,DF,0,0,1,0.0,0.9,0.8486697438850028
+Christian Groß,Werder Bremen,GER-Bundesliga,MF,0,1,0,1.0,0.3,0.44516682029996635
+Dawid Kownacki,Werder Bremen,GER-Bundesliga,FW,1,0,0,0.0,0.6,0.612271484085972
+Felix Agu,Werder Bremen,GER-Bundesliga,MF,0,1,0,0.0,1.4,1.252050164787211
+Ilia Gruev,Werder Bremen,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.5450101958666882
+Isak Hansen-Aarøen,Werder Bremen,GER-Bundesliga,MF,0,1,0,0.0,0.1,0.35111432363634504
+Jens Stage,Werder Bremen,GER-Bundesliga,MF,0,1,0,1.0,1.8,6.0
+Joel Imasuen,Werder Bremen,GER-Bundesliga,FW,1,0,0,0.0,0.0,0.2776786412818901
+Julián Malatini,Werder Bremen,GER-Bundesliga,DF,0,0,1,0.0,0.2,1.2
+Justin Njinmah,Werder Bremen,GER-Bundesliga,FW,1,0,0,2.0,2.2,1.6666000492725133
+Leon Opitz,Werder Bremen,GER-Bundesliga,DF,0,0,1,0.0,0.0,0.31364946859264187
+Leonardo Bittencourt,Werder Bremen,GER-Bundesliga,MF,0,1,0,2.0,2.7,1.8658388506494485
+Marco Friedl,Werder Bremen,GER-Bundesliga,DF,0,0,1,0.0,0.3,0.6242724683368792
+Marvin Ducksch,Werder Bremen,GER-Bundesliga,FW,1,0,0,9.0,6.5,8.4
+Miloš Veljković,Werder Bremen,GER-Bundesliga,DF,0,0,1,1.0,0.9,1.2
+Mitchell Weiser,Werder Bremen,GER-Bundesliga,MF,0,1,0,7.0,5.8,4.2692565207438715
+Naby Keïta,Werder Bremen,GER-Bundesliga,DF,0,0,1,0.0,0.0,0.3670188633114776
+Nick Woltemade,Werder Bremen,GER-Bundesliga,MF,0,1,0,0.0,1.8,2.4
+Niclas Füllkrug,Werder Bremen,GER-Bundesliga,FW,1,0,0,0.0,0.4,1.5265032168684867
+Nicolai Rapp,Werder Bremen,GER-Bundesliga,DF,0,0,1,0.0,0.0,0.2558450966227889
+Niklas Stark,Werder Bremen,GER-Bundesliga,DF,0,0,1,0.0,0.2,1.2
+Oliver Burke,Werder Bremen,GER-Bundesliga,FW,1,0,0,0.0,0.0,0.4125537587700329
+Olivier Deman,Werder Bremen,GER-Bundesliga,DF,0,0,1,1.0,1.3,1.0996352704076648
+Rafael Borré,Werder Bremen,GER-Bundesliga,FW,1,0,0,0.0,1.9,1.4089381594686825
+Romano Schmid,Werder Bremen,GER-Bundesliga,FW,1,0,0,6.0,6.7,3.6922089022533076
+Senne Lynen,Werder Bremen,GER-Bundesliga,MF,0,1,0,3.0,1.2,0.79376529719691
+Skelly Alvero,Werder Bremen,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.45549444176355675
+Amin Sarr,Wolfsburg,GER-Bundesliga,MF,0,1,0,0.0,0.2,1.2
+Aster Vranckx,Wolfsburg,GER-Bundesliga,MF,0,1,0,0.0,0.3,0.4545905092611171
+Bennit Bröger,Wolfsburg,GER-Bundesliga,FW,1,0,0,0.0,0.0,0.3326234268405371
+Cedric Zesiger,Wolfsburg,GER-Bundesliga,DF,0,0,1,0.0,0.3,0.32791428435128545
+Dženan Pejčinović,Wolfsburg,GER-Bundesliga,FW,1,0,0,0.0,0.0,0.2974799538164771
+Jakub Kamiński,Wolfsburg,GER-Bundesliga,MF,0,1,0,2.0,1.7,1.5763024706765376
+Joakim Mæhle,Wolfsburg,GER-Bundesliga,MF,0,1,0,3.0,5.2,2.5644109746265777
+Jonas Wind,Wolfsburg,GER-Bundesliga,FW,1,0,0,7.0,3.9,2.992787980954111
+Kevin Behrens,Wolfsburg,GER-Bundesliga,FW,1,0,0,1.0,0.9,0.8165092671895658
+Kevin Paredes,Wolfsburg,GER-Bundesliga,MF,0,1,0,0.0,1.9,1.6177434288817851
+Kilian Fischer,Wolfsburg,GER-Bundesliga,MF,0,1,0,0.0,0.3,0.4092365434415165
+Kofi Amoako,Wolfsburg,GER-Bundesliga,MF,0,1,0,0.0,0.0,0.3753226178587729
+Lovro Majer,Wolfsburg,GER-Bundesliga,FW,1,0,0,5.0,4.9,2.605305569058222
+Lukas Nmecha,Wolfsburg,GER-Bundesliga,FW,1,0,0,0.0,0.0,0.7498197600525979
+Mattias Svanberg,Wolfsburg,GER-Bundesliga,MF,0,1,0,3.0,2.5,2.1642490098190885
+Maxence Lacroix,Wolfsburg,GER-Bundesliga,DF,0,0,1,1.0,1.3,0.6211907185176102
+Maximilian Arnold,Wolfsburg,GER-Bundesliga,MF,0,1,0,1.0,4.4,2.593932001723925
+Moritz Jenz,Wolfsburg,GER-Bundesliga,DF,0,0,1,1.0,0.5,0.22993229171044605
+Nicolas Cozza,Wolfsburg,GER-Bundesliga,DF,0,0,1,0.0,0.2,0.44059432140779453
+Patrick Wimmer,Wolfsburg,GER-Bundesliga,MF,0,1,0,0.0,0.3,4.8
+Ridle Baku,Wolfsburg,GER-Bundesliga,MF,0,1,0,0.0,3.5,2.4386373830487162
+Rogério,Wolfsburg,GER-Bundesliga,DF,0,0,1,0.0,0.9,0.9708742283185288
+Sebastiaan Bornauw,Wolfsburg,GER-Bundesliga,DF,0,0,1,0.0,0.1,1.2
+Tiago Tomás,Wolfsburg,GER-Bundesliga,MF,0,1,0,1.0,0.9,1.6262410165724837
+Václav Černý,Wolfsburg,GER-Bundesliga,MF,0,1,0,1.0,2.5,1.7683569044978469
+Yannick Gerhardt,Wolfsburg,GER-Bundesliga,DF,0,0,1,1.0,1.8,1.2803153239121812
+Ademola Lookman,Atalanta,ITA-Serie A,MF,0,1,0,7.0,4.8,6.0
+Aleksei Miranchuk,Atalanta,ITA-Serie A,FW,1,0,0,5.0,4.5,3.59925019918648
+Berat Djimsiti,Atalanta,ITA-Serie A,DF,0,0,1,1.0,0.5,2.4
+Charles De Ketelaere,Atalanta,ITA-Serie A,MF,0,1,0,8.0,4.1,6.649952079223409
+Davide Zappacosta,Atalanta,ITA-Serie A,DF,0,0,1,1.0,1.7,2.4
+Duván Zapata,Atalanta,ITA-Serie A,FW,1,0,0,0.0,0.1,1.244707261780034
+El Bilal Touré,Atalanta,ITA-Serie A,FW,1,0,0,0.0,0.6,1.2
+Emil Holm,Atalanta,ITA-Serie A,DF,0,0,1,1.0,1.0,2.47542460195369
+Gianluca Scamacca,Atalanta,ITA-Serie A,FW,1,0,0,6.0,1.5,2.5827298249596806
+Giorgio Scalvini,Atalanta,ITA-Serie A,DF,0,0,1,3.0,1.5,1.5045982099313737
+Giovanni Bonfanti,Atalanta,ITA-Serie A,DF,0,0,1,0.0,0.0,0.32559263854169346
+Hans Hateboer,Atalanta,ITA-Serie A,DF,0,0,1,1.0,1.2,1.3419713059817673
+Isak Hien,Atalanta,ITA-Serie A,DF,0,0,1,1.0,0.1,0.49938479391665425
+José Luis Palomino,Atalanta,ITA-Serie A,DF,0,0,1,0.0,0.0,0.39041353323360295
+Leonardo Mendicino,Atalanta,ITA-Serie A,MF,0,1,0,0.0,0.0,0.3983360949973498
+Luis Muriel,Atalanta,ITA-Serie A,MF,0,1,0,1.0,1.4,2.0700964433555864
+Mario Pašalić,Atalanta,ITA-Serie A,MF,0,1,0,6.0,3.3,2.737276964473202
+Marten de Roon,Atalanta,ITA-Serie A,DF,0,0,1,5.0,1.2,3.5999999999999996
+Matteo Ruggeri,Atalanta,ITA-Serie A,DF,0,0,1,4.0,2.1,2.234364937216016
+Michel Ndary Adopo,Atalanta,ITA-Serie A,MF,0,1,0,1.0,0.2,1.2
+Mitchel Bakker,Atalanta,ITA-Serie A,DF,0,0,1,0.0,0.1,0.6665551393522726
+Nadir Zortea,Atalanta,ITA-Serie A,DF,0,0,1,0.0,0.2,0.5591968558199706
+Rafael Tolói,Atalanta,ITA-Serie A,DF,0,0,1,0.0,0.2,0.7305155437351019
+Sead Kolašinac,Atalanta,ITA-Serie A,DF,0,0,1,0.0,0.6,1.2
+Teun Koopmeiners,Atalanta,ITA-Serie A,MF,0,1,0,5.0,5.4,7.495563847345222
+Éderson,Atalanta,ITA-Serie A,MF,0,1,0,1.0,2.3,2.303062191687901
+Alexis Saelemaekers,Bologna,ITA-Serie A,MF,0,1,0,2.0,3.5,3.7122421415915374
+Charalambos Lykogiannis,Bologna,ITA-Serie A,DF,0,0,1,1.0,0.9,4.8
+Dan Ndoye,Bologna,ITA-Serie A,MF,0,1,0,1.0,1.2,2.544941314364184
+Giovanni Fabbian,Bologna,ITA-Serie A,FW,1,0,0,2.0,0.8,1.2
+Jens Odgaard,Bologna,ITA-Serie A,MF,0,1,0,0.0,0.1,0.9687222518566039
+Jesper Karlsson,Bologna,ITA-Serie A,FW,1,0,0,0.0,0.4,0.7113644533956046
+Jhon Lucumí,Bologna,ITA-Serie A,DF,0,0,1,0.0,0.4,1.2
+Joshua Zirkzee,Bologna,ITA-Serie A,FW,1,0,0,4.0,2.5,3.284228462069315
+Kacper Urbanski,Bologna,ITA-Serie A,FW,1,0,0,1.0,0.8,1.6585657085168208
+Kevin Bonifazi,Bologna,ITA-Serie A,DF,0,0,1,0.0,0.0,0.33009274898716695
+Lewis Ferguson,Bologna,ITA-Serie A,MF,0,1,0,3.0,2.7,2.8180327217903787
+Lorenzo De Silvestri,Bologna,ITA-Serie A,DF,0,0,1,0.0,0.1,0.3419901966111929
+Michel Aebischer,Bologna,ITA-Serie A,MF,0,1,0,1.0,1.0,1.3194695791163982
+Nicolás Domínguez,Bologna,ITA-Serie A,MF,0,1,0,0.0,0.1,0.8427681509485476
+Nikola Moro,Bologna,ITA-Serie A,MF,0,1,0,0.0,0.8,2.4
+Oussama El Azzouzi,Bologna,ITA-Serie A,MF,0,1,0,2.0,0.2,0.5508032675370498
+Remo Freuler,Bologna,ITA-Serie A,MF,0,1,0,1.0,1.3,2.4
+Riccardo Calafiori,Bologna,ITA-Serie A,DF,0,0,1,5.0,0.9,1.2
+Riccardo Orsolini,Bologna,ITA-Serie A,MF,0,1,0,2.0,3.9,3.942199086001427
+Sam Beukema,Bologna,ITA-Serie A,DF,0,0,1,1.0,0.7,1.2
+Santiago Castro,Bologna,ITA-Serie A,FW,1,0,0,1.0,0.0,4.8
+Stefan Posch,Bologna,ITA-Serie A,DF,0,0,1,2.0,1.9,1.6038693438138258
+Sydney van Hooijdonk,Bologna,ITA-Serie A,FW,1,0,0,0.0,0.0,0.3065428935631297
+Tommaso Corazza,Bologna,ITA-Serie A,DF,0,0,1,0.0,0.2,0.4167021621102289
+Victor Bernth Kristiansen,Bologna,ITA-Serie A,DF,0,0,1,3.0,1.3,1.3807959418115994
+Adam Obert,Cagliari,ITA-Serie A,DF,0,0,1,0.0,0.7,1.2
+Alberto Dossena,Cagliari,ITA-Serie A,DF,0,0,1,4.0,1.3,2.4
+Alessandro Deiola,Cagliari,ITA-Serie A,MF,0,1,0,0.0,0.5,1.2
+Alessandro Di Pardo,Cagliari,ITA-Serie A,MF,0,1,0,0.0,0.2,0.3366149885954234
+Andrea Petagna,Cagliari,ITA-Serie A,FW,1,0,0,1.0,1.1,0.9541540405548153
+Antoine Makoumbou,Cagliari,ITA-Serie A,MF,0,1,0,0.0,0.9,1.2
+Edoardo Goldaniga,Cagliari,ITA-Serie A,DF,0,0,1,0.0,0.4,0.3505194485823302
+Eldor Shomurodov,Cagliari,ITA-Serie A,MF,0,1,0,3.0,1.1,2.4
+Gabriele Zappa,Cagliari,ITA-Serie A,DF,0,0,1,3.0,2.2,1.0585634032720286
+Gaetano Oristanio,Cagliari,ITA-Serie A,MF,0,1,0,1.0,1.0,3.5999999999999996
+Gianluca Gaetano,Cagliari,ITA-Serie A,MF,0,1,0,1.0,0.6,2.4
+Gianluca Lapadula,Cagliari,ITA-Serie A,FW,1,0,0,1.0,0.7,0.9935434664526097
+Ibrahim Sulemana,Cagliari,ITA-Serie A,MF,0,1,0,0.0,0.2,0.38348325924839666
+Jakub Jankto,Cagliari,ITA-Serie A,FW,1,0,0,2.0,0.4,0.6260273183530681
+Kingstone Mutandwa,Cagliari,ITA-Serie A,MF,0,1,0,0.0,0.0,0.40564917630230224
+Leonardo Pavoletti,Cagliari,ITA-Serie A,FW,1,0,0,1.0,0.3,0.5564465639209583
+Marco Mancosu,Cagliari,ITA-Serie A,FW,1,0,0,0.0,0.4,1.4916031773762572
+Mateusz Wieteska,Cagliari,ITA-Serie A,DF,0,0,1,1.0,0.3,0.3032496082462338
+Matteo Prati,Cagliari,ITA-Serie A,MF,0,1,0,1.0,1.2,0.5905249303995674
+Nahitan Nández,Cagliari,ITA-Serie A,DF,0,0,1,3.0,2.5,1.6122870754132936
+Nicolas Viola,Cagliari,ITA-Serie A,FW,1,0,0,2.0,3.2,1.8713706775407024
+Pantelis Hatzidiakos,Cagliari,ITA-Serie A,DF,0,0,1,0.0,0.2,0.28970349738542384
+Paulo Azzi,Cagliari,ITA-Serie A,MF,0,1,0,0.0,0.4,0.6439526781391955
+Tommaso Augello,Cagliari,ITA-Serie A,DF,0,0,1,1.0,2.4,4.8
+Yerry Mina,Cagliari,ITA-Serie A,DF,0,0,1,0.0,0.2,0.3649935259654072
+Zito Luvumbo,Cagliari,ITA-Serie A,MF,0,1,0,5.0,2.7,2.5329876193914824
+Alberto Cerri,Empoli,ITA-Serie A,FW,1,0,0,0.0,0.3,0.6482208063178662
+Alberto Grassi,Empoli,ITA-Serie A,MF,0,1,0,1.0,1.3,0.5328646301956212
+Andrea Sodero,Empoli,ITA-Serie A,MF,0,1,0,0.0,0.0,0.29292360637017995
+Ardian Ismajli,Empoli,ITA-Serie A,DF,0,0,1,0.0,0.3,0.3288103555095686
+Bartosz Bereszyński,Empoli,ITA-Serie A,DF,0,0,1,1.0,0.4,0.3624226137954057
+Daniel Maldini,Empoli,ITA-Serie A,MF,0,1,0,0.0,0.2,0.4172511772332431
+Emmanuel Ekong,Empoli,ITA-Serie A,FW,1,0,0,0.0,0.0,0.3907757345641121
+Emmanuel Gyasi,Empoli,ITA-Serie A,FW,1,0,0,2.0,1.0,1.0792247599794256
+Filippo Ranocchia,Empoli,ITA-Serie A,DF,0,0,1,0.0,1.0,0.5970994319130515
+Francesco Caputo,Empoli,ITA-Serie A,FW,1,0,0,0.0,0.8,0.7763515694475913
+Giacomo Corona,Empoli,ITA-Serie A,FW,1,0,0,0.0,0.0,0.294073256498522
+Giuseppe Pezzella,Empoli,ITA-Serie A,DF,0,0,1,0.0,1.2,2.4
+Jacopo Fazzini,Empoli,ITA-Serie A,MF,0,1,0,1.0,1.7,1.3611836265627686
+Liam Henderson,Empoli,ITA-Serie A,MF,0,1,0,0.0,0.0,2.4
+Liberato Cacace,Empoli,ITA-Serie A,DF,0,0,1,1.0,1.4,2.4
+M'Baye Niang,Empoli,ITA-Serie A,FW,1,0,0,1.0,0.2,0.6956303910197997
+Matteo Cancellieri,Empoli,ITA-Serie A,MF,0,1,0,3.0,2.1,1.8192336859648395
+Mattia Destro,Empoli,ITA-Serie A,MF,0,1,0,0.0,0.0,0.320062453574286
+Nicolas Haas,Empoli,ITA-Serie A,MF,0,1,0,0.0,0.0,0.5342731945061624
+Nicolò Cambiaghi,Empoli,ITA-Serie A,MF,0,1,0,1.0,2.7,2.6807839767465533
+Roberto Piccoli,Empoli,ITA-Serie A,FW,1,0,0,0.0,0.0,1.2
+Răzvan Marin,Empoli,ITA-Serie A,MF,0,1,0,3.0,2.9,1.9979336020990908
+Sebastian Walukiewicz,Empoli,ITA-Serie A,DF,0,0,1,0.0,0.2,0.278200770276583
+Sebastiano Luperto,Empoli,ITA-Serie A,DF,0,0,1,1.0,0.9,3.5999999999999996
+Simone Bastoni,Empoli,ITA-Serie A,DF,0,0,1,0.0,1.0,0.74197306517856
+Steven Shpendi,Empoli,ITA-Serie A,MF,0,1,0,1.0,0.2,0.41543262182145274
+Szymon Żurkowski,Empoli,ITA-Serie A,MF,0,1,0,0.0,0.2,0.4612882071801869
+Tommaso Baldanzi,Empoli,ITA-Serie A,FW,1,0,0,0.0,0.8,1.2
+Tyronne Ebuehi,Empoli,ITA-Serie A,DF,0,0,1,1.0,0.6,0.6980884151364906
+Viktor Kovalenko,Empoli,ITA-Serie A,MF,0,1,0,1.0,0.6,0.4441467724540604
+Youssef Maleh,Empoli,ITA-Serie A,MF,0,1,0,1.0,2.0,1.3479012635960266
+Alfred Duncan,Fiorentina,ITA-Serie A,MF,0,1,0,5.0,2.8,1.8024347989895517
+Andrea Belotti,Fiorentina,ITA-Serie A,FW,1,0,0,0.0,0.6,1.2420446963295317
+Antonín Barák,Fiorentina,ITA-Serie A,FW,1,0,0,3.0,1.5,1.412899455325307
+Arthur Melo,Fiorentina,ITA-Serie A,MF,0,1,0,3.0,2.3,1.4789556913029562
+Christian Kouamé,Fiorentina,ITA-Serie A,FW,1,0,0,1.0,1.2,1.5196410237115103
+Cristiano Biraghi,Fiorentina,ITA-Serie A,DF,0,0,1,5.0,4.3,2.967292538406164
+Davide Faraoni,Fiorentina,ITA-Serie A,DF,0,0,1,1.0,0.6,0.7157205162012723
+Dodô,Fiorentina,ITA-Serie A,DF,0,0,1,0.0,0.6,3.5999999999999996
+Fabiano Parisi,Fiorentina,ITA-Serie A,DF,0,0,1,1.0,1.3,1.65415581051196
+Gaetano Castrovilli,Fiorentina,ITA-Serie A,MF,0,1,0,2.0,0.1,0.8065268376930808
+Giacomo Bonaventura,Fiorentina,ITA-Serie A,MF,0,1,0,3.0,5.4,2.940182092132182
+Gino Infantino,Fiorentina,ITA-Serie A,MF,0,1,0,0.0,0.0,0.42124367378916877
+Jonathan Ikone,Fiorentina,ITA-Serie A,FW,1,0,0,1.0,2.0,2.7752329728920984
+Josip Brekalo,Fiorentina,ITA-Serie A,FW,1,0,0,0.0,0.7,1.0801271232191803
+Lorenzo Amatucci,Fiorentina,ITA-Serie A,MF,0,1,0,0.0,0.1,0.3922575125317991
+Luca Ranieri,Fiorentina,ITA-Serie A,DF,0,0,1,1.0,0.7,2.4
+Lucas Beltrán,Fiorentina,ITA-Serie A,MF,0,1,0,2.0,1.9,4.8
+Lucas Martínez Quarta,Fiorentina,ITA-Serie A,DF,0,0,1,1.0,1.1,0.7897304835288439
+M'Bala Nzola,Fiorentina,ITA-Serie A,FW,1,0,0,3.0,1.6,1.6880619646055626
+Maxime Lopez,Fiorentina,ITA-Serie A,MF,0,1,0,0.0,0.6,0.9082253339073887
+Michael Kayode,Fiorentina,ITA-Serie A,DF,0,0,1,1.0,1.4,1.7420992727243179
+Nicolás González,Fiorentina,ITA-Serie A,FW,1,0,0,2.0,3.1,4.385860378704501
+Nikola Milenković,Fiorentina,ITA-Serie A,DF,0,0,1,0.0,0.9,1.2
+Pietro Comuzzo,Fiorentina,ITA-Serie A,FW,1,0,0,0.0,0.0,0.374473257926937
+Riccardo Sottil,Fiorentina,ITA-Serie A,FW,1,0,0,3.0,2.4,2.1364195475455086
+Rolando Mandragora,Fiorentina,ITA-Serie A,MF,0,1,0,3.0,1.7,2.4
+Yerry Mina,Fiorentina,ITA-Serie A,MF,0,1,0,0.0,0.0,0.5721704026607352
+Abdou Harroui,Frosinone,ITA-Serie A,FW,1,0,0,3.0,1.4,2.4
+Anthony Oyono,Frosinone,ITA-Serie A,DF,0,0,1,1.0,0.7,0.8207058944978919
+Arijon Ibrahimović,Frosinone,ITA-Serie A,DF,0,0,1,1.0,0.7,0.7940243487377369
+Caleb Okoli,Frosinone,ITA-Serie A,DF,0,0,1,1.0,0.3,0.28083199017115135
+Demba Seck,Frosinone,ITA-Serie A,MF,0,1,0,0.0,0.4,0.5502868505515267
+Emanuele Valeri,Frosinone,ITA-Serie A,DF,0,0,1,1.0,1.6,4.8
+Enzo Barrenechea,Frosinone,ITA-Serie A,MF,0,1,0,1.0,1.1,2.4
+Farés Ghedjemis,Frosinone,ITA-Serie A,MF,0,1,0,0.0,0.1,0.43333364496122634
+Francesco Gelli,Frosinone,ITA-Serie A,DF,0,0,1,0.0,2.5,1.7849072623334652
+Gennaro Borrelli,Frosinone,ITA-Serie A,FW,1,0,0,0.0,0.0,0.3030079424769622
+Giorgi Kvernadze,Frosinone,ITA-Serie A,DF,0,0,1,0.0,0.0,0.33168854546581455
+Giuseppe Caso,Frosinone,ITA-Serie A,MF,0,1,0,0.0,0.2,0.6562927196295664
+Ilario Monterisi,Frosinone,ITA-Serie A,DF,0,0,1,2.0,0.3,0.4051651687279231
+Jaime Báez,Frosinone,ITA-Serie A,MF,0,1,0,0.0,0.8,0.5671110964415869
+Kaio Jorge,Frosinone,ITA-Serie A,FW,1,0,0,0.0,0.3,0.5153099486547096
+Karlo Lulić,Frosinone,ITA-Serie A,MF,0,1,0,0.0,0.0,0.24687099657106923
+Kevin Bonifazi,Frosinone,ITA-Serie A,DF,0,0,1,0.0,0.0,0.36770450271841737
+Luca Garritano,Frosinone,ITA-Serie A,DF,0,0,1,0.0,0.4,0.44962230017439986
+Luca Mazzitelli,Frosinone,ITA-Serie A,MF,0,1,0,0.0,0.9,1.2
+Luigi Canotto,Frosinone,ITA-Serie A,FW,1,0,0,0.0,0.0,0.3007042006046516
+Marco Brescianini,Frosinone,ITA-Serie A,MF,0,1,0,2.0,1.9,2.4
+Marvin Cuni,Frosinone,ITA-Serie A,FW,1,0,0,0.0,0.2,0.37759829661684796
+Mateus Lusuardi,Frosinone,ITA-Serie A,DF,0,0,1,0.0,0.0,0.25252906392271723
+Matìas Soulé,Frosinone,ITA-Serie A,MF,0,1,0,3.0,5.3,3.89100171180121
+Mehdi Bourabia,Frosinone,ITA-Serie A,MF,0,1,0,0.0,0.0,0.8682871330567383
+Nadir Zortea,Frosinone,ITA-Serie A,DF,0,0,1,5.0,2.2,1.3520736465783583
+Pol Lirola,Frosinone,ITA-Serie A,DF,0,0,1,1.0,1.0,2.4
+Przemysław Szymiński,Frosinone,ITA-Serie A,MF,0,1,0,0.0,0.0,0.3758965782460497
+Reinier,Frosinone,ITA-Serie A,FW,1,0,0,2.0,0.7,0.7587505842609409
+Riccardo Marchizza,Frosinone,ITA-Serie A,DF,0,0,1,4.0,0.8,0.5476972230693854
+Simone Romagnoli,Frosinone,ITA-Serie A,DF,0,0,1,1.0,0.2,0.21581744400426262
+Walid Cheddira,Frosinone,ITA-Serie A,FW,1,0,0,1.0,0.7,1.3069135564788288
+Aarón Martín,Genoa,ITA-Serie A,DF,0,0,1,1.0,1.7,4.8
+Alan Matturro,Genoa,ITA-Serie A,DF,0,0,1,0.0,0.0,0.3622790994478141
+Albert Guðmundsson,Genoa,ITA-Serie A,MF,0,1,0,4.0,6.5,4.816705640670701
+Alessandro Vogliacco,Genoa,ITA-Serie A,DF,0,0,1,1.0,0.5,0.5041082624817689
+Berkan Kutlu,Genoa,ITA-Serie A,MF,0,1,0,0.0,0.3,0.43623984234652496
+Caleb Ekuban,Genoa,ITA-Serie A,FW,1,0,0,1.0,0.7,3.5999999999999996
+Christos Papadopoulos,Genoa,ITA-Serie A,FW,1,0,0,0.0,0.0,0.1992181319819475
+David Akpan Ankeye,Genoa,ITA-Serie A,FW,1,0,0,0.0,0.4,0.3946938831215444
+Davide Biraschi,Genoa,ITA-Serie A,DF,0,0,1,0.0,0.0,0.5543406419322037
+Djed Spence,Genoa,ITA-Serie A,DF,0,0,1,0.0,0.4,1.2
+Emil Bohinen,Genoa,ITA-Serie A,MF,0,1,0,0.0,0.1,0.46214836790831587
+Filip Jagiełło,Genoa,ITA-Serie A,MF,0,1,0,0.0,0.0,0.5447145850255678
+George Pușcaș,Genoa,ITA-Serie A,FW,1,0,0,0.0,0.1,0.4427501224855689
+Giorgio Cittadini,Genoa,ITA-Serie A,DF,0,0,1,0.0,0.0,0.3390624185204659
+Johan Vásquez,Genoa,ITA-Serie A,DF,0,0,1,1.0,1.1,1.0755823580371935
+Junior Messias,Genoa,ITA-Serie A,DF,0,0,1,0.0,1.2,1.491650075327282
+Kevin Strootman,Genoa,ITA-Serie A,MF,0,1,0,2.0,2.2,0.8162670782694041
+Koni De Winter,Genoa,ITA-Serie A,DF,0,0,1,1.0,0.3,0.3748783872845531
+Mateo Retegui,Genoa,ITA-Serie A,FW,1,0,0,2.0,0.6,4.8
+Mattia Bani,Genoa,ITA-Serie A,DF,0,0,1,0.0,0.1,0.4890938655816175
+Milan Badelj,Genoa,ITA-Serie A,MF,0,1,0,3.0,1.4,1.4711468019614982
+Morten Frendrup,Genoa,ITA-Serie A,MF,0,1,0,5.0,1.4,1.7755391592024767
+Morten Thorsby,Genoa,ITA-Serie A,MF,0,1,0,2.0,0.6,1.2
+Pablo Galdames Millán,Genoa,ITA-Serie A,DF,0,0,1,0.0,0.0,0.40704808487430544
+Radu Drăgușin,Genoa,ITA-Serie A,DF,0,0,1,1.0,0.9,0.443037144739185
+Ridgeciano Haps,Genoa,ITA-Serie A,DF,0,0,1,1.0,0.4,0.7626085565786043
+Ruslan Malinovskyi,Genoa,ITA-Serie A,MF,0,1,0,1.0,0.7,1.2101883491179601
+Seydou Fini,Genoa,ITA-Serie A,FW,1,0,0,0.0,0.0,0.37934352151762535
+Silvan Hefti,Genoa,ITA-Serie A,DF,0,0,1,0.0,0.0,0.4678522347531374
+Stefano Sabelli,Genoa,ITA-Serie A,DF,0,0,1,1.0,1.9,1.2282163434320252
+Vitinha,Genoa,ITA-Serie A,MF,0,1,0,0.0,0.2,2.4
+Alphadjo Cissè,Hellas Verona,ITA-Serie A,FW,1,0,0,0.0,0.0,0.23766482959101798
+Bruno Amione,Hellas Verona,ITA-Serie A,DF,0,0,1,0.0,0.0,0.3906060900586456
+Charlys,Hellas Verona,ITA-Serie A,MF,0,1,0,0.0,0.0,0.3717932103450181
+Cyril Ngonge,Hellas Verona,ITA-Serie A,MF,0,1,0,2.0,1.6,1.5506494277584588
+Daniel Bandeira,Hellas Verona,ITA-Serie A,MF,0,1,0,0.0,0.3,0.3665743437847121
+Darko Lazović,Hellas Verona,ITA-Serie A,MF,0,1,0,2.0,3.5,2.233772142724409
+Davide Faraoni,Hellas Verona,ITA-Serie A,DF,0,0,1,1.0,0.3,0.555374155026585
+Diego Coppola,Hellas Verona,ITA-Serie A,DF,0,0,1,0.0,0.1,0.2933370237119413
+Elayis Tavsan,Hellas Verona,ITA-Serie A,FW,1,0,0,0.0,0.0,0.29757935681436865
+Fabien Centonze,Hellas Verona,ITA-Serie A,DF,0,0,1,1.0,0.8,0.4146764232940153
+Federico Bonazzoli,Hellas Verona,ITA-Serie A,MF,0,1,0,1.0,0.5,0.780635921839357
+Filippo Terracciano,Hellas Verona,ITA-Serie A,DF,0,0,1,1.0,1.3,0.9760693742236635
+Giangiacomo Magnani,Hellas Verona,ITA-Serie A,DF,0,0,1,0.0,0.5,0.5486431089190569
+Isak Hien,Hellas Verona,ITA-Serie A,DF,0,0,1,0.0,0.1,0.37818597339137877
+Jackson Tchatchoua,Hellas Verona,ITA-Serie A,DF,0,0,1,2.0,1.7,2.4
+Jordi Mboula,Hellas Verona,ITA-Serie A,MF,0,1,0,1.0,0.1,0.48554089417496565
+Josh Doig,Hellas Verona,ITA-Serie A,DF,0,0,1,0.0,0.4,0.6811585371573337
+Juan Cruz,Hellas Verona,ITA-Serie A,MF,0,1,0,0.0,0.1,2.4
+Juan David Cabal,Hellas Verona,ITA-Serie A,DF,0,0,1,0.0,0.6,0.5782544186326888
+Karol Świderski,Hellas Verona,ITA-Serie A,MF,0,1,0,0.0,0.6,0.6621754181165076
+Martin Hongla,Hellas Verona,ITA-Serie A,MF,0,1,0,0.0,0.1,0.3231154742458516
+Michael Folorunsho,Hellas Verona,ITA-Serie A,FW,1,0,0,1.0,1.1,1.3140121510593783
+Milan Đurić,Hellas Verona,ITA-Serie A,FW,1,0,0,1.0,0.5,0.6078103654796844
+Ondrej Duda,Hellas Verona,ITA-Serie A,MF,0,1,0,4.0,3.0,1.6464208208138364
+Paweł Dawidowicz,Hellas Verona,ITA-Serie A,DF,0,0,1,0.0,0.1,0.44257066713084725
+Reda Belahyane,Hellas Verona,ITA-Serie A,MF,0,1,0,0.0,0.0,0.2391288546326451
+Riccardo Saponara,Hellas Verona,ITA-Serie A,MF,0,1,0,0.0,0.2,0.7970242037746574
+Rúben Vinagre,Hellas Verona,ITA-Serie A,FW,1,0,0,0.0,0.3,0.4006241037004904
+Stefan Mitrović,Hellas Verona,ITA-Serie A,MF,0,1,0,0.0,0.2,0.3449937587553312
+Suat Serdar,Hellas Verona,ITA-Serie A,MF,0,1,0,2.0,0.9,1.2
+Thomas Henry,Hellas Verona,ITA-Serie A,FW,1,0,0,0.0,0.1,0.33628094824582977
+Tijjani Noslin,Hellas Verona,ITA-Serie A,MF,0,1,0,4.0,1.0,2.4
+Tomáš Suslov,Hellas Verona,ITA-Serie A,FW,1,0,0,5.0,2.5,2.0694488146256917
+Yayah Kallon,Hellas Verona,ITA-Serie A,FW,1,0,0,0.0,0.0,0.5063996341941686
+Alessandro Bastoni,Inter,ITA-Serie A,DF,0,0,1,3.0,3.1,4.8
+Alexis Sánchez,Inter,ITA-Serie A,MF,0,1,0,5.0,2.8,2.577142380379834
+Benjamin Pavard,Inter,ITA-Serie A,DF,0,0,1,2.0,1.8,1.799988934658073
+Carlos Augusto,Inter,ITA-Serie A,DF,0,0,1,3.0,2.1,2.311190867300357
+Davide Frattesi,Inter,ITA-Serie A,MF,0,1,0,3.0,2.0,1.8930114856488114
+Davy Klaassen,Inter,ITA-Serie A,MF,0,1,0,0.0,0.2,0.46755053654996026
+Denzel Dumfries,Inter,ITA-Serie A,DF,0,0,1,4.0,3.2,3.63882123552903
+Ebenezer Akinsanmiro,Inter,ITA-Serie A,MF,0,1,0,0.0,0.0,0.493585772341177
+Federico Dimarco,Inter,ITA-Serie A,DF,0,0,1,6.0,7.5,7.684780370451625
+Francesco Acerbi,Inter,ITA-Serie A,DF,0,0,1,1.0,1.3,0.9260949821181913
+Hakan Çalhanoğlu,Inter,ITA-Serie A,MF,0,1,0,3.0,5.8,4.46098138753406
+Henrikh Mkhitaryan,Inter,ITA-Serie A,MF,0,1,0,8.0,4.3,3.859376535475701
+Juan Cuadrado,Inter,ITA-Serie A,DF,0,0,1,2.0,1.2,2.4
+Kristjan Asllani,Inter,ITA-Serie A,MF,0,1,0,2.0,0.8,2.4
+Lautaro Martínez,Inter,ITA-Serie A,FW,1,0,0,3.0,2.0,4.592023114422877
+Lucien Agoume,Inter,ITA-Serie A,MF,0,1,0,0.0,0.0,0.4150147568674406
+Marcus Thuram,Inter,ITA-Serie A,FW,1,0,0,7.0,3.6,4.8
+Marko Arnautović,Inter,ITA-Serie A,FW,1,0,0,3.0,2.1,1.9110268847448366
+Matteo Darmian,Inter,ITA-Serie A,DF,0,0,1,1.0,1.3,2.4
+Nicolò Barella,Inter,ITA-Serie A,MF,0,1,0,3.0,4.5,6.0
+Stefan de Vrij,Inter,ITA-Serie A,DF,0,0,1,0.0,0.4,0.5289866463946571
+Stefano Sensi,Inter,ITA-Serie A,MF,0,1,0,1.0,0.1,1.3246289932932722
+Tajon Buchanan,Inter,ITA-Serie A,DF,0,0,1,0.0,0.1,0.5990957539520521
+Yann Aurel Bisseck,Inter,ITA-Serie A,DF,0,0,1,0.0,0.4,2.4
+Adrien Rabiot,Juventus,ITA-Serie A,MF,0,1,0,3.0,4.0,2.728499955155247
+Alex Sandro,Juventus,ITA-Serie A,DF,0,0,1,0.0,0.7,0.692673146036634
+Andrea Cambiaso,Juventus,ITA-Serie A,FW,1,0,0,3.0,3.8,2.908557959571918
+Arkadiusz Milik,Juventus,ITA-Serie A,FW,1,0,0,1.0,0.7,1.5216742192528119
+Carlos Alcaraz,Juventus,ITA-Serie A,MF,0,1,0,1.0,0.4,0.6612078871661085
+Daniele Rugani,Juventus,ITA-Serie A,DF,0,0,1,0.0,0.1,0.3993500118919451
+Danilo,Juventus,ITA-Serie A,DF,0,0,1,1.0,1.0,0.9409194605764726
+Dean Huijsen,Juventus,ITA-Serie A,DF,0,0,1,0.0,0.0,0.4176680581275386
+Dušan Vlahović,Juventus,ITA-Serie A,FW,1,0,0,4.0,1.6,2.8175736052044504
+Fabio Miretti,Juventus,ITA-Serie A,MF,0,1,0,1.0,1.2,3.5999999999999996
+Federico Chiesa,Juventus,ITA-Serie A,FW,1,0,0,2.0,5.6,5.135703922663128
+Federico Gatti,Juventus,ITA-Serie A,DF,0,0,1,0.0,1.3,1.192494076225964
+Filip Kostić,Juventus,ITA-Serie A,DF,0,0,1,4.0,4.1,3.0494257837214054
+Gleison Bremer,Juventus,ITA-Serie A,DF,0,0,1,0.0,0.8,0.8510687587737491
+Hans Nicolussi Caviglia,Juventus,ITA-Serie A,MF,0,1,0,1.0,0.8,2.4
+Joseph Nonge,Juventus,ITA-Serie A,MF,0,1,0,0.0,0.0,0.2978167948980742
+Kenan Yıldız,Juventus,ITA-Serie A,MF,0,1,0,0.0,1.6,2.4
+Leonardo Cerri,Juventus,ITA-Serie A,DF,0,0,1,0.0,0.0,0.3175814096162943
+Manuel Locatelli,Juventus,ITA-Serie A,MF,0,1,0,4.0,2.4,1.4118044267332546
+Mattia De Sciglio,Juventus,ITA-Serie A,DF,0,0,1,0.0,0.0,0.3631604035189918
+Moise Kean,Juventus,ITA-Serie A,FW,1,0,0,0.0,0.1,2.4
+Nicolò Fagioli,Juventus,ITA-Serie A,MF,0,1,0,2.0,0.9,1.117244793617239
+Nikola Sekulov,Juventus,ITA-Serie A,FW,1,0,0,0.0,0.0,0.30723433931647837
+Paul Pogba,Juventus,ITA-Serie A,MF,0,1,0,0.0,0.1,0.5404201824839598
+Samuel Iling-Junior,Juventus,ITA-Serie A,MF,0,1,0,2.0,1.6,1.7652155857624252
+Tiago Djaló,Juventus,ITA-Serie A,DF,0,0,1,0.0,0.0,0.5947975521158022
+Timothy Weah,Juventus,ITA-Serie A,FW,1,0,0,1.0,1.1,2.4
+Weston McKennie,Juventus,ITA-Serie A,DF,0,0,1,7.0,3.2,2.6162892702833234
+Adam Marušić,Lazio,ITA-Serie A,DF,0,0,1,0.0,1.1,1.4762070910290779
+Alessio Romagnoli,Lazio,ITA-Serie A,DF,0,0,1,0.0,0.6,0.4387128913778703
+Ciro Immobile,Lazio,ITA-Serie A,FW,1,0,0,1.0,1.3,1.5202824255105507
+Daichi Kamada,Lazio,ITA-Serie A,MF,0,1,0,2.0,2.1,2.296773274018313
+Danilo Cataldi,Lazio,ITA-Serie A,MF,0,1,0,0.0,0.9,0.7897527671894873
+Elseid Hysaj,Lazio,ITA-Serie A,DF,0,0,1,0.0,1.0,2.4
+Felipe Anderson,Lazio,ITA-Serie A,MF,0,1,0,6.0,4.7,3.7741277487926395
+Gustav Isaksen,Lazio,ITA-Serie A,FW,1,0,0,1.0,2.0,1.6310585803044044
+Luca Pellegrini,Lazio,ITA-Serie A,DF,0,0,1,0.0,0.3,1.2
+Luis Alberto,Lazio,ITA-Serie A,MF,0,1,0,7.0,4.8,4.378681828764785
+Manuel Lazzari,Lazio,ITA-Serie A,DF,0,0,1,2.0,1.3,1.4446149233444947
+Mario Gila,Lazio,ITA-Serie A,DF,0,0,1,0.0,0.8,0.5132958461336936
+Mattia Zaccagni,Lazio,ITA-Serie A,MF,0,1,0,1.0,3.3,7.199999999999999
+Mattéo Guendouzi,Lazio,ITA-Serie A,MF,0,1,0,3.0,2.4,3.5999999999999996
+Matías Vecino,Lazio,ITA-Serie A,MF,0,1,0,1.0,1.2,0.8047983929701247
+Nicolò Casale,Lazio,ITA-Serie A,DF,0,0,1,0.0,0.2,0.33973523749505635
+Nicolò Rovella,Lazio,ITA-Serie A,MF,0,1,0,2.0,0.6,2.4
+Patric,Lazio,ITA-Serie A,DF,0,0,1,0.0,0.3,0.39298508347747363
+Pedro,Lazio,ITA-Serie A,MF,0,1,0,1.0,1.5,1.661138907670866
+Valentín Castellanos,Lazio,ITA-Serie A,FW,1,0,0,3.0,1.1,3.5999999999999996
+Ahmed Touba,Lecce,ITA-Serie A,DF,0,0,1,0.0,0.0,0.2470468875173082
+Alexis Blin,Lecce,ITA-Serie A,MF,0,1,0,2.0,0.7,0.5728309660364156
+Antonino Gallo,Lecce,ITA-Serie A,DF,0,0,1,3.0,3.1,2.92905774630494
+Federico Baschirotto,Lecce,ITA-Serie A,DF,0,0,1,1.0,0.3,0.36243665344517634
+Federico Di Francesco,Lecce,ITA-Serie A,MF,0,1,0,0.0,0.0,1.268912439511026
+Gabriel Strefezza,Lecce,ITA-Serie A,FW,1,0,0,0.0,1.3,3.5999999999999996
+Hamza Rafia,Lecce,ITA-Serie A,MF,0,1,0,0.0,1.1,0.9232907152297265
+Jeppe Corfitzen,Lecce,ITA-Serie A,FW,1,0,0,0.0,0.0,0.26276967496183057
+Joan Gonzàlez,Lecce,ITA-Serie A,MF,0,1,0,1.0,0.8,0.8999012276915315
+Lameck Banda,Lecce,ITA-Serie A,FW,1,0,0,4.0,1.2,1.895209624036248
+Lorenzo Venuti,Lecce,ITA-Serie A,DF,0,0,1,0.0,0.3,0.3275684663620604
+Marcin Listkowski,Lecce,ITA-Serie A,FW,1,0,0,0.0,0.0,0.44784339514441446
+Marin Pongračić,Lecce,ITA-Serie A,DF,0,0,1,0.0,0.6,0.3842863053787486
+Medon Berisha,Lecce,ITA-Serie A,MF,0,1,0,0.0,0.2,1.2
+Mohamed Kaba,Lecce,ITA-Serie A,MF,0,1,0,0.0,0.8,0.7404478199919303
+Nicola Sansone,Lecce,ITA-Serie A,MF,0,1,0,2.0,0.9,1.2103310399449154
+Nikola Krstović,Lecce,ITA-Serie A,FW,1,0,0,1.0,1.7,3.5999999999999996
+Patrick Dorgu,Lecce,ITA-Serie A,MF,0,1,0,0.0,0.7,1.20156346962744
+Pontus Almqvist,Lecce,ITA-Serie A,MF,0,1,0,1.0,1.8,1.8151387340453207
+Rareș-Cătălin Burnete,Lecce,ITA-Serie A,FW,1,0,0,1.0,0.0,0.3635187830534864
+Remi Oudin,Lecce,ITA-Serie A,FW,1,0,0,2.0,4.0,2.5362483009753056
+Roberto Piccoli,Lecce,ITA-Serie A,FW,1,0,0,0.0,0.6,1.2180678568083152
+Santiago Pierotti,Lecce,ITA-Serie A,FW,1,0,0,2.0,0.6,2.4
+Valentin Gendrey,Lecce,ITA-Serie A,DF,0,0,1,3.0,1.8,1.45168706689197
+Ylber Ramadani,Lecce,ITA-Serie A,MF,0,1,0,0.0,0.7,1.2
+Alejandro Jiménez,Milan,ITA-Serie A,DF,0,0,1,0.0,0.1,0.4217813109405409
+Alessandro Florenzi,Milan,ITA-Serie A,DF,0,0,1,4.0,3.5,1.7976604476726288
+Chaka Traorè,Milan,ITA-Serie A,FW,1,0,0,0.0,0.0,0.5453199378426096
+Christian Pulisic,Milan,ITA-Serie A,MF,0,1,0,8.0,4.5,7.199999999999999
+Davide Bartesaghi,Milan,ITA-Serie A,MF,0,1,0,0.0,0.0,0.41424786212438247
+Davide Calabria,Milan,ITA-Serie A,DF,0,0,1,3.0,1.6,1.5706128714080123
+Fikayo Tomori,Milan,ITA-Serie A,DF,0,0,1,0.0,0.2,0.7608914644866336
+Filippo Terracciano,Milan,ITA-Serie A,FW,1,0,0,0.0,0.0,0.7174131826506321
+Francesco Camarda,Milan,ITA-Serie A,FW,1,0,0,0.0,0.0,0.4465881035361078
+Ismaël Bennacer,Milan,ITA-Serie A,MF,0,1,0,2.0,1.6,1.8583980936000963
+Jan-Carlo Simic,Milan,ITA-Serie A,DF,0,0,1,0.0,0.0,0.4925942948688884
+Kevin Zeroli,Milan,ITA-Serie A,MF,0,1,0,0.0,0.0,0.396280759209913
+Luka Jović,Milan,ITA-Serie A,FW,1,0,0,1.0,0.7,0.9645093480987097
+Luka Romero,Milan,ITA-Serie A,MF,0,1,0,0.0,0.1,0.36215049195632376
+Malick Thiaw,Milan,ITA-Serie A,DF,0,0,1,1.0,0.2,0.5021611560681445
+Marco Pellegrino,Milan,ITA-Serie A,DF,0,0,1,0.0,0.0,0.3012011190679631
+Matteo Gabbia,Milan,ITA-Serie A,DF,0,0,1,1.0,0.2,0.4347272714121193
+Mattia Caldara,Milan,ITA-Serie A,DF,0,0,1,0.0,0.0,0.41356973079208237
+Noah Okafor,Milan,ITA-Serie A,MF,0,1,0,2.0,0.5,1.626918556996145
+Olivier Giroud,Milan,ITA-Serie A,FW,1,0,0,8.0,2.4,2.6967700350389516
+Pierre Kalulu,Milan,ITA-Serie A,DF,0,0,1,0.0,0.2,0.7115477640689758
+Rade Krunić,Milan,ITA-Serie A,MF,0,1,0,0.0,0.3,0.6142119473566527
+Rafael Leão,Milan,ITA-Serie A,FW,1,0,0,9.0,8.1,5.880248789060701
+Ruben Loftus-Cheek,Milan,ITA-Serie A,MF,0,1,0,1.0,2.0,2.271578186919258
+Samuel Chukwueze,Milan,ITA-Serie A,FW,1,0,0,3.0,2.7,3.2134613695619922
+Simon Kjær,Milan,ITA-Serie A,DF,0,0,1,1.0,0.6,0.3326352329900918
+Theo Hernández,Milan,ITA-Serie A,DF,0,0,1,4.0,4.6,3.686951341573809
+Tijjani Reijnders,Milan,ITA-Serie A,MF,0,1,0,3.0,4.1,3.877657239736779
+Tommaso Pobega,Milan,ITA-Serie A,MF,0,1,0,0.0,0.1,1.2
+Yacine Adli,Milan,ITA-Serie A,MF,0,1,0,2.0,2.0,4.8
+Yunus Musah,Milan,ITA-Serie A,FW,1,0,0,2.0,0.7,2.4
+Alessio Zerbin,Monza,ITA-Serie A,FW,1,0,0,1.0,1.0,0.6373065449160776
+Andrea Carboni,Monza,ITA-Serie A,DF,0,0,1,0.0,0.4,1.2
+Andrea Colpani,Monza,ITA-Serie A,FW,1,0,0,4.0,4.6,3.3740098181254536
+Andrea Ferraris,Monza,ITA-Serie A,MF,0,1,0,0.0,0.0,0.22444981562706753
+Armando Izzo,Monza,ITA-Serie A,DF,0,0,1,0.0,1.3,0.6144615286750618
+Daniel Maldini,Monza,ITA-Serie A,FW,1,0,0,1.0,0.6,0.6816602916750252
+Danilo D'Ambrosio,Monza,ITA-Serie A,DF,0,0,1,0.0,0.4,0.3351839605947717
+Dany Mota,Monza,ITA-Serie A,MF,0,1,0,3.0,3.1,3.24387475208829
+Davide Bettella,Monza,ITA-Serie A,MF,0,1,0,0.0,0.0,0.35529869863177976
+Gianluca Caprari,Monza,ITA-Serie A,FW,1,0,0,0.0,0.7,1.210024515644438
+Giorgio Cittadini,Monza,ITA-Serie A,DF,0,0,1,0.0,0.0,0.3362210058621341
+Giorgos Kyriakopoulos,Monza,ITA-Serie A,DF,0,0,1,3.0,2.0,3.5999999999999996
+Giulio Donati,Monza,ITA-Serie A,DF,0,0,1,0.0,0.2,0.3053689022032848
+Jean-Daniel Akpa-Akpro,Monza,ITA-Serie A,MF,0,1,0,0.0,0.2,0.6080495668037978
+Lorenzo Colombo,Monza,ITA-Serie A,FW,1,0,0,1.0,0.5,2.4
+Luca Caldirola,Monza,ITA-Serie A,DF,0,0,1,1.0,0.2,0.26598420750716534
+Matteo Pessina,Monza,ITA-Serie A,MF,0,1,0,3.0,1.5,1.4187410815921493
+Milan Đurić,Monza,ITA-Serie A,FW,1,0,0,1.0,0.2,0.6738415660607422
+Mirko Marić,Monza,ITA-Serie A,FW,1,0,0,0.0,0.2,0.4279703555340701
+Pablo Marí,Monza,ITA-Serie A,DF,0,0,1,0.0,0.6,0.3462860235352424
+Papu Gómez,Monza,ITA-Serie A,FW,1,0,0,0.0,0.3,1.2569248743868315
+Patrick Ciurria,Monza,ITA-Serie A,MF,0,1,0,1.0,2.1,1.547753299165146
+Pedro Pereira,Monza,ITA-Serie A,DF,0,0,1,2.0,1.0,3.5999999999999996
+Pepín,Monza,ITA-Serie A,FW,1,0,0,0.0,0.1,0.5722418687738707
+Roberto Gagliardini,Monza,ITA-Serie A,DF,0,0,1,2.0,2.0,1.0264194301674743
+Samuele Birindelli,Monza,ITA-Serie A,DF,0,0,1,2.0,2.4,1.3707360433597175
+Samuele Vignato,Monza,ITA-Serie A,FW,1,0,0,0.0,0.2,0.7011692223799816
+Valentin Carboni,Monza,ITA-Serie A,FW,1,0,0,3.0,1.4,1.4185639736109419
+Warren Bondo,Monza,ITA-Serie A,MF,0,1,0,1.0,0.2,0.4967063553019935
+Alessandro Zanoli,Napoli,ITA-Serie A,FW,1,0,0,0.0,0.0,0.5368552869540077
+Alessio Zerbin,Napoli,ITA-Serie A,DF,0,0,1,0.0,0.5,0.7137473216862824
+Amir Rrahmani,Napoli,ITA-Serie A,DF,0,0,1,0.0,0.7,2.4
+Andre-Frank Zambo Anguissa,Napoli,ITA-Serie A,MF,0,1,0,2.0,3.0,2.8905609742332836
+Cyril Ngonge,Napoli,ITA-Serie A,FW,1,0,0,0.0,0.5,1.5184456803912671
+Diego Demme,Napoli,ITA-Serie A,MF,0,1,0,0.0,0.0,0.4112991956087684
+Elif Elmas,Napoli,ITA-Serie A,MF,0,1,0,0.0,0.3,0.6351098400952719
+Giacomo Raspadori,Napoli,ITA-Serie A,MF,0,1,0,3.0,3.0,2.6370914632580833
+Gianluca Gaetano,Napoli,ITA-Serie A,MF,0,1,0,0.0,0.4,2.4
+Giovanni Di Lorenzo,Napoli,ITA-Serie A,DF,0,0,1,6.0,5.4,4.245843501144158
+Giovanni Simeone,Napoli,ITA-Serie A,FW,1,0,0,0.0,0.8,1.3299867152864793
+Hamed Junior Traorè,Napoli,ITA-Serie A,MF,0,1,0,0.0,0.3,2.4
+Jens Cajuste,Napoli,ITA-Serie A,MF,0,1,0,2.0,0.7,1.0374594924747464
+Jesper Lindstrøm,Napoli,ITA-Serie A,MF,0,1,0,0.0,0.9,1.2
+Juan Jesus,Napoli,ITA-Serie A,DF,0,0,1,0.0,0.8,1.2
+Khvicha Kvaratskhelia,Napoli,ITA-Serie A,FW,1,0,0,6.0,5.4,5.7118878145859995
+Leander Dendoncker,Napoli,ITA-Serie A,MF,0,1,0,0.0,0.0,0.4883031823445838
+Leo Skiri Østigård,Napoli,ITA-Serie A,DF,0,0,1,0.0,0.3,0.35365273957623766
+Mathías Olivera,Napoli,ITA-Serie A,DF,0,0,1,1.0,1.3,1.5106849050082247
+Matteo Politano,Napoli,ITA-Serie A,FW,1,0,0,7.0,6.0,5.220619273239635
+Mário Rui,Napoli,ITA-Serie A,DF,0,0,1,2.0,1.8,2.0468931651680324
+Natan,Napoli,ITA-Serie A,DF,0,0,1,0.0,0.2,0.38914452248507914
+Pasquale Mazzocchi,Napoli,ITA-Serie A,DF,0,0,1,1.0,0.3,0.8346194127664949
+Piotr Zieliński,Napoli,ITA-Serie A,MF,0,1,0,2.0,3.2,2.9800828292297274
+Stanislav Lobotka,Napoli,ITA-Serie A,MF,0,1,0,1.0,1.6,1.5623387317063993
+Victor Osimhen,Napoli,ITA-Serie A,FW,1,0,0,3.0,0.9,2.244712974560705
+Andrea Belotti,Roma,ITA-Serie A,FW,1,0,0,2.0,0.9,1.1715000084462555
+Angeliño,Roma,ITA-Serie A,DF,0,0,1,1.0,1.5,2.4962987524170894
+Bryan Cristante,Roma,ITA-Serie A,DF,0,0,1,4.0,3.1,2.912967338312455
+Chris Smalling,Roma,ITA-Serie A,DF,0,0,1,0.0,0.0,0.4378013912321563
+Dean Huijsen,Roma,ITA-Serie A,DF,0,0,1,0.0,0.1,0.5462160058601455
+Diego Llorente,Roma,ITA-Serie A,DF,0,0,1,1.0,0.2,0.4601090010624181
+Edoardo Bove,Roma,ITA-Serie A,MF,0,1,0,2.0,1.2,2.4
+Gianluca Mancini,Roma,ITA-Serie A,DF,0,0,1,1.0,1.1,0.9171507880015213
+Houssem Aouar,Roma,ITA-Serie A,FW,1,0,0,0.0,0.6,1.3880382674566347
+João Costa,Roma,ITA-Serie A,FW,1,0,0,0.0,0.1,0.2971111076993922
+Leandro Paredes,Roma,ITA-Serie A,MF,0,1,0,5.0,2.5,2.137413018004579
+Leonardo Spinazzola,Roma,ITA-Serie A,DF,0,0,1,2.0,3.1,2.3584084028620946
+Lorenzo Pellegrini,Roma,ITA-Serie A,MF,0,1,0,3.0,3.2,3.4198038539701434
+Niccolò Pisilli,Roma,ITA-Serie A,MF,0,1,0,0.0,0.0,1.2
+Nicola Zalewski,Roma,ITA-Serie A,FW,1,0,0,1.0,1.5,1.3987936715336728
+Obite N'Dicka,Roma,ITA-Serie A,DF,0,0,1,3.0,0.5,1.2
+Ola Solbakken,Roma,ITA-Serie A,FW,1,0,0,0.0,0.0,0.7171892807454985
+Paulo Dybala,Roma,ITA-Serie A,MF,0,1,0,9.0,4.0,4.221581923349756
+Rasmus Kristensen,Roma,ITA-Serie A,DF,0,0,1,1.0,1.3,2.4
+Renato Sanches,Roma,ITA-Serie A,MF,0,1,0,0.0,0.1,0.719502763159508
+Riccardo Pagano,Roma,ITA-Serie A,DF,0,0,1,0.0,0.0,0.3646210834732033
+Rick Karsdorp,Roma,ITA-Serie A,DF,0,0,1,2.0,1.6,1.4483452924464117
+Romelu Lukaku,Roma,ITA-Serie A,FW,1,0,0,3.0,1.5,8.4
+Sardar Azmoun,Roma,ITA-Serie A,MF,0,1,0,0.0,0.5,1.033792483915659
+Stephan El Shaarawy,Roma,ITA-Serie A,DF,0,0,1,4.0,1.8,3.5999999999999996
+Tammy Abraham,Roma,ITA-Serie A,FW,1,0,0,0.0,0.0,1.338383021319319
+Tommaso Baldanzi,Roma,ITA-Serie A,MF,0,1,0,0.0,0.7,1.2
+Zeki Çelik,Roma,ITA-Serie A,DF,0,0,1,0.0,0.4,2.4
+Agustín Martegani,Salernitana,ITA-Serie A,MF,0,1,0,0.0,0.4,0.3762508922028844
+Alessandro Zanoli,Salernitana,ITA-Serie A,DF,0,0,1,2.0,0.9,0.6114658424713182
+Andres Sfait,Salernitana,ITA-Serie A,MF,0,1,0,0.0,0.0,0.27007491064267863
+Antonio Candreva,Salernitana,ITA-Serie A,FW,1,0,0,6.0,4.1,3.0946864228807844
+Boulaye Dia,Salernitana,ITA-Serie A,MF,0,1,0,0.0,0.5,3.5999999999999996
+Chukwubuikem Ikwuemesi,Salernitana,ITA-Serie A,FW,1,0,0,1.0,0.6,0.8978866731542665
+Domagoj Bradarić,Salernitana,ITA-Serie A,DF,0,0,1,3.0,1.6,1.2019820853380598
+Dylan Bronn,Salernitana,ITA-Serie A,MF,0,1,0,0.0,0.0,0.32904077739857907
+Emanuel Vignato,Salernitana,ITA-Serie A,FW,1,0,0,1.0,0.1,0.2704229238893633
+Emil Bohinen,Salernitana,ITA-Serie A,MF,0,1,0,0.0,0.1,0.3444294801472027
+Erik Botheim,Salernitana,ITA-Serie A,MF,0,1,0,0.0,0.1,0.32017823254704114
+Federico Fazio,Salernitana,ITA-Serie A,DF,0,0,1,0.0,0.3,0.14632671942287245
+Flavius Daniliuc,Salernitana,ITA-Serie A,DF,0,0,1,0.0,0.1,0.4447855755938185
+Gerardo Fusco,Salernitana,ITA-Serie A,FW,1,0,0,0.0,0.0,0.3447958345312961
+Giulio Maggiore,Salernitana,ITA-Serie A,MF,0,1,0,2.0,0.8,0.5293038319918502
+Grigoris Kastanos,Salernitana,ITA-Serie A,DF,0,0,1,3.0,1.5,1.2056213870374377
+Iron Gomis,Salernitana,ITA-Serie A,MF,0,1,0,0.0,0.2,0.37768355925940694
+Jovane Cabral,Salernitana,ITA-Serie A,FW,1,0,0,0.0,0.6,0.6191584821724576
+Junior Sambia,Salernitana,ITA-Serie A,MF,0,1,0,2.0,0.6,0.6920955872942975
+Jérôme Boateng,Salernitana,ITA-Serie A,DF,0,0,1,0.0,0.1,0.24058038990025227
+Kostas Manolas,Salernitana,ITA-Serie A,DF,0,0,1,0.0,0.0,0.2536253062736725
+Lassana Coulibaly,Salernitana,ITA-Serie A,MF,0,1,0,1.0,0.9,0.8497231433969448
+Lorenzo Pirola,Salernitana,ITA-Serie A,DF,0,0,1,0.0,0.1,0.2943347018315394
+Loum Tchaouna,Salernitana,ITA-Serie A,MF,0,1,0,3.0,1.3,1.4462826411375527
+Mamadou Coulibaly,Salernitana,ITA-Serie A,DF,0,0,1,0.0,0.0,0.43760783392139635
+Marco Pellegrino,Salernitana,ITA-Serie A,DF,0,0,1,0.0,0.0,0.2639468328907352
+Mateusz Łęgowski,Salernitana,ITA-Serie A,MF,0,1,0,0.0,0.4,0.3926072745070691
+Matteo Lovato,Salernitana,ITA-Serie A,DF,0,0,1,0.0,0.2,0.24976684432111057
+Niccolò Pierozzi,Salernitana,ITA-Serie A,DF,0,0,1,0.0,0.1,0.32581885808206074
+Norbert Gyömbér,Salernitana,ITA-Serie A,DF,0,0,1,0.0,0.1,0.3508121794924152
+Pasquale Mazzocchi,Salernitana,ITA-Serie A,DF,0,0,1,1.0,1.0,1.0415669480766443
+Shon Weissman,Salernitana,ITA-Serie A,DF,0,0,1,0.0,0.1,0.29010389363326045
+Simeon Nwankwo,Salernitana,ITA-Serie A,FW,1,0,0,0.0,0.4,0.502359207333705
+Toma Bašić,Salernitana,ITA-Serie A,MF,0,1,0,0.0,0.7,0.4624991839481967
+Triantafyllos Pasaridīs,Salernitana,ITA-Serie A,DF,0,0,1,0.0,0.2,0.2801746894188476
+Trivante Stewart,Salernitana,ITA-Serie A,MF,0,1,0,0.0,0.0,0.32448260197536044
+Andrea Pinamonti,Sassuolo,ITA-Serie A,FW,1,0,0,1.0,2.2,1.4909163669551613
+Armand Lauriente,Sassuolo,ITA-Serie A,FW,1,0,0,4.0,3.9,3.389765524213111
+Cristian Volpato,Sassuolo,ITA-Serie A,FW,1,0,0,0.0,1.4,1.0657861913883342
+Daniel Boloca,Sassuolo,ITA-Serie A,MF,0,1,0,0.0,0.5,0.5653483772589825
+Domenico Berardi,Sassuolo,ITA-Serie A,FW,1,0,0,3.0,2.5,2.8095009806994717
+Emil Ceide,Sassuolo,ITA-Serie A,MF,0,1,0,0.0,0.2,0.6210499470405089
+Filippo Missori,Sassuolo,ITA-Serie A,DF,0,0,1,0.0,0.1,0.2916179466646185
+Gian Marco Ferrari,Sassuolo,ITA-Serie A,DF,0,0,1,0.0,0.7,0.44793852177953286
+Grégoire Defrel,Sassuolo,ITA-Serie A,MF,0,1,0,2.0,1.1,0.6120414471373233
+Jeremy Toljan,Sassuolo,ITA-Serie A,DF,0,0,1,5.0,2.0,1.212639234839256
+Josh Doig,Sassuolo,ITA-Serie A,DF,0,0,1,2.0,0.7,0.6395272470588886
+Justin Kumi,Sassuolo,ITA-Serie A,FW,1,0,0,0.0,0.0,0.26607702968960356
+Kevin Miranda,Sassuolo,ITA-Serie A,DF,0,0,1,0.0,0.0,0.29782323085784185
+Kristian Thorstvedt,Sassuolo,ITA-Serie A,MF,0,1,0,1.0,1.6,1.5233707931173401
+Luca Lipani,Sassuolo,ITA-Serie A,MF,0,1,0,0.0,0.1,0.3413639989283178
+Marash Kumbulla,Sassuolo,ITA-Serie A,DF,0,0,1,0.0,0.0,0.2578896129106145
+Marcus Pedersen,Sassuolo,ITA-Serie A,DF,0,0,1,2.0,0.7,1.1491699864772165
+Martin Erlic,Sassuolo,ITA-Serie A,DF,0,0,1,0.0,0.4,0.32558043835916106
+Matheus Henrique,Sassuolo,ITA-Serie A,MF,0,1,0,2.0,1.6,1.126188268918413
+Mattia Viti,Sassuolo,ITA-Serie A,DF,0,0,1,0.0,0.1,0.2621636378525975
+Matías Viña,Sassuolo,ITA-Serie A,DF,0,0,1,3.0,0.7,0.6046579366716959
+Maxime Lopez,Sassuolo,ITA-Serie A,MF,0,1,0,0.0,0.2,0.44334513072562864
+Nedim Bajrami,Sassuolo,ITA-Serie A,FW,1,0,0,2.0,1.6,1.3236881480683445
+Pedro Obiang,Sassuolo,ITA-Serie A,MF,0,1,0,0.0,0.4,0.3211943073321727
+Ruan,Sassuolo,ITA-Serie A,DF,0,0,1,0.0,0.4,0.44596056672468537
+Samu Castillejo,Sassuolo,ITA-Serie A,MF,0,1,0,0.0,0.9,0.9858495917651271
+Samuele Mulattieri,Sassuolo,ITA-Serie A,MF,0,1,0,0.0,0.5,0.5476194984857817
+Uroš Račić,Sassuolo,ITA-Serie A,MF,0,1,0,1.0,0.3,0.3273659193605099
+Adam Masina,Torino,ITA-Serie A,DF,0,0,1,0.0,0.4,2.4
+Adrien Tameze,Torino,ITA-Serie A,MF,0,1,0,2.0,1.2,0.9387172448581342
+Alessandro Buongiorno,Torino,ITA-Serie A,DF,0,0,1,0.0,0.4,0.7422935118325659
+Alessandro Dellavalle,Torino,ITA-Serie A,DF,0,0,1,0.0,0.0,0.5165734393817363
+Antonio Sanabria,Torino,ITA-Serie A,MF,0,1,0,0.0,0.9,1.5991817354795783
+Brandon Soppy,Torino,ITA-Serie A,DF,0,0,1,0.0,0.1,0.36952808558419203
+David Okereke,Torino,ITA-Serie A,MF,0,1,0,0.0,0.3,0.8468213346870272
+David Zima,Torino,ITA-Serie A,DF,0,0,1,0.0,0.0,0.4575753513652466
+Demba Seck,Torino,ITA-Serie A,MF,0,1,0,0.0,0.2,0.6057020840380559
+Duván Zapata,Torino,ITA-Serie A,FW,1,0,0,4.0,1.5,2.3372985769143915
+Gvidas Gineitis,Torino,ITA-Serie A,MF,0,1,0,0.0,1.0,0.5953354270303682
+Ivan Ilić,Torino,ITA-Serie A,MF,0,1,0,2.0,4.6,2.6204414516702896
+Karol Linetty,Torino,ITA-Serie A,MF,0,1,0,0.0,0.7,0.7272212957232469
+Koffi Djidji,Torino,ITA-Serie A,DF,0,0,1,0.0,0.1,0.4102988666766497
+Matteo Lovato,Torino,ITA-Serie A,DF,0,0,1,0.0,0.0,0.37351163245603686
+Mërgim Vojvoda,Torino,ITA-Serie A,DF,0,0,1,3.0,1.5,1.3415465413035916
+Nemanja Radonjić,Torino,ITA-Serie A,FW,1,0,0,0.0,0.3,0.658026189462773
+Nikola Vlašić,Torino,ITA-Serie A,FW,1,0,0,2.0,3.6,2.939937161134206
+Perr Schuurs,Torino,ITA-Serie A,DF,0,0,1,0.0,0.4,0.828760612493404
+Pietro Pellegri,Torino,ITA-Serie A,FW,1,0,0,1.0,0.1,0.5081769432966095
+Raoul Bellanova,Torino,ITA-Serie A,DF,0,0,1,7.0,4.5,2.8053367617844853
+Ricardo Rodríguez,Torino,ITA-Serie A,DF,0,0,1,2.0,1.8,1.3042472735216704
+Saba Sazonov,Torino,ITA-Serie A,DF,0,0,1,0.0,0.0,0.2765655302602419
+Samuele Ricci,Torino,ITA-Serie A,MF,0,1,0,2.0,2.4,1.4902717234748386
+Simone Verdi,Torino,ITA-Serie A,FW,1,0,0,0.0,0.0,1.3753223379686461
+Valentino Lazaro,Torino,ITA-Serie A,MF,0,1,0,4.0,2.9,7.199999999999999
+Yann Karamoh,Torino,ITA-Serie A,FW,1,0,0,0.0,0.2,1.2
+Zanos Savva,Torino,ITA-Serie A,MF,0,1,0,0.0,0.0,0.33845361711131355
+Adam Masina,Udinese,ITA-Serie A,DF,0,0,1,0.0,0.0,2.4
+Antonio Tikvić,Udinese,ITA-Serie A,DF,0,0,1,0.0,0.0,0.23117130154408436
+Axel Guessand,Udinese,ITA-Serie A,DF,0,0,1,0.0,0.0,0.22893953766793287
+Beto,Udinese,ITA-Serie A,FW,1,0,0,0.0,0.0,0.4568788858180911
+Brenner,Udinese,ITA-Serie A,FW,1,0,0,0.0,0.0,2.4
+Christian Kabasele,Udinese,ITA-Serie A,DF,0,0,1,1.0,0.0,0.29159929062971135
+Domingos Quina,Udinese,ITA-Serie A,MF,0,1,0,0.0,0.0,0.398851482918299
+Enzo Ebosse,Udinese,ITA-Serie A,DF,0,0,1,0.0,0.0,0.45566370600572087
+Festy Ebosele,Udinese,ITA-Serie A,DF,0,0,1,0.0,1.5,1.912229752339912
+Florian Thauvin,Udinese,ITA-Serie A,FW,1,0,0,3.0,4.1,2.2857105186456708
+Hassane Kamara,Udinese,ITA-Serie A,DF,0,0,1,1.0,1.8,3.5999999999999996
+Isaac Success,Udinese,ITA-Serie A,MF,0,1,0,1.0,0.6,1.0873110918433513
+Jaka Bijol,Udinese,ITA-Serie A,DF,0,0,1,0.0,0.5,0.695033545117893
+Jordan Zemura,Udinese,ITA-Serie A,DF,0,0,1,0.0,0.3,2.4
+João Ferreira,Udinese,ITA-Serie A,DF,0,0,1,1.0,0.9,0.7796045410540446
+Keinan Davis,Udinese,ITA-Serie A,MF,0,1,0,0.0,0.2,1.2
+Kingsley Ehizibue,Udinese,ITA-Serie A,DF,0,0,1,1.0,0.5,1.2
+Lautaro Gianetti,Udinese,ITA-Serie A,DF,0,0,1,0.0,0.1,0.27393417813488097
+Lazar Samardzic,Udinese,ITA-Serie A,MF,0,1,0,2.0,5.0,3.3803053358332784
+Lorenzo Lucca,Udinese,ITA-Serie A,FW,1,0,0,4.0,0.6,1.292603528490196
+Marley Aké,Udinese,ITA-Serie A,FW,1,0,0,0.0,0.0,0.3414057174812544
+Martín Payero,Udinese,ITA-Serie A,MF,0,1,0,2.0,0.9,1.2
+Nehuén Pérez,Udinese,ITA-Serie A,DF,0,0,1,0.0,0.4,0.36905658823026144
+Oier Zarraga,Udinese,ITA-Serie A,MF,0,1,0,0.0,0.1,0.5879475584278251
+Roberto Pereyra,Udinese,ITA-Serie A,MF,0,1,0,3.0,2.0,2.1855450789508386
+Sandi Lovrić,Udinese,ITA-Serie A,MF,0,1,0,3.0,3.0,1.972291474032454
+Simone Pafundi,Udinese,ITA-Serie A,MF,0,1,0,0.0,0.1,0.4217128349320792
+Thomas Kristensen,Udinese,ITA-Serie A,DF,0,0,1,1.0,0.2,0.2535825300287916
+Vivaldo Semedo,Udinese,ITA-Serie A,FW,1,0,0,0.0,0.0,0.30580669279648426
+Walace,Udinese,ITA-Serie A,MF,0,1,0,0.0,0.8,0.9136149753946383

@@ -1,0 +1,895 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+    --base-clr: #11121a;
+    --text-clr: #e6e6ef;
+    --gradient-color-1: #ff6b6b;
+    --gradient-color-2: #ffa86b;
+    --black1: #222;
+    --black2: #999;
+}
+
+* {
+    margin: 0;
+    padding: 0
+}
+
+html {
+    font-family: Poppins, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5rem
+}
+
+body {
+    color: var(--text-clr);
+    margin: 0;
+    background: url(/assets/imgs/Main/hero.png);
+    background-attachment: fixed;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    font-family: Poppins, sans-serif
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background: rgba(255, 255, 255, .2);
+    border-radius: 50px;
+    width: fit-content;
+    margin: 0 auto
+}
+
+header ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+header ul a {
+    padding: 5px 20px;
+    border-radius: 30px;
+    text-decoration: none;
+    transition: .5s;
+    color: var(--text-clr);
+    font-size: 20px;
+    font-weight: 300
+}
+
+header ul a.activelink {
+    background: linear-gradient(45deg, var(--gradient-color-1), var(--gradient-color-2));
+    color: var(--text-clr)
+}
+
+.hidden,
+#hidden {
+    display: none
+}
+
+.main-content {
+    width: 50%;
+    margin: 20px auto;
+    text-align: center
+}
+
+@media (max-width:768px) {
+    .main-content {
+        width: 100%;
+        padding: 0
+    }
+    header ul{
+        gap : 20px;
+    }
+}
+
+.main-content h1 {
+    color: var(--text-clr);
+    margin: 40px 0;
+    font-size: 32px
+}
+
+.main-content p {
+    color: var(--black2);
+    margin: 10px
+}
+
+.Table-Container {
+    padding: 20px 100px
+}
+
+.player-table {
+    width: 100%;
+    font-size: 14px
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse
+}
+
+thead th {
+    background-color: #2a2a2a;
+    padding: 10px;
+    text-align: left;
+    color: var(--gradient-color-2);
+    text-transform: uppercase;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    font-weight: 300;
+    position: sticky;
+    top: -1px
+}
+
+tbody tr {
+    border-bottom: 1px solid #333;
+    transition: .5s
+}
+
+tbody tr:hover {
+    background: rgba(255, 255, 255, .1)
+}
+
+#Player_Name {
+    display: flex;
+    align-items: center;
+    gap: 10px
+}
+
+#Timg {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    vertical-align: middle;
+    background: rgba(255, 255, 255, .2);
+    padding: 10px;
+    border-radius: 10px
+}
+
+tbody td {
+    padding: 10px
+}
+
+@media (max-width:768px) {
+    .player-table {
+        overflow-x: auto;
+        display: block
+    }
+
+    table {
+        width: 100%;
+        display: block;
+        overflow-x: auto
+    }
+
+    thead,
+    tbody,
+    th,
+    td,
+    tr {
+        display: block
+    }
+
+    thead tr {
+        position: absolute;
+        top: -9999px;
+        left: -9999px
+    }
+
+    tbody tr {
+        border: 3px solid #ccc;
+        margin-bottom: 10px
+    }
+
+    td {
+        border: none;
+        border-bottom: 1px solid #eee;
+        position: relative;
+        padding-left: 50%;
+        text-align: left;
+        display: flex;
+        align-items: center;
+        justify-content: space-between
+    }
+
+    td:before {
+        position: relative;
+        top: 6px;
+        left: 6px;
+        width: 45%;
+        padding-right: 10px;
+        white-space: nowrap;
+        content: attr(data-label);
+        font-weight: bold;
+        color: var(--gradient-color-2)
+    }
+
+    td#Player_Name {
+        padding-left: 10px
+    }
+
+    td#Player_Name:before {
+        content: none
+    }
+}
+
+@media (min-width:768px) and (max-width:1024px) {
+    .player-table {
+        overflow-x: auto;
+        display: block;
+        width: 100%
+    }
+
+    table {
+        width: 100%;
+        min-width: 768px;
+        border-collapse: collapse
+    }
+
+    thead th {
+        position: sticky;
+        top: 0;
+        background-color: #2a2a2a;
+        z-index: 1
+    }
+
+    tbody tr {
+        border-bottom: 1px solid #333
+    }
+
+    tbody td {
+        padding: 10px;
+        text-align: left
+    }
+
+    tbody tr:hover {
+        background: rgba(255, 255, 255, .1)
+    }
+
+    #team-logo-cell img,
+    #league-logo-cell img,
+    #flag-cell img {
+        max-width: 30px;
+        height: auto
+    }
+}
+
+.landing {
+    width: 50%;
+    text-align: center;
+    margin: 0 auto
+}
+
+.pagination-controls {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px
+}
+
+.pagination-controls button {
+    background: linear-gradient(45deg, var(--gradient-color-1), var(--gradient-color-2));
+    border: none;
+    color: #000;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 0 10px
+}
+
+.main-content h2 {
+    color: var(--black1);
+    font-size: 24px;
+    margin-bottom: 20px
+}
+
+.searchBox {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    background: #2f3640;
+    border-radius: 50px;
+    position: relative;
+    width: 100%
+}
+
+#searchButton {
+    color: white;
+    position: absolute;
+    right: 8px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: linear-gradient(90deg, var(--gradient-color-1), var(--gradient-color-2));
+    border: 0;
+    display: inline-block;
+    transition: all 300ms cubic-bezier(.23, 1, .32, 1);
+    cursor: pointer
+}
+
+.searchBox button:hover {
+    color: #fff;
+    background-color: #1A1A1A;
+    box-shadow: rgba(0, 0, 0, .5) 0 10px 20px;
+    transform: translateY(-3px)
+}
+
+.searchBox button:active {
+    box-shadow: none;
+    transform: translateY(0)
+}
+
+.searchInput {
+    border: none;
+    outline: none;
+    font-size: 15px;
+    padding: 24px 46px 24px 26px;
+    width: 100%;
+    border-radius: inherit;
+    background: var(--black1);
+    color: var(--text-clr)
+}
+
+.auto-complete-results {
+    background-color: var(--base-clr);
+    color: var(--text-clr);
+    position: absolute;
+    z-index: 1000;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
+    max-height: 200px;
+    overflow: auto;
+}
+
+.auto-complete-results div {
+    padding: 12px;
+    cursor: pointer;
+    transition: background .3s
+}
+
+.auto-complete-results div:hover {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .6)
+}
+
+.chart-section {
+    margin-bottom: 50px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, .1)
+}
+
+canvas {
+    width: 100% !important;
+    height: auto !important;
+    max-height: 600px
+}
+
+.similar-players-section {
+    margin-bottom: 50px
+}
+
+#selected-player-section {
+    background: rgba(255, 255, 255, .2);
+    border-radius: 10px;
+    padding: 60px 30px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .1);
+    margin: 35px 0;
+    color: var(--text-clr)
+}
+
+.player-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    position: relative
+}
+
+#PlayerInfo {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    gap: 10px;
+    transform: translateY(-50%)
+}
+
+#PlayerInfo img {
+    width: 32px
+}
+
+.player-info #Position,
+.player-info #Nation,
+.player-info #Age,
+.player-info #Team,
+.player-info #League {
+    position: relative;
+    background: rgba(150, 150, 150, .5);
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold
+}
+
+.player-info #PTeam {
+    font-size: 24px;
+    font-weight: 200
+}
+
+.player-info #Name {
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 12px
+}
+
+.player-info #Stats {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background: rgba(150, 150, 150, .5);
+    padding: 20px;
+    border-radius: 16px;
+    position: relative;
+    top: 100px
+}
+
+.player-info .player-img {
+    width: 250px;
+    position: relative
+}
+
+.player-info .label {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 0
+}
+
+.player-info #Stats div {
+    font-weight: bolder;
+    line-height: 18px;
+    font-size: 30px
+}
+
+@media (max-width:768px) {
+    #selected-player-info {
+        grid-template-columns: 1fr
+    }
+}
+
+.filter-panel button,
+.filter-section select,
+.filter-section input {
+    background: linear-gradient(45deg, var(--gradient-color-1), var(--gradient-color-2));
+    color: #fff;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    padding: 10px 14px;
+    border-radius: 8px;
+    width: 100%;
+    margin: 5px 0;
+    font-family: Poppins, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: background-color .3s, transform .2s, box-shadow .3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, .1)
+}
+
+.AboveTable {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px
+}
+
+.AboveTable .set {
+    display: flex;
+    align-items: center;
+    gap: 10px
+}
+
+.row-count {
+    font-size: 14px;
+    color: gray;
+    justify-self: end
+}
+
+#rowNumber {
+    margin: 0 5px
+}
+
+.resetAll,
+#filterBtn {
+    background: rgba(255, 255, 255, .2);
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: .5s;
+    font-family: Poppins, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: background-color .3s, transform .2s, box-shadow .3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, .1)
+}
+
+#filterBtn {
+    background: linear-gradient(90deg, var(--gradient-color-1), var(--gradient-color-2));
+    border: none;
+    color: var(--text-clr);
+    font-weight: bold
+}
+
+.filter-panel button:hover,
+.filter-section select:focus,
+.filter-section input:focus {
+    background-color: var(--gradient-color-1);
+    box-shadow: 0 6px 8px rgba(0, 0, 0, .15);
+    transform: scale(1.02);
+    border-color: var(--gradient-color-2);
+    outline: none
+}
+
+.filter-panel {
+    position: fixed;
+    left: -500px;
+    top: 0;
+    width: 350px;
+    height: 100%;
+    background-color: #2b2b2b;
+    padding: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, .3);
+    transition: left .3s ease, background-color .3s ease;
+    z-index: 1000;
+    overflow-y: auto;
+    border-radius: 10px
+}
+
+.filter-panel.active {
+    left: 0
+}
+
+.filter-panel h3 {
+    margin-bottom: 20px;
+    color: #fff;
+    font-size: 1.5em
+}
+
+.filter-section {
+    margin-bottom: 15px
+}
+
+.filter-section label {
+    display: block;
+    margin-bottom: 5px;
+    color: #ddd
+}
+
+.filter-section select,
+.filter-section input {
+    width: 100%;
+    padding: 12px;
+    background-color: #3c3c3c;
+    border: 1px solid #555;
+    color: #fff;
+    border-radius: 5px;
+    appearance: none;
+    background-image: url('data:image/svg+xml;charset=UTF-8,%3Csvg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"%3E%3Cpolyline points="6 9 12 15 18 9"/%3E%3C/svg%3E');
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    background-size: 12px;
+    transition: background-color .3s ease, border-color .3s ease;
+    box-shadow: inset 0 1px 2px rgba(255, 255, 255, .1)
+}
+
+.filter-section select:focus,
+.filter-section input:focus {
+    background-color: #444;
+    border-color: var(--gradient-color-1)
+}
+
+.input-menu {
+    margin-top: 15px
+}
+
+.menu-toggle {
+    background-color: #3c3c3c;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100%;
+    cursor: pointer;
+    transition: background-color .3s, transform .2s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, .1)
+}
+
+.menu-toggle:hover {
+    background-color: var(--gradient-color-1);
+    transform: scale(1.05)
+}
+
+.input-menu-content {
+    display: none;
+    margin-top: 10px
+}
+
+.input-menu-content .filter-section {
+    margin-bottom: 10px
+}
+
+#closeFilter {
+    font-size: 24px;
+    background: rgba(255, 255, 255, .1);
+    color: white;
+    border: none;
+    position: absolute;
+    right: 20px;
+    cursor: pointer;
+    padding: 4px 8px;
+    border-radius: 5px;
+    transition: background-color .3s, transform .2s
+}
+
+#closeFilter:hover {
+    background-color: rgba(255, 255, 255, .2);
+    transform: scale(1.1)
+}
+
+@media (max-width:768px) {
+    .filter-panel {
+        width: 90%;
+        left: -720px
+    }
+
+    .filter-section {
+        margin-bottom: 10px
+    }
+
+    .row-count {
+        font-size: 10px
+    }
+}
+
+.filter-panel::-webkit-scrollbar {
+    width: 8px
+}
+
+.filter-panel::-webkit-scrollbar-track {
+    background: #3c3c3c;
+    border-radius: 8px
+}
+
+.filter-panel::-webkit-scrollbar-thumb {
+    background: linear-gradient(45deg, var(--gradient-color-1), var(--gradient-color-2));
+    border-radius: 8px;
+    border: 2px solid #3c3c3c;
+    transition: background-color .3s
+}
+
+.filter-panel::-webkit-scrollbar-thumb:hover {
+    background-color: var(--gradient-color-1)
+}
+
+.Container {
+    padding: 20px 0
+}
+
+.pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px 0
+}
+
+.pagination button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color .3s
+}
+
+.pagination button:hover {
+    background-color: #0056b3
+}
+
+.pagination button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed
+}
+
+#currentPage {
+    background: rgba(255, 255, 255, .3);
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 15px;
+    font-weight: bold
+}
+
+#team-logo-cell img,
+#league-logo-cell img,
+#flag-cell img {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    vertical-align: middle;
+    background: rgba(255, 255, 255, .2);
+    padding: 10px;
+    border-radius: 10px;
+    object-fit: contain;
+}
+
+.traits-filter-container {
+    background: #3c3c3c;
+    border-radius: 12px;
+    padding: 20px 15px;
+    margin: 20px 0;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, .3);
+    border: 1px solid #4a5568
+}
+
+.traits-filter-container h4 {
+    margin: 0 0 16px 0;
+    font-size: 18px;
+    font-weight: 600;
+    color: #f7fafc
+}
+
+#traits-search {
+    padding: 12px 16px;
+    border: 1px solid #4a5568;
+    border-radius: 8px;
+    font-size: 14px;
+    margin-bottom: 16px;
+    transition: all .3s ease;
+    background: #1a202c;
+    color: #e2e8f0
+}
+
+#traits-search:focus {
+    outline: none;
+    border-color: #667eea;
+    box-shadow: 0 0 0 3px rgba(102, 126, 234, .2)
+}
+
+.traits-checkboxes {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 12px;
+    max-height: 300px;
+    overflow-y: auto;
+    padding: 8px 4px;
+    margin-bottom: 16px
+}
+
+.trait-item {
+    display: flex;
+    align-items: center;
+    padding: 10px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all .2s ease;
+    background: #1a202c;
+    border: 1px solid #4a5568
+}
+
+.trait-item:hover {
+    background: #2d3748;
+    transform: translateY(-2px)
+}
+
+.trait-checkbox-input {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    width: 18px;
+    height: 18px;
+    border: 2px solid #4a5568;
+    border-radius: 4px;
+    margin-right: 12px;
+    position: relative;
+    cursor: pointer;
+    transition: all .2s ease;
+    background-color: #1a202c
+}
+
+.trait-checkbox-input:checked {
+    background-color: #667eea;
+    border-color: #667eea
+}
+
+.trait-checkbox-input:checked::after {
+    content: "";
+    position: absolute;
+    left: 5px;
+    top: 1px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg)
+}
+
+.trait-item label {
+    font-size: 14px;
+    color: #e2e8f0;
+    cursor: pointer;
+    user-select: none;
+    flex-grow: 1
+}
+
+.selected-traits-container h5 {
+    font-size: 15px;
+    margin: 0 0 12px 0;
+    color: #a0aec0;
+    font-weight: 500
+}
+
+.selected-traits {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 8px;
+    border-radius: 8px;
+    background: #1a202c;
+    min-height: 48px
+}
+
+.selected-trait {
+    display: inline-flex;
+    align-items: center;
+    background: #2d3748;
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 13px;
+    color: #e2e8f0;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .1);
+    transition: all .2s ease
+}
+
+.remove-trait {
+    margin-left: 6px;
+    cursor: pointer;
+    color: #a0aec0;
+    font-size: 16px;
+    line-height: 1;
+    transition: all .2s ease;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%
+}
+
+.remove-trait:hover {
+    color: #fc8181;
+    transform: scale(1.1)
+}
+
+.traits-checkboxes::-webkit-scrollbar {
+    width: 8px
+}
+
+.traits-checkboxes::-webkit-scrollbar-track {
+    background: #1a202c;
+    border-radius: 4px
+}
+
+.traits-checkboxes::-webkit-scrollbar-thumb {
+    background: #4a5568;
+    border-radius: 4px
+}
+
+.traits-checkboxes::-webkit-scrollbar-thumb:hover {
+    background: #718096
+}
